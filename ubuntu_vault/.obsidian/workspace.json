@@ -335,6 +335,7 @@
               {
                 "id": "a57ca7d2654c97cb",
                 "type": "tabs",
+                "dimension": 55.32407407407407,
                 "children": [
                   {
                     "id": "bbc2f4bfbe175639",
@@ -351,6 +352,7 @@
               {
                 "id": "d989ef5b2a14e9d5",
                 "type": "tabs",
+                "dimension": 44.675925925925924,
                 "children": [
                   {
                     "id": "f00e76106196c4dd",
@@ -504,8 +506,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
             }
           },
           {
@@ -514,8 +516,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
             }
           },
           {
@@ -528,6 +530,16 @@
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
+            }
+          },
+          {
+            "id": "113d4dcef9b49d8e",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -547,15 +559,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb4cf0e2c7d373c3",
+  "active": "bbc2f4bfbe175639",
   "lastOpenFiles": [
+    "1 - Specific Notes/Daily Plan/2025-12-08 Prepare for Admissions and Scholarships.md",
     "1 - Specific Notes/Daily Plan/2025-12-03 IOT and Application - Do the homework.md",
     "3 - Zettenkasten/C - Main notes/FPGA.md",
     "3 - Zettenkasten/C - Main notes/VERILOG CODING STANDARD.md",
@@ -588,7 +602,6 @@
     "4 - Sources/Pasted image 20251128182924.png",
     "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE ABOUT THE DATA IETLS WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/How to describe time in the sentence of WRITING TASK 1.md",
-    "3 - Zettenkasten/C - Main notes/Four Marking Criteria for Writing Task 1.md",
     "4 - Sources/Pasted image 20251128180244.png",
     "4 - Sources/Pasted image 20251128180215.png",
     "4 - Sources/Pasted image 20251128180018.png",
