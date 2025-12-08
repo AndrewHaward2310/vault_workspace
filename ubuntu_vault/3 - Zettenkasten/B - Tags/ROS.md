@@ -1,0 +1,1 @@
+ROS (Robot Operating System) is an open-source **framework** for building robot software. It isn’t an operating system; it’s a set of middleware, libraries, and tools that help your programs on a robot communicate, coordinate, and be reusable.

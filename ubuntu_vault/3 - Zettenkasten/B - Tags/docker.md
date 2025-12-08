@@ -1,0 +1,1 @@
+Docker is a platform for building, sharing, and running applications in lightweight, isolated environments called **containers**. Containers package your app with everything it needs (code, libraries, OS packages) so it runs the same on any machine.
