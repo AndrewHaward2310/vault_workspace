@@ -1,0 +1,11 @@
+___
+📆 2025-12-10 01:23
+
+🔗 Permalink: [[IELTS]] [[ThanhLoan]] [[WRITINGTASK1]]
+___
+
+HOW TO USE MULTIPLE NUMBERS AND EQUAL COMPARISON IN IELTS WRITING TASK 1
+
+![[Pasted image 20251210012549.png]]
+
+![[Pasted image 20251210012913.png]]

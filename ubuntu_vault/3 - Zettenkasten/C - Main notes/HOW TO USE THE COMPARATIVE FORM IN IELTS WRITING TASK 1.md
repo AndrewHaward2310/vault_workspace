@@ -24,3 +24,4 @@ Ability to do job better is the impetus of 15% MBA graduates, which is 3% higher
 
 Ability to do job better is a more common driving force than personal development in the figure examining the reasons for choosing MBA degrees, at 15% for the former and 12% for the later
 
+15% of interviewees deem ability to do job better to be their reasons for choosing MBA degree, higher than the percentage of MBA graduates for the reasons of personal development by 3%  
