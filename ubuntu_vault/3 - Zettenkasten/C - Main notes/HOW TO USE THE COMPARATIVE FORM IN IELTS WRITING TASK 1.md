@@ -18,4 +18,9 @@ The proportion of interviews deeming ability to do job better to be the major re
 
 More MBA graduates choose this degree to improve ability to do job  than for personal development , constituting 15% and 12% respectively
 
-The proportion 
+The proportion of people who get MBA degrees to do jobs better is marginally higher than that of people whose stimulus is to develop themselves, at 15% and 12% respectively
+
+Ability to do job better is the impetus of 15% MBA graduates, which is 3% higher than the figure for personal development
+
+Ability to do job better is a more common driving force than personal development in the figure examining the reasons for choosing MBA degrees, at 15% for the former and 12% for the later
+
