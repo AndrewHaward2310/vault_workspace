@@ -13,132 +13,12 @@
             "dimension": 57.28346456692913,
             "children": [
               {
-                "id": "f06c5eeff81fc397",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1 - Specific Notes/Daily Plan/2025-11-23 IELTS Writing - How to create subject in the sentence in IELTS WRITING TASK 1.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-11-23 IELTS Writing - How to create subject in the sentence in IELTS WRITING TASK 1"
-                }
-              },
-              {
-                "id": "0623bd86052df90d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/Vocabulary for describing trends.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vocabulary for describing trends"
-                }
-              },
-              {
-                "id": "31514ebac9de65ac",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1 - Specific Notes/Daily Plan/2025-11-28 IELTS WRITING 1.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-11-28 IELTS WRITING 1"
-                }
-              },
-              {
-                "id": "0e24d46360e904f0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE ABOUT THE DATA IETLS WRITING TASK 1.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "HOW TO DESCRIBE ABOUT THE DATA IETLS WRITING TASK 1"
-                }
-              },
-              {
-                "id": "393eb88207405f26",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 - Indexes/WRITINGTASK1.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "WRITINGTASK1"
-                }
-              },
-              {
                 "id": "890f654d00d00f52",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/HOW TO USE THE TENSE IN WRITING TASK 1.md",
+                    "file": "3 - Zettenkasten/C - Main notes/HOW TO USE THE SUPERLATIVE FORM IN IELTS WRITING TASK 1.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -153,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "HOW TO USE THE TENSE IN WRITING TASK 1"
+                  "title": "HOW TO USE THE SUPERLATIVE FORM IN IELTS WRITING TASK 1"
                 }
               },
               {
@@ -258,7 +138,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1 - Specific Notes/Daily Plan/2025-12-08 Prepare and write article related Mir project.md",
+                    "file": "3 - Zettenkasten/C - Main notes/HOW TO USE THE SUPERLATIVE FORM IN IELTS WRITING TASK 1.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -273,7 +153,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "2025-12-08 Prepare and write article related Mir project"
+                  "title": "HOW TO USE THE SUPERLATIVE FORM IN IELTS WRITING TASK 1"
                 }
               },
               {
@@ -324,8 +204,7 @@
                   "title": "FPGA"
                 }
               }
-            ],
-            "currentTab": 10
+            ]
           },
           {
             "id": "e66f9596f8ae4068",
@@ -567,38 +446,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb4cf0e2c7d373c3",
+  "active": "890f654d00d00f52",
   "lastOpenFiles": [
+    "3 - Zettenkasten/C - Main notes/HOW TO USE THE LINKING WORDS IN IETLS WRITING TASK 1.md",
+    "3 - Zettenkasten/C - Main notes/HOW TO USE THE SUPERLATIVE FORM IN IELTS WRITING TASK 1.md",
+    "3 - Zettenkasten/A - Templates/Summary work.md",
+    "3 - Zettenkasten/A - Templates/Index Note.md",
+    "3 - Zettenkasten/A - Templates/Full Note.md",
+    "3 - Zettenkasten/C - Main notes/HOW TO USE THE TENSE IN WRITING TASK 1.md",
+    "1 - Specific Notes/Daily Plan/2025-11-28 IELTS WRITING 1.md",
+    "3 - Zettenkasten/C - Main notes/VERILOG CODING STANDARD.md",
+    "3 - Zettenkasten/C - Main notes/FPGA.md",
+    "2 - Indexes/WRITINGTASK1.md",
+    "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE ABOUT THE DATA IETLS WRITING TASK 1.md",
+    "3 - Zettenkasten/C - Main notes/Vocabulary for describing trends.md",
+    "1 - Specific Notes/Daily Plan/2025-12-08 Prepare and write article related Mir project.md",
     "1 - Specific Notes/Daily Plan/2025-12-09 AI projects .md",
     "1 - Specific Notes/Daily Plan/2025-12-09 IELTS WRITING 1.md",
     "1 - Specific Notes/Daily Plan/2025-12-09 IELTS LISTENING.md",
     "1 - Specific Notes/Daily Plan/2025-12-09 IETLS Reading.md",
     "1 - Specific Notes/Daily Plan/2025-12-08 Prepare for Admissions and Scholarships.md",
-    "1 - Specific Notes/Daily Plan/2025-12-08 Prepare and write article related Mir project.md",
     "1 - Specific Notes/Daily Plan/2025-12-08 Writing IELTS 1.md",
-    "3 - Zettenkasten/C - Main notes/VERILOG CODING STANDARD.md",
     "1 - Specific Notes/Daily Plan/2025-12-03 IOT and Application - Do the homework.md",
-    "3 - Zettenkasten/C - Main notes/FPGA.md",
     "1 - Specific Notes/Daily Plan/2025-12-03 FPGA Desgin Elements - Verilog Coding Standard.md",
     "3 - Zettenkasten/C - Main notes/VERI.md",
     "3 - Zettenkasten/B - Tags/VERILOG.md",
-    "3 - Zettenkasten/C - Main notes/Vocabulary for describing trends.md",
-    "3 - Zettenkasten/C - Main notes/HOW TO USE THE TENSE IN WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/Pasted image 20251130233628.png",
     "3 - Zettenkasten/C - Main notes/ROS TOPIC.md",
     "3 - Zettenkasten/C - Main notes/Use these 10 Obsidian tips to level up your note taking productivity.md",
     "3 - Zettenkasten/B - Tags/CNN.md",
-    "3 - Zettenkasten/C - Main notes/HOW TO USE THE LINKING WORDS IN IETLS WRITING TASK 1.md",
-    "1 - Specific Notes/Daily Plan/2025-12-03 IELTS WRITING.md",
-    "1 - Specific Notes/Daily Plan/2025-12-03 IELTS Reading .md",
     "4 - Sources/Pasted image 20251130233908.png",
     "4 - Sources/Pasted image 20251130233818.png",
     "4 - Sources/Pasted image 20251130233659.png",
-    "1 - Specific Notes/Daily Plan/2025-11-30 IELTS WRITING 1.md",
-    "2 - Indexes/WRITINGTASK1.md",
-    "3 - Zettenkasten/C - Main notes/How to identify subject in the sentence in IELTS WRITING TASK 1.md",
-    "3 - Zettenkasten/C - Main notes/How to install mir_100 with docker.md",
-    "2 - Indexes/IELTS.md",
     "4 - Sources/Pasted image 20251130232626.png",
     "4 - Sources/Pasted image 20251128194708.png",
     "4 - Sources/Pasted image 20251128182924.png",
