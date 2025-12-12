@@ -10,4 +10,4 @@ type: single
 # 1. Rewrite article:
 - in layer 1 - write clear about dataset, policies
 - in layer 2 - write clear about dataset, policies 
-  
+# 2. Write CV 
