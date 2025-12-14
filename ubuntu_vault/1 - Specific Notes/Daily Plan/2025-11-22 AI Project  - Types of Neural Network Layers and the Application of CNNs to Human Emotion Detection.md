@@ -76,7 +76,7 @@ tags:
 	- ReLU can cause the phenomenon of dead neurons. If the input is a negative input value, the output will always be 0. If a neuron continuously receives a negative input value, it can die, which means not allowed to update its weights and not involved in the training process
 - Using:
 	- it appear right after the linear layers + normalization layers 
-## 5. Normalization layer
+## 5. Normalization layer 
 - it is a type of layer in the neural network that is responsible for normalizing the input values to keep the values in a certain bin
 - it is especially useful for stabilizing the training process and speeding up the convergence of the model
 - it performs transformations on the data to ensure that the values are evenly distributed and avoid the vanishing gradient as the exploring gradient 
