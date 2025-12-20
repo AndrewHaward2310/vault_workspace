@@ -51,6 +51,10 @@ ___
 		- Strategy: Look at the words that are on the diagram, plan, or map. Use these words to focus your listening.
 		- Tip: Listen for directions or locations words. This will help you identify specific spots on the plan or map. Listen carefully for the starting point so you can follow the conversation 
 	- Give a short answer
+		- Strategy: Circle the question and the key word to determine the kind of answer you need to give
+		- Tip: The order of answers follows the talk
+		=> If you see the question word who, you will listen for a name or an occupation. You will listen to something that refers to a person. Study the following lists to learn the type of answer required by a question word.
+		- ![[Pasted image 20251221000309.png]]
 - **Section 3:** Discussion
 	- Choose Answers from Multiple Choices 
 	- Label a Diagram
