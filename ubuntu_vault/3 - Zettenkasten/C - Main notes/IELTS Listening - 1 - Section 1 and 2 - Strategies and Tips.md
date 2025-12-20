@@ -63,6 +63,8 @@ ___
 	- Classify Words or Statements 
 	- Complete Notes
 	- Complete a Flowchart
+# 25 Listening Strategies
 
+On the following website, you learn about the most essential strategies for the listening part of the test. You will learn 25 important tips and strategies that can help you boost your score and perform better while taking the IELTS test. Read the strategies carefully and choose at least five strategies that you can apply while practicing for the upcoming test.
 
-# References
+[https://www.ieltsbuddy.com/ielts-listening-tips.htm](https://www.ieltsbuddy.com/ielts-listening-tips.html)
