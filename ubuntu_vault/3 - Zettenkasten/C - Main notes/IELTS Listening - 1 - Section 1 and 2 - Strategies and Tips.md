@@ -27,9 +27,13 @@ ___
 	- Strategy: Use the questions to focus your attention on the key words as you listen. Circle the key words
 	- Tip: Key words are often stressed. Listen for words that are stressed
 - Listening for Numbers
+	- Strategy: Be familiar with the different ways to express numbers
+	- Tip: Make a note whenever you hear a number. Note that in a long number the intonation rises and then falls at the last number 
+	=> whether the number is an identification number, a date, or a price, there are variety of ways the number can be said
 ## Specific:
 - **Section 1:** Conversation
 	- Complete a Form
+		- Strategy: Pay attention to the words before and after the gap. Make sure to listen for the Name and Address which appear before the gap
 	- Complete a Table
 	- Choose answers from a List
 - **Section 2:** Talk
