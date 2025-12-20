@@ -45,7 +45,11 @@ ___
 	- Choose answers from a List
 - **Section 2:** Talk
 	- Complete a Sentences
+		- Strategy: Circle the key words and pay attention to the words around the gaps. Note the grammatical form of the words around the gap
+		- Tip: Determine what kind of words is needed to complete the gap: a noun, modifier, verb or prepositions?
 	- Label a diagram, Plan, or Map
+		- Strategy: Look at the words that are on the diagram, plan, or map. Use these words to focus your listening.
+		- Tip: Listen for directions or locations words. This will help you identify specific spots on the plan or map. Listen carefully for the starting point so you can follow the conversation 
 	- Give a short answer
 - **Section 3:** Discussion
 	- Choose Answers from Multiple Choices 
