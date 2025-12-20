@@ -34,7 +34,14 @@ ___
 - **Section 1:** Conversation
 	- Complete a Form
 		- Strategy: Pay attention to the words before and after the gap. Make sure to listen for the Name and Address which appear before the gap
+		- Tips: 
+			- Identify how many words you are allowed to write down
+			- Highlight the keywords
+			- Read and predict what you will hear
 	- Complete a Table
+		- Strategy: Circle the key words and paraphrase them
+		- Tip: If you make notes, write the notes in a column for each speaker
+		=> Paraphrasing: Will focus your attention on the subject of the conversation. The speakers might not use the extract same words in the conversation. You should listen for words or phrases with similar meanings
 	- Choose answers from a List
 - **Section 2:** Talk
 	- Complete a Sentences
