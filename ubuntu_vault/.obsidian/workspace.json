@@ -138,7 +138,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/Types of Deep Learning Architectures 1.md",
+                    "file": "3 - Zettenkasten/C - Main notes/Embedded Systems - Overview.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -153,7 +153,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Types of Deep Learning Architectures 1"
+                  "title": "Embedded Systems - Overview"
                 }
               }
             ],
@@ -399,8 +399,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f00e76106196c4dd",
+  "active": "a83b30cdabf926c9",
   "lastOpenFiles": [
+    "2 - Indexes/C LANGUAGE.md",
+    "2 - Indexes/EMBEDDED.md",
+    "2 - Indexes/FPGA.md",
+    "3 - Zettenkasten/C - Main notes/Embedded Systems - Overview.md",
     "3 - Zettenkasten/C - Main notes/Types of Deep Learning Architectures 1.md",
     "3 - Zettenkasten/C - Main notes/Types of Neural Network Layers and the Application of CNNs to Human Emotion Detection 1.md",
     "1 - Specific Notes/Daily Plan/2025-11-22 AI Project  - Types of Neural Network Layers and the Application of CNNs to Human Emotion Detection.md",
@@ -425,17 +429,13 @@
     "1 - Specific Notes/Daily Plan/2025-12-12 Prepare for Admissions and Scholarships - Write CV + SOP + Rewrite article.md",
     "1 - Specific Notes/Daily Plan/2025-12-12 IELTS Reading + Vocabulary.md",
     "3 - Zettenkasten/C - Main notes/HOW TO USE MULTIPLE NUMBERS AND EQUAL COMPARISON IN IELTS WRITING TASK 1.md",
-    "1 - Specific Notes/Daily Plan/2025-12-12 Learn Listening + Speaking.md",
     "Pasted image 20251210015649.png",
     "Pasted image 20251210013139.png",
     "Pasted image 20251210012913.png",
     "Pasted image 20251210012549.png",
-    "3 - Zettenkasten/C - Main notes/HOW TO USE THE COMPARATIVE FORM IN IELTS WRITING TASK 1.md",
     "Pasted image 20251210005341.png",
     "Pasted image 20251210005136.png",
     "Pasted image 20251210004857.png",
-    "3 - Zettenkasten/C - Main notes/HOW TO USE THE SUPERLATIVE FORM IN IELTS WRITING TASK 1.md",
-    "1 - Specific Notes/Daily Plan/2025-12-03 FPGA Desgin Elements - Verilog Coding Standard.md",
     "Pasted image 20251210004015.png",
     "1 - Specific Notes/Daily Plan",
     "Untitled.canvas",
