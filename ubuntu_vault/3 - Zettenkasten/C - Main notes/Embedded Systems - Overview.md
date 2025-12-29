@@ -20,3 +20,11 @@ ___
 		- Design metrics are subject to restrictions in all computing systems, but embedded systems may have very strict restrictions.
 		- Design metrics quantify the attributes of an implementation, including its price, size, power, and effectiveness.
 		- It needs to be small enough to fit on a single chip, operate quickly enough to process data instantly, and use as little power as possible to prolong battery life.
+	- Reactive and real-time:
+		- A lot of embedded systems have to compute specific outcomes instantly in real-time and constantly respond to changes in their surroundings
+		- Take a look at an automobile cruise control unit example
+- Advantages:
+	- Simple to Tailor
+	- Minimal power use 
+	- Low Price
+	- Improved output
