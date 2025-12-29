@@ -14,3 +14,9 @@ ___
 	- Hardware is present
 	- Application are available for it 
 	- It has a Real Time Operating System (RTOS) that manages the application software and offers a way to schedule and allow the processor to execute a process by adhering to a latency control plan 
+- Features:
+	- Single-functioned: An Embedded system typically carries out a single, specialized task once. As an illustration, a pager always does its job as a pager 
+	- Tiny confined:
+		- Design metrics are subject to restrictions in all computing systems, but embedded systems may have very strict restrictions.
+		- Design metrics quantify the attributes of an implementation, including its price, size, power, and effectiveness.
+		- It needs to be small enough to fit on a single chip, operate quickly enough to process data instantly, and use as little power as possible to prolong battery life.
