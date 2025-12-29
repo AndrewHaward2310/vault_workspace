@@ -28,3 +28,6 @@ ___
 	- Minimal power use 
 	- Low Price
 	- Improved output
+- Disadvantages:
+	- High level of development
+	- longer time to market
