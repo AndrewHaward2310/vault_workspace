@@ -27,4 +27,7 @@ ___
 	- C allows direct access to hardware registers, enabling precise control over peripherals. 
 	- This direct interaction is facilitated through memory-mapped I/O, where hardware registers are accessed as if they were regular memory locations
 - Realtime programming: Many ES require real-time responsiveness, where tasks must be completed within strict timing constraints
-	- 
+	- C' deterministic behavior and low-level control make it suitable for real-time applications
+	- Techniques like interrupt handling and task scheduling are commonly used to meet real-time requirements
+- Portability: While ES are often designed for specific hardware platforms, portability remains essential for code reuse and maintainability 
+	-  C' standardized syntax and well-defined behavior make it relatively portable across different architecture and compilers  
