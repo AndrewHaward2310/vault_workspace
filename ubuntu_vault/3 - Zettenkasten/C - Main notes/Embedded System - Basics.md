@@ -11,4 +11,9 @@ ___
 - Embedded systems are specialized computers designed to perform dedicated functions within larger systems
 - One of the most popular programming languages for embedded systems development is C, renowned for its efficiency, versatility, and close relationship with hardware
 # 2. Understanding Embedded Systems
-- focus on specific functions, often in real-time environment 
+- focus on specific functions, often in real-time environments with resource limitations such as memory, processing power, and energy consumption
+- Classified into 2 categories
+	- Standalone: independently, executing predefined tasks without external communication
+	- networked/embedded systems: connect to other devices or networks to exchange data, enabling functionalities like remote monitoring and control
+# 3. The role of C in Embedding Systems
+- C is widely preferred for ES Development due to: its efficiency, low-level access to hardware, and extensive toolchain support
