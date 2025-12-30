@@ -15,7 +15,13 @@ ___
 - Classified into 2 categories
 	- Standalone: independently, executing predefined tasks without external communication
 	- networked/embedded systems: connect to other devices or networks to exchange data, enabling functionalities like remote monitoring and control
-# 3. The role of C in Embedding Systems
+# 3. The role of C in Embedded Systems
 - C is widely preferred for ES Development due to: its efficiency, low-level access to hardware, and extensive toolchain support
 - its syntax allows for precise control over memory and hardware resources, critical for embedded applications where resource utilization is paramount
 - optimize code for performance and size with C's close-to-the-hardware nature, crucial in resource-constrained environments
+# 4. Key concepts in embedded C Programming
+- Memory Management: ES often have limited memory resources
+	- C provides mechanisms like pointer and dynamic memory allocation to manage memory efficiently 
+	- Careful memory management is essential to avoid issues like memory leaks and buffer overflows, which can lead to systems instability or security vulnerabilities
+- Peripheral Access: ES 
+	- 
