@@ -35,4 +35,7 @@ ___
 # 5. Embedded C Programming Best Practices 
 - To ensure the reliability, efficiency, and maintainability of embedded systems code, developers should adhere to best practices:
 	- Modularity: Divide code into modular components with well-defined interfaces to promote code reuse and facilitate maintenance
-	- Optimization: Optimize code for performance, size, and power consumption without sacrificing readability or reliability. Profile code to identify bottle
+	- Optimization: Optimize code for performance, size, and power consumption without sacrificing readability or reliability. Profile code to identify bottlenecks and optimize critical sections
+	- Error Handling: Implement robust error handling mechanisms to gracefully recover from unexpected conditions and prevent system failures
+	- Documentation: Document code thoroughly, including comments, function descriptions, and usage examples, to aid understanding and future modifications
+	- Testing: Conduct rigorous testing, including unit tests, integration tests, and system tests, to verify functionality, performance, and reliability under various conditions
