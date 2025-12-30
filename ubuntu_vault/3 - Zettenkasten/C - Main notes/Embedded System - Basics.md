@@ -17,3 +17,5 @@ ___
 	- networked/embedded systems: connect to other devices or networks to exchange data, enabling functionalities like remote monitoring and control
 # 3. The role of C in Embedding Systems
 - C is widely preferred for ES Development due to: its efficiency, low-level access to hardware, and extensive toolchain support
+- its syntax allows for precise control over memory and hardware resources, critical for embedded applications where resource utilization is paramount
+- optimize code for performance and size with C's close-to-the-hardware nature, crucial in resource-constrained environments
