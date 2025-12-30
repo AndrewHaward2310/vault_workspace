@@ -23,5 +23,8 @@ ___
 - Memory Management: ES often have limited memory resources
 	- C provides mechanisms like pointer and dynamic memory allocation to manage memory efficiently 
 	- Careful memory management is essential to avoid issues like memory leaks and buffer overflows, which can lead to systems instability or security vulnerabilities
-- Peripheral Access: ES 
+- Peripheral Access: ES interact with various peripherals such as sensors, actuators, and communication interfaces:
+	- C allows direct access to hardware registers, enabling precise control over peripherals. 
+	- This direct interaction is facilitated through memory-mapped I/O, where hardware registers are accessed as if they were regular memory locations
+- Realtime programming: Many ES require real-time responsiveness, where tasks must be completed within strict timing constraints
 	- 
