@@ -22,7 +22,7 @@ ___
 	- Random-Access Memory: runtime data storage
 	- Non-Volatile Memory or Electrically Erasable Programmable Read-Only Memory (EEPROM): storing persistent data that survives power cycles
 ### c. Peripherals:
-
+- they are external devices or components connected to microcontroller or microprocessor to enable input, output, and communication with the external world
 # 2. Parts of Software Components:
 - Editor
 - Emulator 
