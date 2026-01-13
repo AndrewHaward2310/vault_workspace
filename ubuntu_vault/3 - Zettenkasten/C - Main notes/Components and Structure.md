@@ -43,7 +43,13 @@ e. Clock Source:
 - they are software modules that interface with hardware peripherals, abstracting their functionality and providing a standardized interface for higher-level software layers 
 - They enable the operating system or application software to control and communicate with hardware components without needing to understand their intricate details
 ### c. Operating System (OS):
-- ES utilize real-time operating systems (RTOS) or lightweight kernels to manage system resources, schedule tasks, and provide service 
-
+- ES utilize real-time operating systems (RTOS) or lightweight kernels to manage system resources, schedule tasks, and provide service like inter-process communication, memory management, and device drivers.
+- RTOSes offer deterministic behavior, ensuring timely execution of critical tasks in real-time applications
+### d. Application Software:
+- it comprises the programs and algorithms specific to the embedded system's functionality. 
+- It interacts with device drivers and OS services to perform tasks such as data processing, control algorithms, user interface management, and communication with external devices or networks 
+# Structure of ES:
+It can vary widely depending on its complexity, functionality, and design requirements. However, most ES exhibit a common architectural framework consisting of several layers:
+### a. Hardware Abstraction Layer (HAL): 
 ![[Pasted image 20251230171032.png]]
 # References
