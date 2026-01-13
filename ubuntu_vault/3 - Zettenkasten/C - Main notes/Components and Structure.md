@@ -59,6 +59,9 @@ It can vary widely depending on its complexity, functionality, and design requir
 ### c. Middleware and Libraries: 
 - Middleware components and software libraries provide higher-level functionality and services to application software
 - They may include communication protocols (TCP/IP, MQTT, etc.), file systems, graphical user interface (GUI) frameworks, signal processing algorithms, and data encryption/decryption routines
-### d. Application Layer
+### d. Application Layer:
+- The application layer encompasses the software components responsible for implementing the system's specific functionality 
+- This includes algorithms, control logic, user interfaces, and any custom software modules tailored to meet the application's requirements. 
+- Application software interacts with lower-level layer through well-defined interfaces provided by the OS, middleware, or hardware abstraction layer
 ![[Pasted image 20251230171032.png]]
 # References
