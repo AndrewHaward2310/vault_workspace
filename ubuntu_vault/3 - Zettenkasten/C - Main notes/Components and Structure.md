@@ -30,13 +30,14 @@ ___
 	- general-purpose input/output (GPIO) pins
 	- various sensors and actuators
 ### d. Power Supply:
-- 
+- ES require a stable and reliable power supply to operate correctly
+- Power management circuits regulate voltage levels, manage power consumption, and provide protection against electrical anomalies such as overvoltage, undervoltage, and power surges
+e. Clock Source:
+- A clock source generates timing signals required for synchronizing the operations of the microcontroller or microprocessor and other system components 
+- it ensures that tasks are executed at precise interval and enables the system to meet timing requirements, especially in real-time applications
 # 2. Parts of Software Components:
-- Editor
-- Emulator 
-- Assembler
-- Compiler
-- Linker 
-- Debugger
+### a. Firmware:
+- it is low-level software stored in ROM or flash memory, responsible for booting the system and initializing hardware peripherals 
+
 ![[Pasted image 20251230171032.png]]
 # References
