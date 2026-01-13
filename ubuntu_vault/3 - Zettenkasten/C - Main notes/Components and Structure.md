@@ -11,9 +11,17 @@ ___
 ## 1. Important Components of Hardware:
 ### a. Microcontroller or Microprocessor: 
 - At the heart of every ES, responsible for executing for program instructions and controlling system operations.
-- Microcontroller: 
-	- it integrated circuits containing a CPU, memory, input/output peripherals, and other essential components on a single chip 
-	=> suitable for embedded applications requiring compactness and low power  
+- Microcontrollers: 
+	- they are integrated circuits containing a CPU, memory, input/output peripherals, and other essential components on a single chip 
+	=> suitable for embedded applications requiring compactness and low power consumption
+- Microprocessors:
+	- They are general-purpose CPUs used in more complex embedded systems with higher computational requirements
+### b. Memory:
+- ES utilize various types of memory to store program code, data, and system configurations:
+	- Read-Only Memory (ROM): storing firmware or boot code
+	- Random-Access Memory: runtime data storage
+	- Non-Volatile Memory or Electrically Erasable Programmable Read-Only Memory (EEPROM): storing persistent data that survives power cycles
+### c. Peripherals:
 
 # 2. Parts of Software Components:
 - Editor
