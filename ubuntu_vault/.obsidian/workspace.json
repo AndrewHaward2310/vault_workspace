@@ -138,6 +138,30 @@
                 "state": {
                   "type": "markdown",
                   "state": {
+                    "file": "1 - Specific Notes/Daily Plan/2026-01-13 Embedded Systems using C.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-01-13 Embedded Systems using C"
+                }
+              },
+              {
+                "id": "37a782d9ad11bcc3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
                     "file": "3 - Zettenkasten/C - Main notes/Components and Structure.md",
                     "mode": "source",
                     "source": false,
@@ -157,7 +181,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 6
           },
           {
             "id": "e66f9596f8ae4068",
@@ -195,21 +219,8 @@
                       "icon": "lucide-git-fork",
                       "title": "Graph view"
                     }
-                  },
-                  {
-                    "id": "7faf41baeefc63e8",
-                    "type": "leaf",
-                    "state": {
-                      "type": "release-notes",
-                      "state": {
-                        "currentVersion": "1.11.4"
-                      },
-                      "icon": "lucide-book-up",
-                      "title": "Release Notes 1.11.4"
-                    }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "horizontal"
@@ -412,14 +423,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7faf41baeefc63e8",
+  "active": "37a782d9ad11bcc3",
   "lastOpenFiles": [
+    "1 - Specific Notes/Daily Plan/2026-01-13 Embedded Systems using C.md",
     "3 - Zettenkasten/C - Main notes/Components and Structure.md",
-    "Pasted image 20251230171032.png",
+    "2 - Indexes/EMBEDDED.md",
+    "2 - Indexes/C LANGUAGE.md",
     "3 - Zettenkasten/C - Main notes/Embedded System - Basics.md",
     "3 - Zettenkasten/C - Main notes/Embedded Systems - Overview.md",
-    "2 - Indexes/C LANGUAGE.md",
-    "2 - Indexes/EMBEDDED.md",
+    "Pasted image 20251230171032.png",
     "2 - Indexes/FPGA.md",
     "3 - Zettenkasten/C - Main notes/Types of Deep Learning Architectures 1.md",
     "3 - Zettenkasten/C - Main notes/Types of Neural Network Layers and the Application of CNNs to Human Emotion Detection 1.md",

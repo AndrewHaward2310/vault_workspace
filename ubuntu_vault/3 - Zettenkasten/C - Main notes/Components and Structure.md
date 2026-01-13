@@ -5,6 +5,8 @@ ___
 ___
 
 # Components and Structure
+- ES are specialized computing systems designed to perform specific functions within larger systems
+- it consists of various hardware and software 
 
 # 1. Important Components of Hardware:
 - Power Supply
