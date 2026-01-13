@@ -53,6 +53,12 @@ It can vary widely depending on its complexity, functionality, and design requir
 ### a. Hardware Abstraction Layer (HAL): 
 - it provides a standardized interface between the hardware and software layers, abstracting hardware-specific details and enabling portability across different hardware platforms 
 - It typically includes device drivers, interrupt handlers, and low-level peripheral access functions
-### b. Operating s
+### b. Operating System Kernel:
+- In systems employing an operating system, the kernel serves as the core component responsible for managing system resources, scheduling tasks, and providing essential services to applications.
+- Real-time kernels prioritize tasks based on their deadlines and execution requirements, ensuring timely response to critical events.
+### c. Middleware and Libraries: 
+- Middleware components and software libraries provide higher-level functionality and services to application software
+- They may include communication protocols (TCP/IP, MQTT, etc.), file systems, graphical user interface (GUI) frameworks, signal processing algorithms, and data encryption/decryption routines
+### d. Application Layer
 ![[Pasted image 20251230171032.png]]
 # References
