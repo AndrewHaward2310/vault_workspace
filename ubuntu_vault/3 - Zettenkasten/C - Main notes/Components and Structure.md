@@ -51,5 +51,8 @@ e. Clock Source:
 # Structure of ES:
 It can vary widely depending on its complexity, functionality, and design requirements. However, most ES exhibit a common architectural framework consisting of several layers:
 ### a. Hardware Abstraction Layer (HAL): 
+- it provides a standardized interface between the hardware and software layers, abstracting hardware-specific details and enabling portability across different hardware platforms 
+- It typically includes device drivers, interrupt handlers, and low-level peripheral access functions
+### b. Operating s
 ![[Pasted image 20251230171032.png]]
 # References
