@@ -23,6 +23,14 @@ ___
 	- Non-Volatile Memory or Electrically Erasable Programmable Read-Only Memory (EEPROM): storing persistent data that survives power cycles
 ### c. Peripherals:
 - they are external devices or components connected to microcontroller or microprocessor to enable input, output, and communication with the external world
+	- Analog-to-digital converters (ADC)
+	- Digital-to-analog converters (DAC)
+	- timers
+	- serial communication interfaces (UART, SPI, I2C)
+	- general-purpose input/output (GPIO) pins
+	- various sensors and actuators
+### d. Power Supply:
+- 
 # 2. Parts of Software Components:
 - Editor
 - Emulator 
