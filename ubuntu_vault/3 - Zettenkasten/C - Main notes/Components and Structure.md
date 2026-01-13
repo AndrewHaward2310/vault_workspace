@@ -39,7 +39,8 @@ e. Clock Source:
 ### a. Firmware:
 - it is low-level software stored in ROM or flash memory, responsible for booting the system and initializing hardware peripherals 
 - It typically includes a bootloader for loading the main application code from external storage or secondary memory into RAM
-### b. 
+### b. Device Drivers:
+- they are software modules that interface with hardware 
 
 ![[Pasted image 20251230171032.png]]
 # References
