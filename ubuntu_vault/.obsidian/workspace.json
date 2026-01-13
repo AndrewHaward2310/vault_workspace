@@ -195,8 +195,21 @@
                       "icon": "lucide-git-fork",
                       "title": "Graph view"
                     }
+                  },
+                  {
+                    "id": "7faf41baeefc63e8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "release-notes",
+                      "state": {
+                        "currentVersion": "1.11.4"
+                      },
+                      "icon": "lucide-book-up",
+                      "title": "Release Notes 1.11.4"
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "horizontal"
@@ -399,11 +412,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a83b30cdabf926c9",
+  "active": "7faf41baeefc63e8",
   "lastOpenFiles": [
+    "3 - Zettenkasten/C - Main notes/Components and Structure.md",
     "Pasted image 20251230171032.png",
     "3 - Zettenkasten/C - Main notes/Embedded System - Basics.md",
-    "3 - Zettenkasten/C - Main notes/Components and Structure.md",
     "3 - Zettenkasten/C - Main notes/Embedded Systems - Overview.md",
     "2 - Indexes/C LANGUAGE.md",
     "2 - Indexes/EMBEDDED.md",
@@ -436,7 +449,6 @@
     "Pasted image 20251210005341.png",
     "Pasted image 20251210005136.png",
     "Pasted image 20251210004857.png",
-    "Pasted image 20251210004015.png",
     "1 - Specific Notes/Daily Plan",
     "Untitled.canvas",
     "3 - Zettenkasten/C - Main notes/Untitled.base",
