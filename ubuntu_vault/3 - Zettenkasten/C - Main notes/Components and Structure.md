@@ -41,7 +41,9 @@ e. Clock Source:
 - It typically includes a bootloader for loading the main application code from external storage or secondary memory into RAM
 ### b. Device Drivers:
 - they are software modules that interface with hardware peripherals, abstracting their functionality and providing a standardized interface for higher-level software layers 
-- 
+- They enable the operating system or application software to control and communicate with hardware components without needing to understand their intricate details
+### c. Operating System (OS):
+- ES utilize real-time operating systems (RTOS) or lightweight kernels to manage system resources, schedule tasks, and provide service 
 
 ![[Pasted image 20251230171032.png]]
 # References
