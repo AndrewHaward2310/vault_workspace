@@ -38,7 +38,8 @@ e. Clock Source:
 # 2. Parts of Software Components:
 ### a. Firmware:
 - it is low-level software stored in ROM or flash memory, responsible for booting the system and initializing hardware peripherals 
-- It typically includes a bootloader 
+- It typically includes a bootloader for loading the main application code from external storage or secondary memory into RAM
+### b. 
 
 ![[Pasted image 20251230171032.png]]
 # References
