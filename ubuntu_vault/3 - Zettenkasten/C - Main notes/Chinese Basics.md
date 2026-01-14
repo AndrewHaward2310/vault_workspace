@@ -12,7 +12,7 @@ ___
 	- Tone is the use of pitch to distinguish lexical or grammatical meanings
 	- it has 4 tones in Chinese, but some characters do not have tones
 	- Pinyin is used to represent the pronunciation of each character
-	- The alphabet for pinyin consists of 26 English letters, 
+	- The alphabet for pinyin consists of 26 English letters, among them the letter V is only used to spell foreign names and the other 
 
 
 
