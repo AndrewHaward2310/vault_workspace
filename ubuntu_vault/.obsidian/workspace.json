@@ -162,7 +162,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/Components and Structure.md",
+                    "file": "3 - Zettenkasten/C - Main notes/Types of Deep Learning Architectures 1.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -177,7 +177,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Components and Structure"
+                  "title": "Types of Deep Learning Architectures 1"
                 }
               }
             ],
@@ -425,18 +425,19 @@
   },
   "active": "37a782d9ad11bcc3",
   "lastOpenFiles": [
-    "1 - Specific Notes/Daily Plan/2026-01-13 Embedded Systems using C.md",
+    "3 - Zettenkasten/B - Tags/AI.md",
+    "1 - Specific Notes/Daily Plan/2025-11-21 AI Project - Types of Deep Learning Architectures.md",
+    "3 - Zettenkasten/C - Main notes/Types of Deep Learning Architectures 1.md",
     "3 - Zettenkasten/C - Main notes/Components and Structure.md",
+    "1 - Specific Notes/Daily Plan/2026-01-13 Embedded Systems using C.md",
     "2 - Indexes/EMBEDDED.md",
     "2 - Indexes/C LANGUAGE.md",
     "3 - Zettenkasten/C - Main notes/Embedded System - Basics.md",
     "3 - Zettenkasten/C - Main notes/Embedded Systems - Overview.md",
     "Pasted image 20251230171032.png",
     "2 - Indexes/FPGA.md",
-    "3 - Zettenkasten/C - Main notes/Types of Deep Learning Architectures 1.md",
     "3 - Zettenkasten/C - Main notes/Types of Neural Network Layers and the Application of CNNs to Human Emotion Detection 1.md",
     "1 - Specific Notes/Daily Plan/2025-11-22 AI Project  - Types of Neural Network Layers and the Application of CNNs to Human Emotion Detection.md",
-    "1 - Specific Notes/Daily Plan/2025-11-21 AI Project - Types of Deep Learning Architectures.md",
     "3 - Zettenkasten/C - Main notes/VERILOG CODING STANDARD.md",
     "3 - Zettenkasten/C - Main notes/Three structures to describe the trend.md",
     "3 - Zettenkasten/C - Main notes/Vocabulary for describing trends.md",
@@ -453,7 +454,6 @@
     "3 - Zettenkasten/C - Main notes/HOW TO USE THE LINKING WORDS IN IETLS WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/HOW TO USE THE TENSE IN WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/Pasted image 20251130233628.png",
-    "3 - Zettenkasten/C - Main notes/Research Information related Admission Guidelines ' s Taiwan.md",
     "Pasted image 20251210015649.png",
     "Pasted image 20251210013139.png",
     "Pasted image 20251210012913.png",
