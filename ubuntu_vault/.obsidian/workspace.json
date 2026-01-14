@@ -162,7 +162,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/Types of Deep Learning Architectures 1.md",
+                    "file": "3 - Zettenkasten/C - Main notes/Welcome to Chinese for HSK Level 1.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -177,11 +177,131 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Types of Deep Learning Architectures 1"
+                  "title": "Welcome to Chinese for HSK Level 1"
+                }
+              },
+              {
+                "id": "6e036ebb20597bc0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/HSK1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "HSK1"
+                }
+              },
+              {
+                "id": "29a032e7d8d6d6a6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/Welcome to Chinese for HSK Level 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Welcome to Chinese for HSK Level 1"
+                }
+              },
+              {
+                "id": "63f3ca23ad916e18",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/Chinese.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Chinese"
+                }
+              },
+              {
+                "id": "8dd56f2c5bea206b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/Welcome to Chinese for HSK Level 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Welcome to Chinese for HSK Level 1"
+                }
+              },
+              {
+                "id": "c0bcecc7049f353e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/Welcome to Chinese for HSK Level 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Welcome to Chinese for HSK Level 1"
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 11
           },
           {
             "id": "e66f9596f8ae4068",
@@ -423,11 +543,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37a782d9ad11bcc3",
+  "active": "c0bcecc7049f353e",
   "lastOpenFiles": [
+    "3 - Zettenkasten/C - Main notes/HSK1.md",
+    "3 - Zettenkasten/C - Main notes/Welcome to Chinese for HSK Level 1.md",
+    "3 - Zettenkasten/C - Main notes/Chinese.md",
+    "3 - Zettenkasten/C - Main notes/Types of Deep Learning Architectures 1.md",
     "3 - Zettenkasten/B - Tags/AI.md",
     "1 - Specific Notes/Daily Plan/2025-11-21 AI Project - Types of Deep Learning Architectures.md",
-    "3 - Zettenkasten/C - Main notes/Types of Deep Learning Architectures 1.md",
     "3 - Zettenkasten/C - Main notes/Components and Structure.md",
     "1 - Specific Notes/Daily Plan/2026-01-13 Embedded Systems using C.md",
     "2 - Indexes/EMBEDDED.md",
@@ -450,9 +573,6 @@
     "2 - Indexes/ThanhLoan.md",
     "2 - Indexes/WRITINGTASK1.md",
     "3 - Zettenkasten/C - Main notes/EMOTION DETECTION.md",
-    "1 - Specific Notes/Daily Plan/2025-12-20 IELTS Listening - Learn in Coursera.md",
-    "3 - Zettenkasten/C - Main notes/HOW TO USE THE LINKING WORDS IN IETLS WRITING TASK 1.md",
-    "3 - Zettenkasten/C - Main notes/HOW TO USE THE TENSE IN WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/Pasted image 20251130233628.png",
     "Pasted image 20251210015649.png",
     "Pasted image 20251210013139.png",
