@@ -13,6 +13,7 @@ ___
 	- it has 4 tones in Chinese, but some characters do not have tones
 	- Pinyin is used to represent the pronunciation of each character
 	- The alphabet for pinyin consists of 26 English letters, among them the letter V is only used to spell foreign names and the other 
+	- A syllable contains an initial and a final. The initial is the beginning consonant of a syllable, whereas the final is the simple or compound vowel of a syllable 
 
 
 
