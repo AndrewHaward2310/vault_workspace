@@ -16,7 +16,8 @@ ___
 	- A syllable contains an initial and a final. The initial is the beginning consonant of a syllable, whereas the final is the simple or compound vowel of a syllable 
 	- For example: “**好**” is pronounced **hǎo** with **h** being the initial and **ɑo** being the final. The mark (**ˇ**) over **a** in **ao** is the tone
 	- ![[Pasted image 20260115215554.png]]
-
+	- Pinyin is widely used as a facilitative device to learn the pronunciation of characters 
+	- ![[Pasted image 20260115220654.png]]
 
 
 # References
