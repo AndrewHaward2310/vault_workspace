@@ -14,6 +14,8 @@ ___
 	- Pinyin is used to represent the pronunciation of each character
 	- The alphabet for pinyin consists of 26 English letters, among them the letter V is only used to spell foreign names and the other 
 	- A syllable contains an initial and a final. The initial is the beginning consonant of a syllable, whereas the final is the simple or compound vowel of a syllable 
+	- For example: “**好**” is pronounced **hǎo** with **h** being the initial and **ɑo** being the final. The mark (**ˇ**) over **a** in **ao** is the tone
+	- ![[Pasted image 20260115215554.png]]
 
 
 
