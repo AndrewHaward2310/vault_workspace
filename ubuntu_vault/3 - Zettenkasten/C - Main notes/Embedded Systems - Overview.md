@@ -1,7 +1,7 @@
 ___
 📆 2025-12-29 16:23
 
-🔗 Permalink: [[EMBEDDED]] [[C LANGUAGE]] 
+🔗 Permalink: [[EMBEDDED]] 
 ___
 
 # Embedded Systems - Overview

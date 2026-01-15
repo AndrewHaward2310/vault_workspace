@@ -1,7 +1,7 @@
 ___
 📆 2025-12-30 17:05
 
-🔗 Permalink: [[C LANGUAGE]] [[EMBEDDED]]
+🔗 Permalink: [[EMBEDDED]]
 ___
 
 # Components and Structure
