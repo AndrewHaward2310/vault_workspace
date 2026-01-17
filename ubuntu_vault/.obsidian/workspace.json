@@ -306,7 +306,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/Chinese Basics.md",
+                    "file": "3 - Zettenkasten/C - Main notes/Lesson 1 - How to greet people and how to ask somebody's name in Chinese.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -321,11 +321,59 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Chinese Basics"
+                  "title": "Lesson 1 - How to greet people and how to ask somebody's name in Chinese"
+                }
+              },
+              {
+                "id": "058e6792632f2555",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/Chinese.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Chinese"
+                }
+              },
+              {
+                "id": "18740bc4d4c88dce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/Lesson 1 - How to greet people and how to ask somebody's name in Chinese.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lesson 1 - How to greet people and how to ask somebody's name in Chinese"
                 }
               }
             ],
-            "currentTab": 12
+            "currentTab": 14
           },
           {
             "id": "e66f9596f8ae4068",
@@ -567,12 +615,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a837f44c050d3265",
+  "active": "18740bc4d4c88dce",
   "lastOpenFiles": [
+    "Pasted image 20260118015224.png",
+    "Pasted image 20260118014835.png",
+    "3 - Zettenkasten/C - Main notes/HSK1.md",
+    "3 - Zettenkasten/C - Main notes/Chinese Basics.md",
+    "3 - Zettenkasten/C - Main notes/Chinese.md",
+    "3 - Zettenkasten/C - Main notes/Lesson 1 - How to greet people and how to ask somebody's name in Chinese.md",
     "Pasted image 20260115220654.png",
     "Pasted image 20260115215554.png",
-    "3 - Zettenkasten/C - Main notes/HSK1.md",
-    "3 - Zettenkasten/C - Main notes/Chinese.md",
     "3 - Zettenkasten/B - Tags/{{tomorrow}}.md",
     "3 - Zettenkasten/A - Templates/Index Note.md",
     "3 - Zettenkasten/A - Templates/Daily Journal.md",
@@ -597,14 +649,10 @@
     "1 - Specific Notes/Daily Plan/2025-12-12 Learn Listening + Speaking.md",
     "1 - Specific Notes/Daily Plan/2026-01-13 Embedded Systems using C.md",
     "3 - Zettenkasten/C - Main notes/IELTS Listening - 1 - Section 1 and 2 - Strategies and Tips.md",
-    "3 - Zettenkasten/C - Main notes/Three structures to describe the trend.md",
-    "3 - Zettenkasten/C - Main notes/Types of Deep Learning Architectures 1.md",
     "3 - Zettenkasten/C - Main notes/Pasted image 20251130233628.png",
     "Pasted image 20251230171032.png",
     "Pasted image 20251221000309.png",
     "Pasted image 20251210015649.png",
-    "Pasted image 20251210013139.png",
-    "Pasted image 20251210012913.png",
     "1 - Specific Notes/Daily Plan",
     "Untitled.canvas",
     "3 - Zettenkasten/C - Main notes/Untitled.base",
