@@ -29,6 +29,11 @@ Examples:
 - Examples:
 	- The water consumption in the US for industry is 40%, ahead of 30% for agriculture use 
 	- Playing football is the most popular leisure activity, accounting for 56%, followed by 38% who like badminton
+# 5. A similar/opposite pattern
+- Structure: a (quite/relatively ...) similar/opposite pattern is/was repeated for/seen in...
+- Examples:
+	- In California, the highest water consumption goes on agriculture, at 69%, which is exactly triple the figure for industrial use. Only 8% of water is to cater for domestic use. A similar pattern is seen in San Diego, which uses 70% of total water for agriculture, 25% for industry and a mere 5% domestically
+- The opposite (be) true for ...
 
 
 # References
