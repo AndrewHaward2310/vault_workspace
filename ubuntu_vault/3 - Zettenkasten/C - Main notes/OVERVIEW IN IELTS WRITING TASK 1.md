@@ -11,5 +11,5 @@ Tell what main features are:
 - 2 main features (equivalent to two sentences)
 - no data
 ![[Pasted image 20260119011929.png]]
-Overall, there are 3 
+Overall, The number of visitors increased in 3 sites: Great Barrier Reef, Blue Mountains and Tasmania Wilderness during period examined
 # References
