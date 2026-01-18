@@ -426,7 +426,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/OTHER COMPARISION IN IELTS WRITING TASK 1.md",
+                    "file": "3 - Zettenkasten/C - Main notes/INTRODUCTION IN IELTS WRITING TASK 1.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -441,11 +441,59 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "OTHER COMPARISION IN IELTS WRITING TASK 1"
+                  "title": "INTRODUCTION IN IELTS WRITING TASK 1"
+                }
+              },
+              {
+                "id": "90f45208b44a1477",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Indexes/WRITINGTASK1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "WRITINGTASK1"
+                }
+              },
+              {
+                "id": "7c89cd54a4b1487c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/INTRODUCTION IN IELTS WRITING TASK 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "INTRODUCTION IN IELTS WRITING TASK 1"
                 }
               }
             ],
-            "currentTab": 17
+            "currentTab": 19
           },
           {
             "id": "e66f9596f8ae4068",
@@ -687,10 +735,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f00e76106196c4dd",
+  "active": "7c89cd54a4b1487c",
   "lastOpenFiles": [
-    "3 - Zettenkasten/C - Main notes/OTHER COMPARISION IN IELTS WRITING TASK 1.md",
+    "Pasted image 20260119005157.png",
     "2 - Indexes/WRITINGTASK1.md",
+    "3 - Zettenkasten/C - Main notes/INTRODUCTION IN IELTS WRITING TASK 1.md",
+    "3 - Zettenkasten/C - Main notes/OTHER COMPARISION IN IELTS WRITING TASK 1.md",
     "2 - Indexes/ThanhLoan.md",
     "2 - Indexes/IELTS.md",
     "3 - Zettenkasten/C - Main notes/HOW TO USE THE SUPERLATIVE FORM IN IELTS WRITING TASK 1.md",
@@ -723,8 +773,6 @@
     "2 - Indexes/C LANGUAGE.md",
     "2 - Indexes/EMBEDDED.md",
     "3 - Zettenkasten/C - Main notes/Embedded Systems - Overview.md",
-    "3 - Zettenkasten/C - Main notes/Embedded System - Basics.md",
-    "3 - Zettenkasten/C - Main notes/Components and Structure.md",
     "1 - Specific Notes/Daily Plan",
     "Untitled.canvas",
     "3 - Zettenkasten/C - Main notes/Untitled.base",
