@@ -23,6 +23,12 @@ Examples:
 - Examples: 
 	- The unemployment rate was high, at 10%, in comparison with the 1990s' figures 
 	- The unemployment rate in the UK increased significant to 10% in 2000, the figure for the US climbed marginally to 8% in the same period
+# 4. Followed by/Ahead of
+- Meaning: further advanced than somebody/something
+- Structure: Clause, followed by/ahead of + noun phrase
+- Examples:
+	- The water consumption in the US for industry is 40%, ahead of 30% for agriculture use 
+	- Playing football is the most popular leisure activity, accounting for 56%, followed by 38% who like badminton
 
 
 # References
