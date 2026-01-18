@@ -11,5 +11,5 @@ Tell what main features are:
 - 2 main features (equivalent to two sentences)
 - no data
 ![[Pasted image 20260119011929.png]]
-Overall, The number of visitors increased in 3 sites: Great Barrier Reef, Blue Mountains and Tasmania Wilderness during period examined
+Overall, The number of visitors increased at 3 sites: Great Barrier Reef, Blue Mountains and Tasmania Wilderness, while the number of people visiting Central Eastern Rainforest Reserve seen decrease over the period shown. Among four sites, Great Barrier Reef was most attractive tourist destination.
 # References
