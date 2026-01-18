@@ -474,7 +474,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/INTRODUCTION IN IELTS WRITING TASK 1.md",
+                    "file": "3 - Zettenkasten/C - Main notes/OVERVIEW IN IELTS WRITING TASK 1.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -489,11 +489,59 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "INTRODUCTION IN IELTS WRITING TASK 1"
+                  "title": "OVERVIEW IN IELTS WRITING TASK 1"
+                }
+              },
+              {
+                "id": "68237bdf8951234b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Indexes/WRITINGTASK1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "WRITINGTASK1"
+                }
+              },
+              {
+                "id": "6338943fd6e89a6b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/OVERVIEW IN IELTS WRITING TASK 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "OVERVIEW IN IELTS WRITING TASK 1"
                 }
               }
             ],
-            "currentTab": 19
+            "currentTab": 21
           },
           {
             "id": "e66f9596f8ae4068",
@@ -735,14 +783,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c89cd54a4b1487c",
+  "active": "6338943fd6e89a6b",
   "lastOpenFiles": [
+    "2 - Indexes/WRITINGTASK1.md",
+    "3 - Zettenkasten/C - Main notes/OVERVIEW IN IELTS WRITING TASK 1.md",
+    "3 - Zettenkasten/C - Main notes/INTRODUCTION IN IELTS WRITING TASK 1.md",
+    "Pasted image 20260119010902.png",
     "Pasted image 20260119010513.png",
     "Pasted image 20260119010335.png",
     "Pasted image 20260119005652.png",
     "Pasted image 20260119005157.png",
-    "2 - Indexes/WRITINGTASK1.md",
-    "3 - Zettenkasten/C - Main notes/INTRODUCTION IN IELTS WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/OTHER COMPARISION IN IELTS WRITING TASK 1.md",
     "2 - Indexes/ThanhLoan.md",
     "2 - Indexes/IELTS.md",
@@ -754,11 +804,9 @@
     "4 - Sources/Pasted image 20260118015802.png",
     "4 - Sources/Pasted image 20260118015512.png",
     "4 - Sources/Pasted image 20260118015224.png",
-    "4 - Sources/Pasted image 20260118014835.png",
     "3 - Zettenkasten/C - Main notes/HSK1.md",
     "3 - Zettenkasten/C - Main notes/Chinese Basics.md",
     "3 - Zettenkasten/C - Main notes/Chinese.md",
-    "4 - Sources/Pasted image 20260115220654.png",
     "3 - Zettenkasten/B - Tags/{{tomorrow}}.md",
     "3 - Zettenkasten/A - Templates/Index Note.md",
     "3 - Zettenkasten/A - Templates/Daily Journal.md",
