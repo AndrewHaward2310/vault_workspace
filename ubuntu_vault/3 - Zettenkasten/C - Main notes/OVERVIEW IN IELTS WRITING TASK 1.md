@@ -10,5 +10,6 @@ Tell what main features are:
 - Signposts: Overall, ... / It is clear that ... / Obviously, .../ Generally, ...
 - 2 main features (equivalent to two sentences)
 - no data
-
+![[Pasted image 20260119011929.png]]
+Overall, there are 3 
 # References
