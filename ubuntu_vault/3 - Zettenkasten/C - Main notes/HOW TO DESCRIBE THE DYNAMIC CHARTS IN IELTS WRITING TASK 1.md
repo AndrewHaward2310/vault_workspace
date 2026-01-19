@@ -9,6 +9,6 @@ ___
 ![[Pasted image 20260119232427.png]]
 ![[Pasted image 20260120000003.png]]
 ![[Pasted image 20260120000017.png]]
-In 1996, 1670000 tourists who went to Great Barrier Reef 
+In 1996, 1670000 tourists went to Great Barrier Reef, which then increased almost twofold to end at 3200000, and this place always had highest visitor statistic. The reverse was true for Central Eastern Rainforest Reserve 
 
 # References
