@@ -10,6 +10,6 @@ ___
 ![[Pasted image 20260120000003.png]]
 ![[Pasted image 20260120000017.png]]
 In 1996, 1670000 tourists went to Great Barrier Reef, which then increased almost twofold to end at 3200000, and this place always had highest visitor statistic. The reverse was true for Central Eastern Rainforest Reserve whose figure went down by 20000 every two years to finish at 770000 and constantly ranked second.
-Initially, more people visited Blue Mountains than Tasmania 
+Initially, more people visited Blue Mountains than Tasmania Wilderness, at 526000 and 483000 respectively. Four years later, the former climbed marginally to 581000, the later rose moderately by 33000, but both figures were still by far lower than Great Barrier Reef's
 
 # References
