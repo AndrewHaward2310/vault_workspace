@@ -9,6 +9,6 @@ ___
 ![[Pasted image 20260119232427.png]]
 ![[Pasted image 20260120000003.png]]
 ![[Pasted image 20260120000017.png]]
-
+In 1996, 1670000 tourists who went to Great Barrier Reef 
 
 # References
