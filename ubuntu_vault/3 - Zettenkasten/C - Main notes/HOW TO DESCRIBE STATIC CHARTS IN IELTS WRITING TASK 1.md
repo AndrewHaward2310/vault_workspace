@@ -7,6 +7,7 @@ ___
 # HOW TO DESCRIBE STATIC CHARTS IN IELTS WRITING TASK 1
 ![[Pasted image 20260120030311.png]]
 The pie charts show water consumption for 3 purposes (Residential, Industry and Agriculture) in San Diego, California and the rest of the world.
-Overall, Residential water consumption is highest in San Diego Country and California, while worldwide, the water usage is highest in Agriculture. Among the three regions, 
+Overall, Residential water consumption is highest in San Diego Country and California, while worldwide, the water usage is highest in Agriculture. Among the three regions, the figure in California shows smallest gap between different water usage purposes.
+
 
 # References
