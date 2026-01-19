@@ -570,7 +570,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE THE DYNAMIC CHARTS IN IELTS WRITING TASK 1.md",
+                    "file": "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE STATIC CHARTS IN IELTS WRITING TASK 1.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -585,11 +585,59 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "HOW TO DESCRIBE THE DYNAMIC CHARTS IN IELTS WRITING TASK 1"
+                  "title": "HOW TO DESCRIBE STATIC CHARTS IN IELTS WRITING TASK 1"
+                }
+              },
+              {
+                "id": "917d2180a330b138",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Indexes/WRITINGTASK1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "WRITINGTASK1"
+                }
+              },
+              {
+                "id": "2954df6bda07ea60",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE STATIC CHARTS IN IELTS WRITING TASK 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "HOW TO DESCRIBE STATIC CHARTS IN IELTS WRITING TASK 1"
                 }
               }
             ],
-            "currentTab": 23
+            "currentTab": 25
           },
           {
             "id": "e66f9596f8ae4068",
@@ -831,13 +879,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d0a1afb13768fa6",
+  "active": "2954df6bda07ea60",
   "lastOpenFiles": [
+    "2 - Indexes/WRITINGTASK1.md",
+    "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE STATIC CHARTS IN IELTS WRITING TASK 1.md",
+    "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE THE DYNAMIC CHARTS IN IELTS WRITING TASK 1.md",
     "Pasted image 20260120000017.png",
     "Pasted image 20260120000003.png",
     "Pasted image 20260119232427.png",
-    "2 - Indexes/WRITINGTASK1.md",
-    "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE THE DYNAMIC CHARTS IN IELTS WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/OVERVIEW IN IELTS WRITING TASK 1.md",
     "Pasted image 20260119023157.png",
     "Pasted image 20260119022016.png",
@@ -847,7 +896,6 @@
     "Pasted image 20260119010902.png",
     "Pasted image 20260119010513.png",
     "Pasted image 20260119010335.png",
-    "Pasted image 20260119005652.png",
     "3 - Zettenkasten/C - Main notes/OTHER COMPARISION IN IELTS WRITING TASK 1.md",
     "2 - Indexes/ThanhLoan.md",
     "2 - Indexes/IELTS.md",
