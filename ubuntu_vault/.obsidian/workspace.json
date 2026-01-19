@@ -574,10 +574,24 @@
                     "id": "f00e76106196c4dd",
                     "type": "leaf",
                     "state": {
-                      "type": "graph",
-                      "state": {},
-                      "icon": "lucide-git-fork",
-                      "title": "Graph view"
+                      "type": "markdown",
+                      "state": {
+                        "file": "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE THE GRAPH EXCHANGING FOLLOW TIME IN IELTS WRITING TASK 1.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "HOW TO DESCRIBE THE GRAPH EXCHANGING FOLLOW TIME IN IELTS WRITING TASK 1"
                     }
                   }
                 ]
@@ -785,6 +799,7 @@
   },
   "active": "f00e76106196c4dd",
   "lastOpenFiles": [
+    "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE THE GRAPH EXCHANGING FOLLOW TIME IN IELTS WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/OVERVIEW IN IELTS WRITING TASK 1.md",
     "Pasted image 20260119023157.png",
     "Pasted image 20260119022016.png",
