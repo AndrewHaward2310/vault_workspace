@@ -522,7 +522,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/OVERVIEW IN IELTS WRITING TASK 1.md",
+                    "file": "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE THE DYNAMIC CHARTS IN IELTS WRITING TASK 1.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -537,11 +537,59 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "OVERVIEW IN IELTS WRITING TASK 1"
+                  "title": "HOW TO DESCRIBE THE DYNAMIC CHARTS IN IELTS WRITING TASK 1"
+                }
+              },
+              {
+                "id": "e3992323247060a0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Indexes/WRITINGTASK1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "WRITINGTASK1"
+                }
+              },
+              {
+                "id": "8d0a1afb13768fa6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE THE DYNAMIC CHARTS IN IELTS WRITING TASK 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "HOW TO DESCRIBE THE DYNAMIC CHARTS IN IELTS WRITING TASK 1"
                 }
               }
             ],
-            "currentTab": 21
+            "currentTab": 23
           },
           {
             "id": "e66f9596f8ae4068",
@@ -574,24 +622,10 @@
                     "id": "f00e76106196c4dd",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE THE GRAPH EXCHANGING FOLLOW TIME IN IELTS WRITING TASK 1.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "HOW TO DESCRIBE THE GRAPH EXCHANGING FOLLOW TIME IN IELTS WRITING TASK 1"
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Graph view"
                     }
                   }
                 ]
@@ -797,15 +831,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f00e76106196c4dd",
+  "active": "8d0a1afb13768fa6",
   "lastOpenFiles": [
-    "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE THE GRAPH EXCHANGING FOLLOW TIME IN IELTS WRITING TASK 1.md",
+    "2 - Indexes/WRITINGTASK1.md",
+    "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE THE DYNAMIC CHARTS IN IELTS WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/OVERVIEW IN IELTS WRITING TASK 1.md",
     "Pasted image 20260119023157.png",
     "Pasted image 20260119022016.png",
     "Pasted image 20260119021849.png",
     "Pasted image 20260119011929.png",
-    "2 - Indexes/WRITINGTASK1.md",
     "3 - Zettenkasten/C - Main notes/INTRODUCTION IN IELTS WRITING TASK 1.md",
     "Pasted image 20260119010902.png",
     "Pasted image 20260119010513.png",
