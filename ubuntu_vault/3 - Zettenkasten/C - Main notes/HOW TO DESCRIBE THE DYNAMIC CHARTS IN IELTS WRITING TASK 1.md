@@ -7,6 +7,8 @@ ___
 # HOW TO DESCRIBE THE DYNAMIC CHARTS IN IELTS WRITING TASK 1
 
 ![[Pasted image 20260119232427.png]]
+![[Pasted image 20260120000003.png]]
+![[Pasted image 20260120000017.png]]
 
 
 # References
