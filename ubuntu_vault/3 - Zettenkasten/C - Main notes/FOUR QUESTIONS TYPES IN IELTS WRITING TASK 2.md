@@ -10,6 +10,11 @@ ___
 - What is your opinion?
 - Do you agree or disagree?
 - To what extent do you agree or disagree?
-- 
-
+- Do you think it is a positive or negative development?
+- Is this a positive or negative development?
+=> strong view / balanced view
+![[Pasted image 20260121041119.png]]
+![[Pasted image 20260121041236.png]]
+![[Pasted image 20260121041509.png]]
+Type 2
 # References
