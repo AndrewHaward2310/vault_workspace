@@ -22,4 +22,8 @@ San Diego County and California share the same pattern of water usage. To be spe
 On the other hand, water usage for agriculture is highest in the rest of the world, accounts for 69%, but the least common purpose of using water is residential, making up 8%. the percentage of water consumed for industry still ranks second, with 23%. 
 
 ![[Pasted image 20260120194218.png]]
+
+San Diego County and California share the same pattern in some water consumption purposes. The main purpose of using water is for Residential activities, at 60% for the former and 39% for the latter, while least water goes to agriculture, with 17% and 20% respectively. Industry records the second highest water usage at 23% and 33%.
+
+The reverse is seen in the worldwide water consumption, with the first rank belonging to agriculture (69%) and the lowest water use going to homes (8%). The same as two American states, the percentage of water for industry is also second highest, at 23%
 # References
