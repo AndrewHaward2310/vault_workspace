@@ -21,4 +21,5 @@ Type 2: Discussion essays
 - Discuss both sides and give your opinion
 - Discuss both views and give your opinion
 => Discuss and give your opinion
+![[Pasted image 20260121043137.png]]
 # References
