@@ -16,6 +16,10 @@ ___
 	- Lexical Resource (Vocabulary): Your range and accuracy of vocabulary
 	- Grammatical Range and Accuracy: Your use of a variety of sentence structures and the accuracy of grammar 
 - Task 2 is worth two thirds of your total writing mark; Task 1 is worth one third
-
+- task types:
+	- Opinion Essays: Express your opinion on a given topic
+	- Discussion Essays: Present both sides of an argument and offer your own view
+	- Cause-Problem-Solution Essays: Discuss a problem, give causes and propose solution
+	- Two-part/mixed essays
 
 # References
