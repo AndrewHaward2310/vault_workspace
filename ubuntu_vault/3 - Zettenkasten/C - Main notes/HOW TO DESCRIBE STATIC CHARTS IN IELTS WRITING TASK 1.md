@@ -12,14 +12,14 @@ Overall, Residential water consumption is highest in San Diego Country and Calif
 
 Method 1: purpose-driven approach 
 
-Residential water consumption is highest among three sectors in San Diego Country and California, at 60% and 39% respectively, while accounts for a trivial part in the rest of the world, with 8%. By contrast, most water worldwide is to cater for agriculture, making up 69%, but this is the least common purpose of using water in the two American States, constituting 17% in San Diego Country and 28% in California.
+Residential water consumption is highest among three sectors in San Diego County and California, at 60% and 39% respectively, while accounts for a trivial part in the rest of the world, with 8%. By contrast, most water worldwide is to cater for agriculture, making up 69%, but this is the least common purpose of using water in the two American States, constituting 17% in San Diego Country and 28% in California.
 
-The percentage of water consumed for industry always ranks second and does not show significant differences. To be specific, 33% of water in California is used for this purpose, 10% higher than in San Diego and worldwide.
+The percentage of water consumed for industry always ranks second and does not show significant differences. To be specific, 33% of water in California is used for this purpose, 10% higher than in San Diego County and worldwide.
 
 Method 2: country-driven approach
-San Diego Country and California share the same pattern of water usage. To be specific, residential use water is highest in three sectors, at 60% and 39% respectively, while its figure for agriculture is lowest, constituting 17% in San Diego Country and 28% in California. The percentage of water usage for industry is second ranks with 23% in San Diego Country and 33% in California. 
+San Diego County and California share the same pattern of water usage. To be specific, residential water use is highest in three sectors, at 60% and 39% respectively, while its figure for agriculture is lowest, constituting 17% in San Diego County and 28% in California. The percentage of water usage for industry is the second highest with 23% in San Diego Country and 33% in California. 
 
-In the other hand, water usage for agriculture is highest in the rest of the world, accounts for 69%, but the least common purpose of using water is residential, making up 8%. the percentage of water consumed for industry still ranks second, with 23%. 
+On the other hand, water usage for agriculture is highest in the rest of the world, accounts for 69%, but the least common purpose of using water is residential, making up 8%. the percentage of water consumed for industry still ranks second, with 23%. 
 
-
+![[Pasted image 20260120194218.png]]
 # References
