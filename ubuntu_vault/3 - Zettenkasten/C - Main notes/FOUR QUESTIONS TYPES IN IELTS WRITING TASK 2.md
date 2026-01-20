@@ -16,5 +16,9 @@ ___
 ![[Pasted image 20260121041119.png]]
 ![[Pasted image 20260121041236.png]]
 ![[Pasted image 20260121041509.png]]
-Type 2
+Type 2: Discussion essays
+- Do you think the advantages outweigh the disadvantages?
+- Discuss both sides and give your opinion
+- Discuss both views and give your opinion
+=> Discuss and give your opinion
 # References
