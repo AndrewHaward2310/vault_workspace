@@ -21,5 +21,11 @@ Type 2: Discussion essays
 - Discuss both sides and give your opinion
 - Discuss both views and give your opinion
 => Discuss and give your opinion
+## Fact:
 ![[Pasted image 20260121043137.png]]
+![[Pasted image 20260121045025.png]]
+## Two opinions:
+![[Pasted image 20260121045124.png]]
+![[Pasted image 20260121045430.png]]
+![[Pasted image 20260121045437.png]]
 # References
