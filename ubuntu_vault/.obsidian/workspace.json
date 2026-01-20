@@ -762,7 +762,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/BASIC INFORMATION ABOUT IELTS WRITING TASK 2.md",
+                    "file": "3 - Zettenkasten/C - Main notes/FOUR QUESTIONS TYPES IN IELTS WRITING TASK 2.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -777,11 +777,59 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "BASIC INFORMATION ABOUT IELTS WRITING TASK 2"
+                  "title": "FOUR QUESTIONS TYPES IN IELTS WRITING TASK 2"
+                }
+              },
+              {
+                "id": "3066c6bc966918d4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/WRITINGTASK2.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "WRITINGTASK2"
+                }
+              },
+              {
+                "id": "752422403f231f53",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/FOUR QUESTIONS TYPES IN IELTS WRITING TASK 2.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "FOUR QUESTIONS TYPES IN IELTS WRITING TASK 2"
                 }
               }
             ],
-            "currentTab": 31
+            "currentTab": 33
           },
           {
             "id": "e66f9596f8ae4068",
@@ -1023,11 +1071,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9c9ca6a74fcbfa1",
+  "active": "752422403f231f53",
   "lastOpenFiles": [
     "3 - Zettenkasten/C - Main notes/WRITINGTASK2.md",
-    "2 - Indexes/IELTS.md",
+    "3 - Zettenkasten/C - Main notes/FOUR QUESTIONS TYPES IN IELTS WRITING TASK 2.md",
     "3 - Zettenkasten/C - Main notes/BASIC INFORMATION ABOUT IELTS WRITING TASK 2.md",
+    "2 - Indexes/IELTS.md",
     "2 - Indexes/ThanhLoan.md",
     "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE STATIC CHARTS IN IELTS WRITING TASK 1.md",
     "2 - Indexes/WRITINGTASK1.md",
@@ -1060,7 +1109,6 @@
     "3 - Zettenkasten/B - Tags/mir100.md",
     "3 - Zettenkasten/B - Tags/Deep Learning.md",
     "3 - Zettenkasten/B - Tags/improve productivity.md",
-    "3 - Zettenkasten/B - Tags/docker.md",
     "1 - Specific Notes/Daily Plan",
     "Untitled.canvas",
     "3 - Zettenkasten/C - Main notes/Untitled.base",
