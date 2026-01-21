@@ -882,7 +882,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/FOUR MARKING CRITERIA FOR WRITING TASK 2.md",
+                    "file": "3 - Zettenkasten/C - Main notes/ESSAY STRUCTURE IN WRITING TASK 2.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -897,11 +897,59 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "FOUR MARKING CRITERIA FOR WRITING TASK 2"
+                  "title": "ESSAY STRUCTURE IN WRITING TASK 2"
+                }
+              },
+              {
+                "id": "311c0dd9752c06cc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/WRITINGTASK2.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "WRITINGTASK2"
+                }
+              },
+              {
+                "id": "61568e098866c71b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/ESSAY STRUCTURE IN WRITING TASK 2.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "ESSAY STRUCTURE IN WRITING TASK 2"
                 }
               }
             ],
-            "currentTab": 36
+            "currentTab": 38
           },
           {
             "id": "e66f9596f8ae4068",
@@ -1143,13 +1191,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aea8877f56908f0c",
+  "active": "61568e098866c71b",
   "lastOpenFiles": [
+    "Pasted image 20260121201419.png",
+    "Pasted image 20260121201231.png",
+    "3 - Zettenkasten/C - Main notes/WRITINGTASK2.md",
+    "3 - Zettenkasten/C - Main notes/ESSAY STRUCTURE IN WRITING TASK 2.md",
+    "3 - Zettenkasten/C - Main notes/FOUR MARKING CRITERIA FOR WRITING TASK 2.md",
+    "Pasted image 20260121200714.png",
     "Pasted image 20260121200120.png",
     "Pasted image 20260121194937.png",
     "Pasted image 20260121194245.png",
-    "3 - Zettenkasten/C - Main notes/WRITINGTASK2.md",
-    "3 - Zettenkasten/C - Main notes/FOUR MARKING CRITERIA FOR WRITING TASK 2.md",
     "3 - Zettenkasten/C - Main notes/FOUR QUESTIONS TYPES IN IELTS WRITING TASK 2.md",
     "Pasted image 20260121193025.png",
     "Pasted image 20260121192903.png",
@@ -1157,9 +1209,6 @@
     "3 - Zettenkasten/C - Main notes/BASIC INFORMATION ABOUT IELTS WRITING TASK 2.md",
     "Pasted image 20260121045437.png",
     "Pasted image 20260121045430.png",
-    "Pasted image 20260121045424.png",
-    "Pasted image 20260121045124.png",
-    "Pasted image 20260121045025.png",
     "2 - Indexes/IELTS.md",
     "2 - Indexes/ThanhLoan.md",
     "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE STATIC CHARTS IN IELTS WRITING TASK 1.md",
@@ -1180,7 +1229,6 @@
     "3 - Zettenkasten/A - Templates/Academic Note.md",
     "3 - Zettenkasten/B - Tags/obsidian.md",
     "3 - Zettenkasten/B - Tags/ROS.md",
-    "3 - Zettenkasten/B - Tags/mir100.md",
     "1 - Specific Notes/Daily Plan",
     "Untitled.canvas",
     "3 - Zettenkasten/C - Main notes/Untitled.base",

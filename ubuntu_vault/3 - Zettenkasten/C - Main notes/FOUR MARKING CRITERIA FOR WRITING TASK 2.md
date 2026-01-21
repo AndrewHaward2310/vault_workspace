@@ -28,6 +28,8 @@ ___
  - Use a variety of complex and simple sentences 
  - Use a variety of appropriate structures
  - Check your writing for errors
+ ![[Pasted image 20260121200714.png]]
+ 
 
 
 # References
