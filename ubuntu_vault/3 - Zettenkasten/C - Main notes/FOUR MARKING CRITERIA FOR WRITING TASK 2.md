@@ -15,7 +15,11 @@ ___
 - Structure your answers in logical paragraphs
 - One main idea per paragraph 
 - Include an introduction and conclusion
-- Support main points with an explanation and then 
+- Support main points with an explanation and then an example
+- Use cohesive devices accurately and appropriately
+- Vary your linking phrases using synonyms
+![[Pasted image 20260121194937.png]]
+
 
 
 # References
