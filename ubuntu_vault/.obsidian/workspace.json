@@ -832,12 +832,24 @@
                 "id": "9cf42f91592091b2",
                 "type": "leaf",
                 "state": {
-                  "type": "release-notes",
+                  "type": "markdown",
                   "state": {
-                    "currentVersion": "1.11.5"
+                    "file": "3 - Zettenkasten/C - Main notes/FOUR QUESTIONS TYPES IN IELTS WRITING TASK 2.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.11.5"
+                  "icon": "lucide-file",
+                  "title": "FOUR QUESTIONS TYPES IN IELTS WRITING TASK 2"
                 }
               }
             ],
@@ -1085,6 +1097,9 @@
   },
   "active": "9cf42f91592091b2",
   "lastOpenFiles": [
+    "Pasted image 20260121191517.png",
+    "3 - Zettenkasten/C - Main notes/WRITINGTASK2.md",
+    "3 - Zettenkasten/C - Main notes/BASIC INFORMATION ABOUT IELTS WRITING TASK 2.md",
     "Pasted image 20260121045437.png",
     "Pasted image 20260121045430.png",
     "Pasted image 20260121045424.png",
@@ -1094,16 +1109,13 @@
     "Pasted image 20260121041509.png",
     "Pasted image 20260121041236.png",
     "Pasted image 20260121041119.png",
-    "3 - Zettenkasten/C - Main notes/WRITINGTASK2.md",
     "3 - Zettenkasten/C - Main notes/FOUR QUESTIONS TYPES IN IELTS WRITING TASK 2.md",
-    "3 - Zettenkasten/C - Main notes/BASIC INFORMATION ABOUT IELTS WRITING TASK 2.md",
     "2 - Indexes/IELTS.md",
     "2 - Indexes/ThanhLoan.md",
     "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE STATIC CHARTS IN IELTS WRITING TASK 1.md",
     "2 - Indexes/WRITINGTASK1.md",
     "Pasted image 20260120194218.png",
     "3 - Zettenkasten/C - Main notes/OVERVIEW IN IELTS WRITING TASK 1.md",
-    "Pasted image 20260120030311.png",
     "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE THE DYNAMIC CHARTS IN IELTS WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/INTRODUCTION IN IELTS WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/OTHER COMPARISION IN IELTS WRITING TASK 1.md",

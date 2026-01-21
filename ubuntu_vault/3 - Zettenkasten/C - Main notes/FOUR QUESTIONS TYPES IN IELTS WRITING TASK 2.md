@@ -28,4 +28,6 @@ Type 2: Discussion essays
 ![[Pasted image 20260121045124.png]]
 ![[Pasted image 20260121045430.png]]
 ![[Pasted image 20260121045437.png]]
+## Type 3: Cause - Effect - Solution
+![[Pasted image 20260121191517.png]]
 # References
