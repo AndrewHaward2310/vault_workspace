@@ -30,4 +30,7 @@ Type 2: Discussion essays
 ![[Pasted image 20260121045437.png]]
 ## Type 3: Cause - Effect - Solution
 ![[Pasted image 20260121191517.png]]
+![[Pasted image 20260121192903.png]]
+## Type 4: Two-part question
+![[Pasted image 20260121193025.png]]
 # References
