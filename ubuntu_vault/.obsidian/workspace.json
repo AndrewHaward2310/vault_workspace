@@ -827,9 +827,21 @@
                   "icon": "lucide-file",
                   "title": "FOUR QUESTIONS TYPES IN IELTS WRITING TASK 2"
                 }
+              },
+              {
+                "id": "9cf42f91592091b2",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.11.5"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.11.5"
+                }
               }
             ],
-            "currentTab": 33
+            "currentTab": 34
           },
           {
             "id": "e66f9596f8ae4068",
@@ -1071,7 +1083,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "752422403f231f53",
+  "active": "9cf42f91592091b2",
   "lastOpenFiles": [
     "Pasted image 20260121045437.png",
     "Pasted image 20260121045430.png",
