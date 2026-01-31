@@ -930,7 +930,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/ESSAY STRUCTURE IN WRITING TASK 2.md",
+                    "file": "3 - Zettenkasten/C - Main notes/LINE GRAPH IN IELTS WRITING TASK 1.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -945,11 +945,59 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "ESSAY STRUCTURE IN WRITING TASK 2"
+                  "title": "LINE GRAPH IN IELTS WRITING TASK 1"
+                }
+              },
+              {
+                "id": "09009fc8e34dc879",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 - Indexes/WRITINGTASK1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "WRITINGTASK1"
+                }
+              },
+              {
+                "id": "deea7a8c4e824944",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/LINE GRAPH IN IELTS WRITING TASK 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "LINE GRAPH IN IELTS WRITING TASK 1"
                 }
               }
             ],
-            "currentTab": 38
+            "currentTab": 40
           },
           {
             "id": "e66f9596f8ae4068",
@@ -1191,8 +1239,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f00e76106196c4dd",
+  "active": "deea7a8c4e824944",
   "lastOpenFiles": [
+    "Pasted image 20260131203412.png",
+    "2 - Indexes/WRITINGTASK1.md",
+    "2 - Indexes/ThanhLoan.md",
+    "3 - Zettenkasten/C - Main notes/LINE GRAPH IN IELTS WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/ESSAY STRUCTURE IN WRITING TASK 2.md",
     "Pasted image 20260121201231.png",
     "Pasted image 20260121201419.png",
@@ -1209,9 +1261,7 @@
     "3 - Zettenkasten/C - Main notes/BASIC INFORMATION ABOUT IELTS WRITING TASK 2.md",
     "Pasted image 20260121045437.png",
     "2 - Indexes/IELTS.md",
-    "2 - Indexes/ThanhLoan.md",
     "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE STATIC CHARTS IN IELTS WRITING TASK 1.md",
-    "2 - Indexes/WRITINGTASK1.md",
     "3 - Zettenkasten/C - Main notes/OVERVIEW IN IELTS WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE THE DYNAMIC CHARTS IN IELTS WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/INTRODUCTION IN IELTS WRITING TASK 1.md",
@@ -1227,7 +1277,6 @@
     "3 - Zettenkasten/A - Templates/Daily Journal.md",
     "3 - Zettenkasten/A - Templates/Academic Note.md",
     "3 - Zettenkasten/B - Tags/obsidian.md",
-    "3 - Zettenkasten/B - Tags/ROS.md",
     "1 - Specific Notes/Daily Plan",
     "Untitled.canvas",
     "3 - Zettenkasten/C - Main notes/Untitled.base",
