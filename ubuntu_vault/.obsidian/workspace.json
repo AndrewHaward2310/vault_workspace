@@ -1091,9 +1091,21 @@
                   "icon": "lucide-file",
                   "title": "Machine Learning Systems - Abstract"
                 }
+              },
+              {
+                "id": "a049710360850533",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.11.7"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.11.7"
+                }
               }
             ],
-            "currentTab": 44
+            "currentTab": 45
           },
           {
             "id": "e66f9596f8ae4068",
@@ -1335,7 +1347,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e6368060e410c31",
+  "active": "a049710360850533",
   "lastOpenFiles": [
     "3 - Zettenkasten/C - Main notes/Machine Learning Systems.md",
     "3 - Zettenkasten/C - Main notes/Harvard University.md",
