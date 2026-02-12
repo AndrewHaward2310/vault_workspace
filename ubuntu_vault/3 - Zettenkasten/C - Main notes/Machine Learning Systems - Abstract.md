@@ -15,6 +15,7 @@ ___
 	"If you want to go fast, go alone. If you want to go far, go together."
 	
 	— African Proverb
-
+- The learning journey unfolds in five distinct phases:
+	- **Phase 1: Theory** - Build your conceptual foundation through **Foundations** and **Design Principles**, establishing 
 
 # References
