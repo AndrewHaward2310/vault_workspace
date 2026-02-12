@@ -978,7 +978,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/LINE GRAPH IN IELTS WRITING TASK 1.md",
+                    "file": "3 - Zettenkasten/C - Main notes/Machine Learning Systems - Abstract.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -993,11 +993,107 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "LINE GRAPH IN IELTS WRITING TASK 1"
+                  "title": "Machine Learning Systems - Abstract"
+                }
+              },
+              {
+                "id": "f6d74c2e3961a901",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/Machine Learning Systems - Abstract.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Machine Learning Systems - Abstract"
+                }
+              },
+              {
+                "id": "701d7c72226c3d3e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/Harvard University.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Harvard University"
+                }
+              },
+              {
+                "id": "527eeba89a976dc0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/Machine Learning Systems.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Machine Learning Systems"
+                }
+              },
+              {
+                "id": "0e6368060e410c31",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/Machine Learning Systems - Abstract.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Machine Learning Systems - Abstract"
                 }
               }
             ],
-            "currentTab": 40
+            "currentTab": 44
           },
           {
             "id": "e66f9596f8ae4068",
@@ -1239,8 +1335,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "deea7a8c4e824944",
+  "active": "0e6368060e410c31",
   "lastOpenFiles": [
+    "3 - Zettenkasten/C - Main notes/Machine Learning Systems.md",
+    "3 - Zettenkasten/C - Main notes/Harvard University.md",
     "3 - Zettenkasten/C - Main notes/Machine Learning Systems - Abstract.md",
     "3 - Zettenkasten/C - Main notes/LINE GRAPH IN IELTS WRITING TASK 1.md",
     "Pasted image 20260131203412.png",
@@ -1275,8 +1373,6 @@
     "3 - Zettenkasten/B - Tags/{{tomorrow}}.md",
     "3 - Zettenkasten/A - Templates/Index Note.md",
     "3 - Zettenkasten/A - Templates/Daily Journal.md",
-    "3 - Zettenkasten/A - Templates/Academic Note.md",
-    "3 - Zettenkasten/B - Tags/obsidian.md",
     "1 - Specific Notes/Daily Plan",
     "Untitled.canvas",
     "3 - Zettenkasten/C - Main notes/Untitled.base",
