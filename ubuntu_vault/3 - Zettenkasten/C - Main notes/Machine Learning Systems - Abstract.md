@@ -19,6 +19,7 @@ ___
 	- **Phase 1: Theory** - Build your conceptual foundation through **Foundations** and **Design Principles**, establishing the mental models that underpin all effective systems work.
 	- **Phase 2: Performance** - Master **Performance Engineering** to transform theoretical understanding into systems that run efficiently in resource-constrained real-world environments.
 	- **Phase 3: Practice** - Navigate Robust Deployment challenges, learning how to make systems work reliably beyond the controlled environment of development.
-	- 
+	- **Phase 4: Ethics** - Explore **Trustworthy Systems** to ensure your systems serve society beneficially and sustainably
+	- **Phase 5: Vision** - Look toward **ML Systems Frontiers** to understand emerging paradigms and prepare for the next generation of challenges
 
 # References
