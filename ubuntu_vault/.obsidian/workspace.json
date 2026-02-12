@@ -1096,16 +1096,52 @@
                 "id": "a049710360850533",
                 "type": "leaf",
                 "state": {
-                  "type": "release-notes",
+                  "type": "markdown",
                   "state": {
-                    "currentVersion": "1.11.7"
+                    "file": "3 - Zettenkasten/C - Main notes/Machine Learning Systems.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.11.7"
+                  "icon": "lucide-file",
+                  "title": "Machine Learning Systems"
+                }
+              },
+              {
+                "id": "7dd926eb70a31dcb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/Machine Learning Systems - Abstract.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Machine Learning Systems - Abstract"
                 }
               }
             ],
-            "currentTab": 45
+            "currentTab": 46
           },
           {
             "id": "e66f9596f8ae4068",
@@ -1347,7 +1383,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a049710360850533",
+  "active": "7dd926eb70a31dcb",
   "lastOpenFiles": [
     "3 - Zettenkasten/C - Main notes/Machine Learning Systems.md",
     "3 - Zettenkasten/C - Main notes/Harvard University.md",
