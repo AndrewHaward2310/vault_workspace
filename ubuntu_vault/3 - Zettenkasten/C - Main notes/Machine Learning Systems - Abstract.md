@@ -41,5 +41,6 @@ ___
 	4. Production Deployment: Address real-world challenges including reliability, security, privacy, and scalability
 	5. Responsible Development: Navigate ethical implications and implement sustainable, sociably beneficial AI systems.
 	6. Future-Ready Skills: Develop judgment to evaluate emerging technologies and adapt to evolving paradigms
-	7. Hands-On Implementation: Gain practical experience across diverse embedded platforms 
+	7. Hands-On Implementation: Gain practical experience across diverse embedded platforms and resource constraints 
+	8. Self-Directed Learning: Use integrated assessments and interactive tools to track progress and deepen understanding
 # References
