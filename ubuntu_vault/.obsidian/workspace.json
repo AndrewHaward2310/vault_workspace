@@ -1122,7 +1122,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/Machine Learning Systems - Abstract.md",
+                    "file": "Machine Learning Systems/Machine Learning Systems - Part 1 Systems Foundations - Introduction.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -1137,7 +1137,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Machine Learning Systems - Abstract"
+                  "title": "Machine Learning Systems - Part 1 Systems Foundations - Introduction"
                 }
               }
             ],
@@ -1385,10 +1385,12 @@
   },
   "active": "7dd926eb70a31dcb",
   "lastOpenFiles": [
+    "3 - Zettenkasten/C - Main notes/Machine Learning Systems - Abstract.md",
+    "Machine Learning Systems/Machine Learning Systems - Part 1 Systems Foundations - Introduction.md",
+    "Machine Learning Systems",
     "Pasted image 20260213212940.png",
     "3 - Zettenkasten/C - Main notes/Machine Learning Systems.md",
     "3 - Zettenkasten/C - Main notes/Harvard University.md",
-    "3 - Zettenkasten/C - Main notes/Machine Learning Systems - Abstract.md",
     "3 - Zettenkasten/C - Main notes/LINE GRAPH IN IELTS WRITING TASK 1.md",
     "Pasted image 20260131203412.png",
     "2 - Indexes/WRITINGTASK1.md",
@@ -1405,7 +1407,6 @@
     "3 - Zettenkasten/C - Main notes/FOUR QUESTIONS TYPES IN IELTS WRITING TASK 2.md",
     "Pasted image 20260121193025.png",
     "Pasted image 20260121192903.png",
-    "Pasted image 20260121191517.png",
     "3 - Zettenkasten/C - Main notes/BASIC INFORMATION ABOUT IELTS WRITING TASK 2.md",
     "2 - Indexes/IELTS.md",
     "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE STATIC CHARTS IN IELTS WRITING TASK 1.md",
@@ -1430,7 +1431,6 @@
     "3 - Zettenkasten/C - Main notes",
     "3 - Zettenkasten/A - Templates",
     "2 - Indexes",
-    "3 - Zettenkasten/B - Tags",
-    "1 - Specific Notes/Other"
+    "3 - Zettenkasten/B - Tags"
   ]
 }
