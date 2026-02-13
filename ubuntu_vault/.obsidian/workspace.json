@@ -1139,9 +1139,57 @@
                   "icon": "lucide-file",
                   "title": "Machine Learning Systems - Part 1 Systems Foundations - Introduction"
                 }
+              },
+              {
+                "id": "ca8e0385c85ded51",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/Machine Learning Systems.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Machine Learning Systems"
+                }
+              },
+              {
+                "id": "cd3a045c358211c4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Machine Learning Systems/Machine Learning Systems - Part 1 Systems Foundations - Introduction.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Machine Learning Systems - Part 1 Systems Foundations - Introduction"
+                }
               }
             ],
-            "currentTab": 46
+            "currentTab": 48
           },
           {
             "id": "e66f9596f8ae4068",
@@ -1383,13 +1431,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dd926eb70a31dcb",
+  "active": "cd3a045c358211c4",
   "lastOpenFiles": [
-    "3 - Zettenkasten/C - Main notes/Machine Learning Systems - Abstract.md",
+    "3 - Zettenkasten/C - Main notes/Machine Learning Systems.md",
     "Machine Learning Systems/Machine Learning Systems - Part 1 Systems Foundations - Introduction.md",
+    "3 - Zettenkasten/C - Main notes/Machine Learning Systems - Abstract.md",
     "Machine Learning Systems",
     "Pasted image 20260213212940.png",
-    "3 - Zettenkasten/C - Main notes/Machine Learning Systems.md",
     "3 - Zettenkasten/C - Main notes/Harvard University.md",
     "3 - Zettenkasten/C - Main notes/LINE GRAPH IN IELTS WRITING TASK 1.md",
     "Pasted image 20260131203412.png",
