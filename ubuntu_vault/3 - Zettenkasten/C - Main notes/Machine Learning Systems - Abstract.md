@@ -26,8 +26,20 @@ ___
 	- Data flow patterns through systems 
 	- Computational pattern emergence 
 	- Optimization principles within individual systems
-- Key learning outcomes: 6 levels of learning, ranging from foundational knowledge to advanced creative thinking:
+- **Key learning outcomes:** 6 levels of learning, ranging from foundational knowledge to advanced creative thinking:
 	![[Pasted image 20260213212940.png]]
-	1. Remembering: Recall basic facts and concepts 
-	2. Understanding: 
+	1. **Remembering:** Recall basic facts and concepts 
+	2. **Understanding:** Explaining ideas or processes 
+	3. **Applying:** Using knowledge in new situations
+	4. **Analyzing:** Breaking down information into components
+	5. **Evaluating:** Making judgements based on criteria and standards 
+	6. **Creating:** Producing original work or solutions
+- Learning Objectives:
+	1. Systems thinking: Understanding how ML systems differ from traditional software, and reason about hardware-software interactions
+	2. Workflow Engineering: Design end-to-end ML pipelines, from data engineering through deployment and maintenance 
+	3. Performance Optimization: Apply systematic approaches to make systems faster, smaller, and more resource-efficient
+	4. Production Deployment: Address real-world challenges including reliability, security, privacy, and scalability
+	5. Responsible Development: Navigate ethical implications and implement sustainable, sociably beneficial AI systems.
+	6. Future-Ready Skills: Develop judgment to evaluate emerging technologies and adapt to evolving paradigms
+	7. Hands-On Implementation: Gain practical experience across diverse embedded platforms 
 # References
