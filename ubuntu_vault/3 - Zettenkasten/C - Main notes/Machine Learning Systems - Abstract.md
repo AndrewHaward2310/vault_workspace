@@ -21,5 +21,13 @@ ___
 	- **Phase 3: Practice** - Navigate Robust Deployment challenges, learning how to make systems work reliably beyond the controlled environment of development.
 	- **Phase 4: Ethics** - Explore **Trustworthy Systems** to ensure your systems serve society beneficially and sustainably
 	- **Phase 5: Vision** - Look toward **ML Systems Frontiers** to understand emerging paradigms and prepare for the next generation of challenges
-
+- The curriculum emphasizes mastery of these core building blocks:
+	- The interaction between models and hardware 
+	- Data flow patterns through systems 
+	- Computational pattern emergence 
+	- Optimization principles within individual systems
+- Key learning outcomes: 6 levels of learning, ranging from foundational knowledge to advanced creative thinking:
+	![[Pasted image 20260213212940.png]]
+	1. Remembering: Recall basic facts and concepts 
+	2. Understanding: 
 # References
