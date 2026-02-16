@@ -8,5 +8,6 @@ ___
 
 ## Purpose:
 Why must we master the engineering principles that govern systems capable of learning, adapting and operating at massive scale?
-- Machine learning allows systems to behave  based on data rather than on explicit instructions
+- Machine learning allows systems to behave based on data rather than on explicit instructions => traditional software engineering principles cannot address systems 
+- 
 # References
