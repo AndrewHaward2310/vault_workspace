@@ -8,6 +8,6 @@ ___
 
 ## Purpose:
 Why must we master the engineering principles that govern systems capable of learning, adapting and operating at massive scale?
-
+	
 
 # References
