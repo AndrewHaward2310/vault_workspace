@@ -11,5 +11,10 @@ Why must we master the engineering principles that govern systems capable of lea
 - Machine learning allows systems to behave based on data rather than on explicit instructions => traditional software engineering principles cannot address systems that learn and adapt based on experience 
 - ML systems engineering determines our ability to solve complex problems that exceed human cognitive capacity 
 ### Learning Objectives:
+- Define machine learning systems as integrated computing systems comprising data, algorithms, and infrastructure
+- Distinguish ML systems engineering from traditional software engineering through failure pattern analysis
+- Analyze interdependencies between data, algorithms, and computing infrastructure using the AI Triangle framework
+- Trace the historical evolution of AI paradigms from symbolic systems through statistical learning to deep learning 
+- Evaluate the implications of Sutton's "Bitter Lesson" for modern ML systems engineering priorities 
 - 
 # References
