@@ -8,6 +8,5 @@ ___
 
 ## Purpose:
 Why must we master the engineering principles that govern systems capable of learning, adapting and operating at massive scale?
-	
-
+- Machine learning allows systems whose behavior emerges from data rather than explicit instructions
 # References
