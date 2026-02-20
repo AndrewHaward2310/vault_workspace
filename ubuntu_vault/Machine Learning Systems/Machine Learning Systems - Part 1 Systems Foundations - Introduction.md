@@ -26,14 +26,18 @@ Why must we master the engineering principles that govern systems capable of lea
 	b. Traditional software systems can adapt autonomously to new data
 	==**c. Machine learning systems rely on statistical patterns extracted from data**==
 	d. Traditional software systems require no maintenance  
+	_Answer_: C - This is correct because ML systems are probabilistic and their behaviors emerge from data, unlike deterministic systems which are based on fixed instructions. 
 2. Explain the significance of the "bitter lesson" in AI research as mentioned in the Section.
 	- Each transition required new engineering solutions
 	- Systems engineering as central to AI advancement 
+	_Answer_: The ‘bitter lesson’ in AI research refers to the realization that domain-general computational methods, such as those used in machine learning, ultimately outperform hand-crafted knowledge representations. For example, deep learning has surpassed symbolic AI in many tasks. This is important because it underscores the shift towards systems engineering as central to AI advancement.
 3. Which of the following challenges is NOT typically associated with machine learning systems engineering?
     **==a.  Eliminating the need for computational infrastructure==**
     b. Achieving scalability for large datasets
     c. Maintaining robustness with changing data distributions
     d. Ensuring reliability in learned behaviors
+    _Answer_: The correct answer is A. Eliminating the need for computational infrastructure. This is incorrect because ML systems require substantial computational resources to process data and train models, unlike traditional systems where infrastructure might be less demanding.
 4. How does the AI Triangle framework help in understanding machine  learning systems?
-	- Models ML systems as three interdependent system capa
+	- Models ML systems as three interdependent system capabilities
+	_Answer_: The AI Triangle framework helps understand machine learning systems by illustrating the interdependencies among data, algorithms, and computational infrastructure. For example, changes in data quality can affect algorithm performance, which in turn impacts infrastructure requirements. This is important because it guides the design and optimization of ML systems.
 # References
