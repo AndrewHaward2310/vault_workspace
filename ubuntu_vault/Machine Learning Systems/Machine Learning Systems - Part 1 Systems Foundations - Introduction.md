@@ -16,5 +16,8 @@ Why must we master the engineering principles that govern systems capable of lea
 - Analyze interdependencies between data, algorithms, and computing infrastructure using the AI Triangle framework
 - Trace the historical evolution of AI paradigms from symbolic systems through statistical learning to deep learning 
 - Evaluate the implications of Sutton's "Bitter Lesson" for modern ML systems engineering priorities 
-- 
+- Compare silent performance degradation in ML systems with traditional software failure modern
+- Contrast ML system lifecycle phases with traditional software development 
+- Classify real-world challenge in ML systems across data, model, system, and ethical categories 
+- Apply the five-pillar framework to evaluate ML system architectures
 # References
