@@ -24,6 +24,8 @@ Why must we master the engineering principles that govern systems capable of lea
 1. What is distinguishes machine learning systems from traditional deterministic software architectures?
 	a. Machine learning systems operate based on explicitly programmed instructions
 	b. Traditional software systems can adapt autonomously to new data
-	c. Machine learning systems rely on statistical patterns extracted from data
+	==**c. Machine learning systems rely on statistical patterns extracted from data**==
 	d. Traditional software systems require no maintenance  
+2. Explain the significance of the "bitter lesson" in AI research as mentioned in the Section.
+	- 
 # References
