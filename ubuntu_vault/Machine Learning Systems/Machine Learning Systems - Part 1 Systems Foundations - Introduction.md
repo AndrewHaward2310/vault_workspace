@@ -21,5 +21,9 @@ Why must we master the engineering principles that govern systems capable of lea
 - Classify real-world challenge in ML systems across data, model, system, and ethical categories 
 - Apply the five-pillar framework to evaluate ML system architectures
 ### Self-check: Question 1
-1. What is distinguishes machine learning systems from traditional determistic 
+1. What is distinguishes machine learning systems from traditional deterministic software architectures?
+	a. Machine learning systems operate based on explicitly programmed instructions
+	b. Traditional software systems can adapt autonomously to new data
+	c. Machine learning systems rely on statistical patterns extracted from data
+	d. Traditional software systems require no maintenance  
 # References
