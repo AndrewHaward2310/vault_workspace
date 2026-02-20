@@ -40,4 +40,7 @@ Why must we master the engineering principles that govern systems capable of lea
 4. How does the AI Triangle framework help in understanding machine  learning systems?
 	- Models ML systems as three interdependent system capabilities
 	_Answer_: The AI Triangle framework helps understand machine learning systems by illustrating the interdependencies among data, algorithms, and computational infrastructure. For example, changes in data quality can affect algorithm performance, which in turn impacts infrastructure requirements. This is important because it guides the design and optimization of ML systems.
+## From Artificial Intelligence Vision to Machine Learning Practice
+	How do we actually create these intelligent capabilities? 
+Understanding the relationship between AI and ML provides the key to answering this question and is central to everything that follows in this book
 # References
