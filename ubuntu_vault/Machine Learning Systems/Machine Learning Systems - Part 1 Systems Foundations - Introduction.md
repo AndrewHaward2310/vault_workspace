@@ -20,4 +20,6 @@ Why must we master the engineering principles that govern systems capable of lea
 - Contrast ML system lifecycle phases with traditional software development 
 - Classify real-world challenge in ML systems across data, model, system, and ethical categories 
 - Apply the five-pillar framework to evaluate ML system architectures
+### Self-check: Question 1
+1. What is distinguishes machine learning systems from traditional determistic 
 # References
