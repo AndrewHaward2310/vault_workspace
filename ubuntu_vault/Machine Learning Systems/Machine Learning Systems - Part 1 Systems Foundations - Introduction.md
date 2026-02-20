@@ -27,5 +27,11 @@ Why must we master the engineering principles that govern systems capable of lea
 	==**c. Machine learning systems rely on statistical patterns extracted from data**==
 	d. Traditional software systems require no maintenance  
 2. Explain the significance of the "bitter lesson" in AI research as mentioned in the Section.
-	- 
+	- Each transition required new engineering solutions
+	- Systems engineering as central to AI advancement 
+3. Which of the following challenges is NOT typically associated with machine learning systems engineering?
+    a.  Eliminating the need for computational infrastructure
+    b. Achieving scalability for large datasets
+    c. Maintaining robustness with changing data distributions
+    d. Ensuring reliability in learned behaviors
 # References
