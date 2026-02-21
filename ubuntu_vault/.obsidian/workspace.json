@@ -1170,7 +1170,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/ESSAY STRUCTURE IN WRITING TASK 2.md",
+                    "file": "3 - Zettenkasten/C - Main notes/HOW TO WRITE INTRODUCTION IELTS WRITING TASK 2.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -1185,11 +1185,59 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "ESSAY STRUCTURE IN WRITING TASK 2"
+                  "title": "HOW TO WRITE INTRODUCTION IELTS WRITING TASK 2"
+                }
+              },
+              {
+                "id": "b3e72120f1020464",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/WRITINGTASK2.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "WRITINGTASK2"
+                }
+              },
+              {
+                "id": "d0b90da9b5555799",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 - Zettenkasten/C - Main notes/HOW TO WRITE INTRODUCTION IELTS WRITING TASK 2.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "HOW TO WRITE INTRODUCTION IELTS WRITING TASK 2"
                 }
               }
             ],
-            "currentTab": 48
+            "currentTab": 50
           },
           {
             "id": "e66f9596f8ae4068",
@@ -1432,9 +1480,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd3a045c358211c4",
+  "active": "d0b90da9b5555799",
   "lastOpenFiles": [
     "3 - Zettenkasten/C - Main notes/WRITINGTASK2.md",
+    "3 - Zettenkasten/C - Main notes/HOW TO WRITE INTRODUCTION IELTS WRITING TASK 2.md",
+    "3 - Zettenkasten/C - Main notes/ESSAY STRUCTURE IN WRITING TASK 2.md",
     "2 - Indexes/ThanhLoan.md",
     "3 - Zettenkasten/C - Main notes/HOW TO DESCRIBE ABOUT THE DATA IETLS WRITING TASK 1.md",
     "1 - Specific Notes/Daily Plan/2025-11-28 IELTS WRITING 1.md",
@@ -1448,7 +1498,6 @@
     "3 - Zettenkasten/C - Main notes/LINE GRAPH IN IELTS WRITING TASK 1.md",
     "Pasted image 20260131203412.png",
     "2 - Indexes/WRITINGTASK1.md",
-    "3 - Zettenkasten/C - Main notes/ESSAY STRUCTURE IN WRITING TASK 2.md",
     "Pasted image 20260121201231.png",
     "Pasted image 20260121201419.png",
     "3 - Zettenkasten/C - Main notes/FOUR MARKING CRITERIA FOR WRITING TASK 2.md",
@@ -1470,7 +1519,6 @@
     "3 - Zettenkasten/C - Main notes/HOW TO USE THE TENSE IN WRITING TASK 1.md",
     "3 - Zettenkasten/C - Main notes/Lesson 1 - How to greet people and how to ask somebody's name in Chinese.md",
     "3 - Zettenkasten/C - Main notes/HSK1.md",
-    "3 - Zettenkasten/C - Main notes/Chinese Basics.md",
     "1 - Specific Notes/Daily Plan",
     "Untitled.canvas",
     "3 - Zettenkasten/C - Main notes/Untitled.base",
