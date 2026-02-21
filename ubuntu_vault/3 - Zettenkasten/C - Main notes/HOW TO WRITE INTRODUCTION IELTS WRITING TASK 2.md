@@ -11,6 +11,7 @@ Do the advantages of private health care outweigh the disadvantages?
 ![[Pasted image 20260221153058.png]]
 
 ![[Pasted image 20260221161524.png]]
-Certain individuals contend that good health is core human prerequisite, and as such, medical services 
 
+![[Pasted image 20260221162103.png]]
+Certain individuals contend that good health is core human prerequisite, and as such, medical services should not be controlled by profit-driven corporations. This answer will elaborate on both upsides and downsides of privatized healthcare, it is my belief that this healthcare systems offers more drawbacks 
 # References
