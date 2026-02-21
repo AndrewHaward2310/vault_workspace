@@ -7,17 +7,18 @@ ___
 # HOW TO WRITE BODY PARAGRAPHS IN IELTS WRITING TASK 2
 ![[Pasted image 20260221175236.png]]
 ## Type 1:
-Topic Sentence:
+**Topic Sentence:**
 - The topic of the paragraph
 - the central point of the paragraph
-Idea 1
+**Idea 1**
 - Firstly, ..../ The main reason is .../ Chief among these is .../ 
 - Expand with evidence
 	- Explain 
 	- Example
 	- Opposite
 	- Result 
-Idea 2
-- 
+**Idea 2**
+- Secondly, .../ Another reason is .../
+- Expand with evidence 
 
 # References
