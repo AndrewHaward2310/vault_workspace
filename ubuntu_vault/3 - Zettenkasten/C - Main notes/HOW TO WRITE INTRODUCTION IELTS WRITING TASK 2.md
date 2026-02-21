@@ -19,5 +19,8 @@ Question 2: Some people think that employers should not care about the way their
 To what extent do you agree or disagree with this statement?
 ![[Pasted image 20260221163452.png]]
 Certain individuals contend that superiors shouldn't prioritize the dressing style of their employees, as their performance at work is what matters. 
-Alternative ways to parapharse
+Alternative ways to paraphrase:
+- Some argue that employers should focus entirely on job performance rather than their staff's attire.
+- It is argue by some that an employee's clothing choices should be irrelevant to management, provided the quality of their work is high
+- There is a widespread belief that workplace attire should not be a concern for employers, since a worker's actual output is the only thing of true importance 
 # References
