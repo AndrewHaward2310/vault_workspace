@@ -43,4 +43,6 @@ Why must we master the engineering principles that govern systems capable of lea
 ## From Artificial Intelligence Vision to Machine Learning Practice
 	How do we actually create these intelligent capabilities? 
 Understanding the relationship between AI and ML provides the key to answering this question and is central to everything that follows in this book
+- AI is the vision of intelligent machines that can learn, reason, adapt, and can perform tasks requiring human-like intelligence 
+- Machine Learning (ML) represents the methodological 
 # References
