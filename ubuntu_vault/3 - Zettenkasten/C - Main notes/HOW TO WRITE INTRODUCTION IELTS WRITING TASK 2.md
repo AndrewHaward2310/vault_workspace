@@ -8,6 +8,6 @@ ___
 
 Question 1: Some people think that good health is a basic human need, so medical services should not be run by profit-making companies.
 Do the advantages of private health care outweigh the disadvantages?
-
+![[Pasted image 20260221153058.png]]
 
 # References
