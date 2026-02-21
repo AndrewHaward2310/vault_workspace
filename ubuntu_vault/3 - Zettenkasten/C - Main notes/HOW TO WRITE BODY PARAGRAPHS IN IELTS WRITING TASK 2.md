@@ -20,5 +20,6 @@ ___
 **Idea 2**
 - Secondly, .../ Another reason is .../
 - Expand with evidence 
+![[Pasted image 20260221181518.png]]
 
 # References
