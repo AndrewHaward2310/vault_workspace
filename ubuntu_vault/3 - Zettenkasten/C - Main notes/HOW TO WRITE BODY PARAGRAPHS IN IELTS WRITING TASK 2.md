@@ -21,5 +21,7 @@ ___
 - Secondly, .../ Another reason is .../
 - Expand with evidence 
 ![[Pasted image 20260221181518.png]]
-
+![[Pasted image 20260221183359.png]]
+![[Pasted image 20260221183341.png]]
+- I believe that some fields or apartments which   
 # References
