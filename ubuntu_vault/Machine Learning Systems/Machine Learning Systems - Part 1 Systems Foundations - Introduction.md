@@ -44,5 +44,6 @@ Why must we master the engineering principles that govern systems capable of lea
 	How do we actually create these intelligent capabilities? 
 Understanding the relationship between AI and ML provides the key to answering this question and is central to everything that follows in this book
 - AI is the vision of intelligent machines that can learn, reason, adapt, and can perform tasks requiring human-like intelligence 
-- Machine Learning (ML) represents the methodological 
+- Machine Learning (ML) represents the methodological approach and practical discipline for creating systems that demonstrate intelligent behavior. Unlike traditional  
+- 
 # References
