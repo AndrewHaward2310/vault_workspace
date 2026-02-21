@@ -18,5 +18,6 @@ Certain individuals contend that good health is core human prerequisite, and as 
 Question 2: Some people think that employers should not care about the way their employees dress, because what matters is the quality of their work. 
 To what extent do you agree or disagree with this statement?
 ![[Pasted image 20260221163452.png]]
-Certain individuals contend that superiors shouldn't prioritize dressing style of their employees, as the performance at work is matter  
+Certain individuals contend that superiors shouldn't prioritize the dressing style of their employees, as their performance at work is what matters. 
+Alternative ways to parapharse
 # References
