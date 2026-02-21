@@ -23,5 +23,6 @@ ___
 ![[Pasted image 20260221181518.png]]
 ![[Pasted image 20260221183359.png]]
 ![[Pasted image 20260221183341.png]]
-- I believe that some fields or apartments which   
+- I believe that some fields or apartments which managers should be focus on productivity. 
+- 
 # References
