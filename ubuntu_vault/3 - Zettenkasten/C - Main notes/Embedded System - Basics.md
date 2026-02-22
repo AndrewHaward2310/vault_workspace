@@ -1,7 +1,7 @@
 ___
 📆 2025-12-29 17:16
 
-🔗 Permalink: [[EMBEDDED]] 
+🔗 Permalink: [[EMBEDDED]]  
 ___
 
 # Embedded System - Basics
