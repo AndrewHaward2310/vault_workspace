@@ -19,6 +19,6 @@ ___
 	- Pinyin is widely used as a facilitative device to learn the pronunciation of characters 
 	- ![[Pasted image 20260115220654.png]]
 	- The most important function of the tone is to differentiate meanings represented by the characters, so different tones will lead to different characters with different meanings
-
+ 
 
 # References
