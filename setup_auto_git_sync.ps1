@@ -9,7 +9,7 @@ $isAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIde
 if (-not $isAdmin) {
     Write-Host "ERROR: This script must be run as Administrator!" -ForegroundColor Red
     Write-Host "Right-click PowerShell -> 'Run as Administrator' and try again." -ForegroundColor Yellow
-    Read-Host "Press Enter to exit"
+    pause
     exit 1
 }
 
@@ -66,4 +66,4 @@ if (Test-Path $LogPath) {
     Get-Content $LogPath -Tail 5
 }
 
-Read-Host "Press Enter to exit"
+pause
