@@ -74,3 +74,5 @@
 [2026-02-25 20:42:28] Pushed 12 commit(s) to GitHub. fatal: Unable to persist credentials with the 'wincredman' credential store. See https://aka.ms/gcm/credstores for more information. bash: line 1: /dev/tty: No such device or address error: failed to execute prompt script (exit code 1) fatal: could not read Username for 'https://github.com': No such file or directory
 [2026-02-25 20:45:01] Changes committed. [main 0a20d53] vault backup: 2026-02-25 20:45:01  1 file changed, 2 insertions(+)
 [2026-02-25 20:45:01] Pushed 13 commit(s) to GitHub. fatal: Unable to persist credentials with the 'wincredman' credential store. See https://aka.ms/gcm/credstores for more information. bash: line 1: /dev/tty: No such device or address error: failed to execute prompt script (exit code 1) fatal: could not read Username for 'https://github.com': No such file or directory
+[2026-02-25 20:52:27] Changes committed. [main 94e96c8] vault backup: 2026-02-25 20:52:27  1 file changed, 2 insertions(+)
+[2026-02-25 20:52:27] Pushed 1 commit(s) to GitHub. To https://github.com/AndrewHaward2310/vault_workspace.git    0a20d53..94e96c8  main -> main
