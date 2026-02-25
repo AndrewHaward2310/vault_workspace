@@ -1,6 +1,6 @@
 # Thông báo Chương trình học bổng Young Fellowship Programme 2026 tại National University of Singapore (NUS), Singapore
 
-NUS Young Fellowship Programme 2026 – Cơ hội trải nghiệm nghiên cứu quốc tế tại Singapore dành cho sinh viên năm cuối tại National University of Singapore (NUS)
+
 
 1. Thông tin chương trình:
 Chương trình NUS Young Fellowship Programme 2026 (NUS YFP 2026) là chương trình học bổng ngắn hạn quốc tế được thiết kế dành cho các sinh viên có thành tích học tập xuất sắc và định hướng theo đuổi bậc học sau đại học, do National University of Singapore Graduate School (NUS Graduate School) phối hợp với NUS School of Continuing and Lifelong Education (SCALE) triển khai.
