@@ -1,0 +1,197 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% CV for NUS Young Fellowship Programme 2026
+% Strategy: Option B — "AI × Industry 4.0 Bridge Builder"
+
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+
+% Define colors
+\definecolor{darkblue}{rgb}{0.0, 0.0, 0.5}
+\definecolor{darkgray}{rgb}{0.3, 0.3, 0.3}
+\definecolor{accentblue}{rgb}{0.1, 0.3, 0.6}
+
+% Remove page number
+\pagestyle{empty}
+
+% Hyperlink setup
+\hypersetup{
+  colorlinks=true,
+  linkcolor=accentblue,
+  urlcolor=accentblue
+}
+
+% Custom commands
+\newcommand{\cvname}[1]{
+  \centerline{\Large\textbf{#1}}
+  \vspace{0.3em}
+}
+
+\newcommand{\contact}[4]{
+  \centerline{\small #1 \quad $\bullet$ \quad #2 \quad $\bullet$ \quad #3 \quad $\bullet$ \quad #4}
+  \vspace{0.8em}
+}
+
+\renewcommand{\section}[1]{
+  \vspace{0.4em}
+  {\large\textbf{\textcolor{darkblue}{#1}}}
+  \vspace{0.15em}
+  \hrule
+  \vspace{0.3em}
+}
+
+\newcommand{\entry}[4]{
+  \textbf{#1} \hfill #2 \\
+  \textit{#3} \\
+  #4
+  \vspace{0.3em}
+}
+
+\begin{document}
+
+% ============================================
+% HEADER
+% ============================================
+\cvname{Le Duc Nguyen}
+
+\contact
+  {\href{mailto:nguyen.ld2310@gmail.com}{nguyen.ld2310@gmail.com}}
+  {+84 (945) 032-669}
+  {\href{https://github.com/AndrewHaward2310}{GitHub: AndrewHaward2310}}
+  {Hanoi, Vietnam}
+
+% ============================================
+% RESEARCH INTERESTS — New section for NYFP
+% ============================================
+\section{RESEARCH INTERESTS}
+
+Bridging the gap between advanced AI and real-world industrial systems. My research focuses on applying \textbf{multi-agent reinforcement learning}, \textbf{large language models}, and \textbf{intelligent IoT architectures} to transform manufacturing and logistics in developing economies. I am particularly interested in how AI can empower — not replace — human workers in Industry 4.0 environments.
+
+% ============================================
+% EDUCATION
+% ============================================
+\section{EDUCATION}
+
+\entry
+  {Hanoi University of Science and Technology (HUST)}
+  {Oct 2021 -- Mar 2026}
+  {B.S. in Mechatronics Engineering}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Dean's List / Academic Excellence Scholarship (Semesters 20211, 20212)
+      \item Relevant coursework: Automatic Control, Robotics, Digital Systems Design, Signal Processing, Machine Learning
+    \end{itemize}
+  }
+
+% ============================================
+% RESEARCH AND PROJECT EXPERIENCE
+% Reordered: Most relevant to NYFP theme first
+% ============================================
+\section{RESEARCH AND PROJECT EXPERIENCE}
+
+% Project 1: Multi-Agent RL — Most relevant to "AI and Graduate Research"
+\entry
+  {\href{https://andrewhaward2310.github.io/gnn-il-ppo-paper/}{Multi-Agent AGV Coordination with Reinforcement Learning}}
+  {Jul 2025 -- Sep 2025}
+  {Project Lead | School of Mechanical Engineering, HUST}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Designed a multi-agent reinforcement learning framework for autonomous guided vehicle (AGV) coordination in smart factory environments, addressing real-world Industry 4.0 challenges
+      \item Trained RL models using Proximal Policy Optimization (PPO) and Imitation Learning for multi-agent task allocation and collision avoidance
+      \item Integrated PID-based control systems with RL agents, demonstrating the bridge between classical control theory and modern AI
+      \item Built a high-fidelity 2D simulation with deadlock resolution logic (Priority Tie-breaking, Mutual-Wait detection, Timeout Rerouting) and browser-based benchmarking platform
+      \item Technologies: PPO, GNN, Imitation Learning, PID Control, ROS, Python
+    \end{itemize}
+  }
+
+% Project 2: LLM for Industry — DENSO collaboration shows industry exposure
+\entry
+  {LLM-based Industrial Error Alert System}
+  {Nov 2023 -- Jan 2024}
+  {Project Lead | DENSO Factory Hacks 2023 (FPT $\times$ DENSO Collaboration)}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Led a cross-functional team to develop an LLM-powered solution for real-time industrial error detection, directly addressing manufacturing digitalization challenges
+      \item Designed system architecture integrating Elasticsearch for data indexing and Weaviate vector database for semantic search over historical error logs
+      \item Gained first-hand exposure to factory floor operations and the gap between advanced AI capabilities and industrial adoption in Southeast Asia
+      \item \textbf{Award:} Third Prize, DENSO Factory Hacks 2023
+    \end{itemize}
+  }
+
+% Project 3: IoT Smart Garden — Shows full-stack system design ability
+\entry
+  {\href{https://github.com/AndrewHaward2310/IoTSmartGardenSystem}{IoT Smart Garden System — Scalable Microservice Architecture}}
+  {Oct 2025 -- Jan 2026}
+  {Backend Lead / System Architect | University Course Project}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Architected a comprehensive IoT platform using microservice architecture with Docker orchestration, demonstrating systems-level thinking applicable to smart manufacturing
+      \item Implemented a multi-database data pipeline (PostgreSQL, MongoDB, Redis) with MQTT-based real-time sensor data ingestion from ESP32 devices
+      \item Technologies: Node.js, Express.js, PostgreSQL, MongoDB, Redis, Docker, MQTT
+    \end{itemize}
+  }
+
+% Project 4: UWB — Earlier project showing research trajectory
+\entry
+  {Warehouse Management System using Ultra-Wideband (UWB) Technology}
+  {Nov 2022 -- Mar 2023}
+  {Developer | Innovation and Scientific Research Award, HUST}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Built real-time indoor positioning and asset tracking system using UWB sensors for warehouse logistics optimization
+      \item \textbf{Award:} Innovation and Scientific Research Award, HUST (Jun 2022)
+    \end{itemize}
+  }
+
+% ============================================
+% AWARDS AND ACHIEVEMENTS
+% ============================================
+\section{AWARDS AND ACHIEVEMENTS}
+
+\begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.3em]
+  \item \textbf{Third Prize}, DENSO Factory Hacks 2023 — LLM-based industrial error detection \hfill Jan 2024
+  \item \textbf{Innovation and Scientific Research Award}, HUST — UWB warehouse system \hfill Jun 2022
+  \item \textbf{Dean's List / Academic Excellence Scholarship}, HUST \hfill 2021 -- 2022
+\end{itemize}
+
+% ============================================
+% TECHNICAL SKILLS
+% ============================================
+\section{TECHNICAL SKILLS}
+
+\textbf{AI \& Machine Learning:} Reinforcement Learning (PPO, IL), Graph Neural Networks, Large Language Models, Semantic Search (Elasticsearch, Weaviate)
+
+\vspace{0.2em}
+\textbf{Embedded Systems \& Control:} PID Control, MQTT/UWB Protocols, ROS, ESP32, Industrial IoT Integration
+
+\vspace{0.2em}
+\textbf{Software Engineering:} Python (Advanced), C/C++, Node.js, Docker, Microservices Architecture, PostgreSQL, MongoDB, Redis
+
+\vspace{0.2em}
+\textbf{Research Tools:} MATLAB, Jupyter Notebook, Git, Streamlit, Data Visualization (Matplotlib, Seaborn)
+
+% ============================================
+% LANGUAGES
+% ============================================
+\section{LANGUAGES}
+
+\textbf{Vietnamese:} Native \quad $\bullet$ \quad \textbf{English:} IELTS Academic 5.0 (Feb 2025; actively improving for graduate studies)
+
+% ============================================
+% REFERENCES
+% ============================================
+\section{REFERENCES}
+
+\textbf{Assoc. Prof. Dr. Pham Duc An} \\
+Vice Head, Department of Mechatronics Engineering \\
+School of Mechanical Engineering, HUST \\
+\href{mailto:an.phamduc@hust.edu.vn}{an.phamduc@hust.edu.vn}
+
+\end{document}
