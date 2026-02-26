@@ -67,8 +67,17 @@ Understanding the relationship between AI and ML provides the key to answering t
 	b. ML is a practical implementation of AI using rule-based systems.
 	c. AI and ML are completely independent fields.
 	==**d. ML is a subset of AI focused on data-driven techniques.**==
+	_Answer_: The correct answer is D. ML is a subset of AI focused on data-driven techniques. AI is the broader goal of creating intelligent systems, while ML provides the methods to achieve this through learning from data.
 2. Explain why machine learning has become the dominant approach in achieving AI goals.
 	- ML is data-driven and automatically discovers patterns from data, ML systems can adapt to situations that programmers never anticipated, while rule-based systems remain constrained by their original programming.
 	- ML systems scale with data and computational resources, while rule-based systems scale with programmer effort.
+	_Answer_: Machine learning has become dominant because it allows systems to automatically discover patterns from data, making them adaptable to new situations without the need for explicit programming. For example, ML systems can learn to play chess by analyzing game data rather than relying on pre-programmed strategies. This adaptability is crucial for handling complex, real-world scenarios where rule-based systems fall short.
+3. Order the following steps in the evolution from symbolic AI to machine learning:
+	(1). Encoding human knowledge as rules
+	(2). Discovering patterns from data
+	(3). Scaling with compute and data infrastructure
+	_Answer_: (1), (2), (3). Initially, AI relied on manually encoded rules, but the shift to ML allowed systems to learn from data. This evolution further required scaling with infrastructure to handle large datasets and complex models.
+
+## Defining ML Systems 
 
 # References
