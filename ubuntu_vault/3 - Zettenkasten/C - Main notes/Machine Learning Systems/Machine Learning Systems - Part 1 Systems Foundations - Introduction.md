@@ -53,11 +53,11 @@ Understanding the relationship between AI and ML provides the key to answering t
       - In ML systems, humans curate training data, design learning algorithms, and define success metrics, allowing systems to extract its own operational logic from example. 
       - Data-driven systems can adapt to situations that programmers never anticipated, while rule-based systems remain constrained by their original programming
 - The distinction between AI as research vision and ML as engineering methodology carries significant implications for system design. Rule-based AI systems scaled with programmer effort, requiring manual encoding of each new capability. Data-driven ML systems scale through computational and data infrastructure, achieving improved performance by expanding training datasets and computational resources rather than through additional programming effort. This trasformation elevated systems engineering to a central role: advancement now depends on building infrastructure capable of collecting massive datasets, training models with billions of parameters, and serving predictions at scale. Machine learning emerged as a practical approach to AI through this paradigm shift[^1], transforming theoretical principles about intelligence into functioning systems that form the algorithmic foundation of today’s intelligent capabilities.
-> [!NOTE] **Definition**: 
-> Artificial Intelligence (AI) is the field of computer science focused on creating systems that perform tasks requiring human-like intelligence, including learning, reasoning, and adaptation.
-Machine Learning (ML) is the approach to AI that enables systems to automatically learn patterns and make decisions from data rather than following explicit programmed rules.
-
   [^1]:Paradigm Shift: A term coined by philosopher Thomas Kuhn in 1962 (Kvasz 2014) to describe major changes in scientific approach. In AI, the key paradigm shift was moving from symbolic reasoning (encoding human knowledge as rules) to statistical learning (discovering patterns from data). This transformation explains why ML systems engineering emerged as a discipline distinct from traditional software engineering.
   Kvasz, Ladislav. 2014. “Kuhn’s Structure of Scientific Revolutions Between Sociology and Epistemology.” Studies in History and Philosophy of Science Part A 46 (June): 78–84. https://doi.org/10.1016/j.shpsa.2014.02.006. 
+
+> [!Definition] **Definition**: 
+> Artificial Intelligence (AI) is the field of computer science focused on creating systems that perform tasks requiring human-like intelligence, including learning, reasoning, and adaptation.
+> Machine Learning (ML) is the approach to AI that enables systems to automatically learn patterns and make decisions from data rather than following explicit programmed rules.
 
 # References
