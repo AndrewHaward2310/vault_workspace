@@ -34,12 +34,9 @@
 - **File:** `Personal_Statement_NYFP.md`
 - **Đề đã chọn:** Đề 2 — Vấn đề xã hội đương đại
 
-### 3. Academic Transcript — KHUYẾN KHÍCH
-- [ ] Xin bảng điểm tại phòng Đào tạo HUST
-- [ ] Bản tiếng Anh (hoặc có công chứng)
-- [ ] Scan/PDF chất lượng cao
-- ✅ **GPA: ~3.05-3.15/4.0** (chưa chốt do 1 môn chưa cập nhật)
-- 💡 **Khuyến nghị: NÊN nộp** — GPA trên 3.0 kết hợp Dean's List vẫn tăng sức thuyết phục
+### 3. Academic Transcript — ~~KHUYẾN KHÍCH~~ KHÔNG NỘP
+- ❌ **Quyết định: KHÔNG nộp** — GPA 3.1 không phải điểm mạnh, để CV + awards nói thay
+- Transcript là optional, bỏ qua để tập trung vào projects + DENSO letter
 
 ### 4. Letters of Recommendation (x2) — KHUYẾN KHÍCH
 - [x] ✅ **Reference 1: DENSO** — đã có sẵn PDF (`Letter of Recommendation_Le Duc Nguyen_Hackathon 2024.pdf`)
