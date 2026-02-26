@@ -1,5 +1,8 @@
 # 📧 Email Templates — Xin Thư Giới Thiệu cho NYFP 2026
 
+> ✅ **Reference 1 (DENSO):** Đã có sẵn — `Letter of Recommendation_Le Duc Nguyen_Hackathon 2024.pdf`
+> 📝 **Reference 2 (PGS Phạm Đức An):** Cần gửi email bên dưới
+
 ## Email 1: Gửi PGS.TS Phạm Đức An (Reference chính)
 
 **Ngôn ngữ:** Tiếng Việt (vì là giảng viên HUST)

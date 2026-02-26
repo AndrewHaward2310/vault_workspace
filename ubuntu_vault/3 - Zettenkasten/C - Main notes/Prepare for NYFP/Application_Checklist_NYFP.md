@@ -38,13 +38,14 @@
 - [ ] Xin bảng điểm tại phòng Đào tạo HUST
 - [ ] Bản tiếng Anh (hoặc có công chứng)
 - [ ] Scan/PDF chất lượng cao
-- ⚠️ **Quyết định:** Cần biết GPA để quyết định nộp hay không
+- ✅ **GPA: ~3.05-3.15/4.0** (chưa chốt do 1 môn chưa cập nhật)
+- 💡 **Khuyến nghị: NÊN nộp** — GPA trên 3.0 kết hợp Dean's List vẫn tăng sức thuyết phục
 
 ### 4. Letters of Recommendation (x2) — KHUYẾN KHÍCH
-- [ ] Gửi email cho PGS.TS Phạm Đức An
-- [ ] Xác định & gửi email cho Reference thứ 2
+- [x] ✅ **Reference 1: DENSO** — đã có sẵn PDF (`Letter of Recommendation_Le Duc Nguyen_Hackathon 2024.pdf`)
+- [ ] Gửi email cho PGS.TS Phạm Đức An (Reference 2)
 - [ ] Follow up nếu chưa nhận sau 3 ngày
-- [ ] Nhận thư trước 12/3
+- [ ] Nhận thư PGS An trước 12/3
 - **File template:** `Reference_Letter_Emails.md`
 
 ### 5. Passport-size Photo — BẮT BUỘC
