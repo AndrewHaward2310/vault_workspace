@@ -68,6 +68,7 @@ Understanding the relationship between AI and ML provides the key to answering t
 	c. AI and ML are completely independent fields.
 	==**d. ML is a subset of AI focused on data-driven techniques.**==
 2. Explain why machine learning has become the dominant approach in achieving AI goals.
-	- ML is data-driven and automatically discovers patterns from data 
+	- ML is data-driven and automatically discovers patterns from data, ML systems can adapt to situations that programmers never anticipated, while rule-based systems remain constrained by their original programming.
+	- ML systems scale with data and computational resources, while rule-based systems scale with programmer effort.
 
 # References
