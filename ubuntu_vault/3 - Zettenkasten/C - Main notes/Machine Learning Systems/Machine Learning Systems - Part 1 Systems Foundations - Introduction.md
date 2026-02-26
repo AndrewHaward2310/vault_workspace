@@ -60,4 +60,14 @@ Understanding the relationship between AI and ML provides the key to answering t
 > Artificial Intelligence (AI) is the field of computer science focused on creating systems that perform tasks requiring human-like intelligence, including learning, reasoning, and adaptation.
 > Machine Learning (ML) is the approach to AI that enables systems to automatically learn patterns and make decisions from data rather than following explicit programmed rules.
 
+### Self-check: Question 2
+1. Which of the following best describes the relationship between Artificial Intelligence (AI) and Machine Learning (ML)?
+   
+	a. AI is a subset of ML focused on data-driven techniques.
+	b. ML is a practical implementation of AI using rule-based systems.
+	c. AI and ML are completely independent fields.
+	==**d. ML is a subset of AI focused on data-driven techniques.**==
+2. Explain why machine learning has become the dominant approach in achieving AI goals.
+	- ML is data-driven and automatically discovers patterns from data 
+
 # References
