@@ -52,7 +52,7 @@ Nó bắt đầu vào năm 2022 khi tôi phát triển hệ thống quản lý k
 Bước ngoặt đến trong DENSO Factory Hacks năm 2023, nơi tôi cùng với nhóm của mình đã phát triển hệ thống cảnh báo lỗi công nghiệp dựa trên LLM. Bằng cách kết hợp Elasticsearch để đánh chỉ mục dữ liệu với vector database Weaviate cho tìm kiếm ngữ nghĩa (semantic search), chúng tôi cho phép nhân viên vận hành nhà máy truy vấn các mẫu lỗi lịch sử bằng ngôn ngữ tự nhiên — biến đổi cách công nhân tương tác với dữ liệu máy móc. Hệ thống đạt Giải Ba, nhưng quan trọng hơn, nó cho tôi thấy tiềm năng khổng lồ của AI trong sản xuất và những rào cản lớn không kém trong việc áp dụng nó vào thực tế.
 
 > [!FIX]
-> Phần này không cần mô tả công nghệ chi tiết, 
+> Phần này không cần mô tả công nghệ chi tiết, cần thể hiện rằng quy trình đã được thay đổi thế nào, và hỗ trợ công nhân và các kỹ sư bảo trì như thế nào.
 **Dự án 3 — Multi-Agent RL cho AGV (2025) — Đỉnh cao:**
 Trải nghiệm đó trực tiếp thúc đẩy dự án tham vọng nhất đến nay: phát triển framework học tăng cường đa tác nhân (multi-agent reinforcement learning) cho điều phối xe tự hành dẫn đường (AGV) trong môi trường nhà máy thông minh (2025). Sử dụng thuật toán Proximal Policy Optimization (PPO) kết hợp Graph Neural Networks, tôi thiết kế hệ thống nơi nhiều xe tự hành có thể học các hành vi hợp tác — phân bổ nhiệm vụ, tránh va chạm, và giải quyết deadlock — thông qua huấn luyện thay vì lập trình tường minh. Việc tích hợp điều khiển PID với RL agents cho phép tôi bắc cầu giữa lý thuyết điều khiển cổ điển và AI hiện đại, chứng minh rằng hai hướng tiếp cận này bổ trợ cho nhau, chứ không cạnh tranh.
 
