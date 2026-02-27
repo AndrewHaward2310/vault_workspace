@@ -57,7 +57,7 @@ Bước ngoặt đến trong DENSO Factory Hacks năm 2023, nơi tôi cùng vớ
 Trải nghiệm đó trực tiếp thúc đẩy dự án tham vọng nhất đến nay: phát triển framework học tăng cường đa tác nhân (multi-agent reinforcement learning) cho điều phối xe tự hành dẫn đường (AGV) trong môi trường nhà máy thông minh (2025). Sử dụng thuật toán Proximal Policy Optimization (PPO) kết hợp Graph Neural Networks, tôi thiết kế hệ thống nơi nhiều xe tự hành có thể học các hành vi hợp tác — phân bổ nhiệm vụ, tránh va chạm, và giải quyết deadlock — thông qua huấn luyện thay vì lập trình tường minh. Việc tích hợp điều khiển PID với RL agents cho phép tôi bắc cầu giữa lý thuyết điều khiển cổ điển và AI hiện đại, chứng minh rằng hai hướng tiếp cận này bổ trợ cho nhau, chứ không cạnh tranh.
 
 > [!FIX]
-> 
+> Phần này cần nói ngôn ngữ học thuật hơn, thể hiện được tính sáng tạo và tính khoa học của dự án. Cảm giác từ ngữ bây giờ đang như một người nghiệp dư diễn tả, mất điểm trước các chuyên gia khi chấm điểm.
 
 > [!IMPORTANT]
 > **⚠️ CẦN XÁC NHẬN:**
