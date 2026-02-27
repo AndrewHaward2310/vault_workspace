@@ -102,14 +102,14 @@ Thông qua chương trình, tôi không chỉ muốn nâng cao năng lực nghi�
 Sếp hãy đọc qua bản tiếng Việt và trả lời các câu hỏi sau:
 
 ### Về tính xác thực:
-- [ ] Đoạn mở đầu về DENSO — có đứng trên sàn nhà máy thật không?
-- [ ] Có thực sự thấy công nhân dò tìm thủ công qua trang giấy in lỗi không?
-- [ ] Timeline DENSO hackathon (cuối 2023, kết quả Jan 2024) — đúng chưa?
-- [ ] Dự án UWB đạt giải thưởng HUST năm 2022 — chính xác chưa?
-- [ ] Dự án AGV (Jul-Sep 2025) — thời gian có đúng không?
+- [ ] Đoạn mở đầu về DENSO — có đứng trên sàn nhà máy thật không? đã trả lời ở trên
+- [ ] Có thực sự thấy công nhân dò tìm thủ công qua trang giấy in lỗi không? bên DENSO họ có hệ thống phần mềm riêng và họ có thể xem các lỗi đó trên hệ thống nhưng vẫn mất thời gian tìm kiếm nên hệ thống của tôi là sẽ hỏi đáp dựa trên nguồn data có sẵn của họ về các lỗi máy móc để trả lời câu hỏi của kỹ sư bảo trì hệ thống. 
+- [ ] Timeline DENSO hackathon (cuối 2023, kết quả Jan 2024) — đúng chưa? đúng rồi, có nói ở trên rồi
+- [ ] Dự án UWB đạt giải thưởng HUST năm 2022 — chính xác chưa? đúng rồi
+- [ ] Dự án AGV (Jul-Sep 2025) — thời gian có đúng không? đúng rồi, có nói ở trên rồi
 
 ### Về nội dung muốn thêm/sửa:
-- [ ] Có kỷ niệm/khoảnh khắc cá nhân nào đáng nhớ hơn muốn thay vào mở đầu?
+- [ ] Có kỷ niệm/khoảnh khắc cá nhân nào đáng nhớ hơn muốn thay vào mở đầu? 
 - [ ] Có muốn thêm chi tiết về vai trò cụ thể trong mỗi dự án?
 - [ ] Câu nói "AI nên trao quyền, không thay thế" — sếp có cùng quan điểm không?
 - [ ] Có giáo sư/lab cụ thể nào ở NUS mà sếp muốn mention không?
