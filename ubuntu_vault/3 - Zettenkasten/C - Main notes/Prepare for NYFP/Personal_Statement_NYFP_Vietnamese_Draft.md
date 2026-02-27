@@ -42,6 +42,9 @@ Khoảng cách này không chỉ mang tính kỹ thuật. Nó mang tính **hệ 
 
 Hành trình học thuật của tôi được định hình bởi một sợi chỉ xuyên suốt: ứng dụng các công nghệ mới nổi để giải quyết các vấn đề công nghiệp thiết thực.
 
+> [!FIX]
+> Phần này là phần tổng quan nên tôi mong muốn nó 
+
 **Dự án 1 — UWB (2022):**
 Nó bắt đầu vào năm 2022 khi tôi phát triển hệ thống quản lý kho hàng sử dụng công nghệ Ultra-Wideband (UWB), xây dựng khả năng định vị trong nhà theo thời gian thực phục vụ theo dõi tài sản. Dự án này đạt Giải thưởng Nghiên cứu Khoa học và Đổi mới Sáng tạo của HUST, đồng thời giúp tôi làm quen với thách thức tích hợp cảm biến phần cứng với kiến trúc dữ liệu đám mây.
 
