@@ -32,6 +32,9 @@ Khoảng cách này không chỉ mang tính kỹ thuật. Nó mang tính **hệ 
 
 > [!NOTE]
 > **GHI CHÚ:** Đoạn này nêu ra vấn đề xã hội (digital transformation gap). Con số 25% GDP là ước tính — sếp có biết số liệu chính xác hơn từ bài giảng hoặc tài liệu không?
+>
+> [!FIX]
+> Tôi nghĩ bạn cần phải xác nhận lại thông tin 25% GDP nếu 
 
 ---
 
