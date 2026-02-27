@@ -43,13 +43,16 @@ Khoảng cách này không chỉ mang tính kỹ thuật. Nó mang tính **hệ 
 Hành trình học thuật của tôi được định hình bởi một sợi chỉ xuyên suốt: ứng dụng các công nghệ mới nổi để giải quyết các vấn đề công nghiệp thiết thực.
 
 > [!FIX]
-> Phần này là phần tổng quan nên tôi mong muốn nó 
+> Phần này là phần tổng quan nên tôi mong muốn nó ngắn gọn nhưng vẫn phải đủ bao quát được hành trình của tôi, đúng là tôi đang đi theo một hướng xuyên suốt qua các dự án của mình. Hành trình xoay quanh nghiên cứu các công nghệ tiên tiến, mới nổi để ứng dụng và giải quyết các vấn đề thực tế trong công nghiệp nhằm nâng cao hiệu quả và khả năng tự động hóa các quy trình sản xuất. Hãy dùng những từ ngữ thật hay và logic để diễn đạt, tránh lặp từ và diễn đạt rập khuôn.
 
 **Dự án 1 — UWB (2022):**
 Nó bắt đầu vào năm 2022 khi tôi phát triển hệ thống quản lý kho hàng sử dụng công nghệ Ultra-Wideband (UWB), xây dựng khả năng định vị trong nhà theo thời gian thực phục vụ theo dõi tài sản. Dự án này đạt Giải thưởng Nghiên cứu Khoa học và Đổi mới Sáng tạo của HUST, đồng thời giúp tôi làm quen với thách thức tích hợp cảm biến phần cứng với kiến trúc dữ liệu đám mây.
 
 **Dự án 2 — DENSO Factory Hacks (2023) — Bước ngoặt:**
 Bước ngoặt đến trong DENSO Factory Hacks năm 2023, nơi tôi dẫn đầu một nhóm tạo ra hệ thống cảnh báo lỗi công nghiệp dựa trên LLM. Bằng cách kết hợp Elasticsearch để đánh chỉ mục dữ liệu với vector database Weaviate cho tìm kiếm ngữ nghĩa (semantic search), chúng tôi cho phép nhân viên vận hành nhà máy truy vấn các mẫu lỗi lịch sử bằng ngôn ngữ tự nhiên — biến đổi cách công nhân tương tác với dữ liệu máy móc. Hệ thống đạt Giải Ba, nhưng quan trọng hơn, nó cho tôi thấy tiềm năng khổng lồ của AI trong sản xuất và những rào cản lớn không kém trong việc áp dụng nó vào thực tế.
+
+> [!FIX]
+> "nơi tôi dẫn đầu một nhóm tạo ra hệ thống cảnh báo lỗi công nghiệp dựa trên LLM" => "no
 
 **Dự án 3 — Multi-Agent RL cho AGV (2025) — Đỉnh cao:**
 Trải nghiệm đó trực tiếp thúc đẩy dự án tham vọng nhất đến nay: phát triển framework học tăng cường đa tác nhân (multi-agent reinforcement learning) cho điều phối xe tự hành dẫn đường (AGV) trong môi trường nhà máy thông minh (2025). Sử dụng thuật toán Proximal Policy Optimization (PPO) kết hợp Graph Neural Networks, tôi thiết kế hệ thống nơi nhiều xe tự hành có thể học các hành vi hợp tác — phân bổ nhiệm vụ, tránh va chạm, và giải quyết deadlock — thông qua huấn luyện thay vì lập trình tường minh. Việc tích hợp điều khiển PID với RL agents cho phép tôi bắc cầu giữa lý thuyết điều khiển cổ điển và AI hiện đại, chứng minh rằng hai hướng tiếp cận này bổ trợ cho nhau, chứ không cạnh tranh.
