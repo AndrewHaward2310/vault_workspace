@@ -109,14 +109,14 @@ Sếp hãy đọc qua bản tiếng Việt và trả lời các câu hỏi sau:
 - [ ] Dự án AGV (Jul-Sep 2025) — thời gian có đúng không? đúng rồi, có nói ở trên rồi
 
 ### Về nội dung muốn thêm/sửa:
-- [ ] Có kỷ niệm/khoảnh khắc cá nhân nào đáng nhớ hơn muốn thay vào mở đầu? 
-- [ ] Có muốn thêm chi tiết về vai trò cụ thể trong mỗi dự án?
-- [ ] Câu nói "AI nên trao quyền, không thay thế" — sếp có cùng quan điểm không?
-- [ ] Có giáo sư/lab cụ thể nào ở NUS mà sếp muốn mention không?
+- [ ] Có kỷ niệm/khoảnh khắc cá nhân nào đáng nhớ hơn muốn thay vào mở đầu? nếu có thể đưa vào mà liên kết và logic giúp tăng thiện cảm của người đọc thì càng tốt
+- [ ] Có muốn thêm chi tiết về vai trò cụ thể trong mỗi dự án? tôi nghĩ không cần thiết 
+- [ ] Câu nói "AI nên trao quyền, không thay thế" — sếp có cùng quan điểm không? có, tôi nghĩ đây là quan điểm đúng đắn và cần thiết trong bối cảnh hiện tại. Và phát triển thêm ý tôi đã nhắc ở phần 3
+- [ ] Có giáo sư/lab cụ thể nào ở NUS mà sếp muốn mention không? Tôi chưa tìm hiểu, bạn giúp tôi tổng hợp những người có hướng nghiên cứu phù hợp với tôi tại NUS nhé
 
 ### Về tone giọng:
-- [ ] Bản hiện tại ở mức academic-professional. Muốn personal hơn không?
-- [ ] Phần mở đầu đã đủ "hook" chưa? Hay cần dramatic hơn?
+- [ ] Bản hiện tại ở mức academic-professional. Muốn personal hơn không? thêm personal mà vẫn đủ academic
+- [ ] Phần mở đầu đã đủ "hook" chưa? Hay cần dramatic hơn? dramatic hơn một chút
 
 ---
 
