@@ -77,6 +77,8 @@ Tôi tin rằng tương lai của Công nghiệp 4.0 ở các nền kinh tế đ
 2. **Thích ứng với ràng buộc địa phương** — bao gồm hạ tầng hạn chế, mức độ nhận thức số (digital literacy) khác nhau, và nhu cầu triển khai từng bước thay vì đột phá gây gián đoạn
 3. **Bắc cầu giữa nghiên cứu và thực tiễn** thông qua các kỹ sư hiểu cả nền tảng lý thuyết AI lẫn thực tế sàn nhà máy
 
+> [!FIX]
+> Có 1 điểm tôi muốn bạn và tôi cùng brainstorm để phát triển trong đoạn này, đồng ý với bạn việc sử dụng hợp tác giữa người và AI nhưng chúng ta phát triển theo hướng giải quyết vấn đề mà nhiều người đang sợ hãi và là điểm mạnh của các nước đông nam á nhưng sẽ không còn mạnh nữa khi AI phát triển đó là nhân lực giá rẻ nhưng khi Có các hệ thống tự động thay thế thì sẽ có nhiều nhân sự mất việc. Tôi nghĩ đây là một vấn đề quan trọng cần có hướng giải quyết song hành với việc phát triển công nghệ.
 ---
 
 ## [PHẦN 4 — Tại sao NUS Young Fellowship Programme]
@@ -85,6 +87,8 @@ Chương trình NUS Young Fellowship Programme, với trọng tâm "AI and Gradu
 
 Tôi mong muốn được tiếp xúc với các giảng viên NUS có công trình nghiên cứu nằm ở giao điểm giữa AI và hệ thống kỹ thuật, học hỏi từ các bạn đồng khóa đại diện cho nhiều góc nhìn toàn cầu đa dạng, và khám phá cách nền tảng liên ngành của tôi — cơ điện tử, học tăng cường, và IoT công nghiệp — có thể góp phần giải quyết một trong những thách thức cấp bách nhất đối với các nền kinh tế sản xuất trên toàn thế giới.
 
+> [!FIX]
+> Phần này cần làm tốt hơn, đựa trên cả nội dung của phần 3 để phát triển ý được tốt hơn, thể hiện tham vọng, mong muốn của tôi tại chương trình.
 ---
 
 ## [KẾT — Tầm nhìn dài hạn]
