@@ -63,7 +63,7 @@ Trải nghiệm đó trực tiếp thúc đẩy dự án tham vọng nhất đ�
 > **⚠️ CẦN XÁC NHẬN:**
 > 1. Thời gian DENSO hackathon — tôi ghi là "2023" (cuộc thi) và "Jan 2024" (kết quả). Có đúng không? đúng, cuối năm 2023 đến tháng 1 năm 2024 
 > 2. Dự án AGV — thời gian "Jul-Sep 2025" trên CV có đúng không? Hay thực tế khác? Đến tháng 11 năm 2025, giúp tôi chỉnh lại trong CV luôn nhé
-> 3. Có chi tiết cá nhân nào muốn thêm vào mỗi dự án không? Ví dụ: "đêm thứ 3 của hackathon, cả nhóm thức đến 4h sáng..."
+> 3. Có chi tiết cá nhân nào muốn thêm vào mỗi dự án không? Ví dụ: "đêm thứ 3 của hackathon, cả nhóm thức đến 4h sáng..." thông tin này là đúng nhưng đưa vào đây có vẻ không hợp lý lắm, bạn thử đưa ra 1 trường hợp đưa vào được tôi thấy ổn thì sẽ duyệt. 
 
 ---
 
