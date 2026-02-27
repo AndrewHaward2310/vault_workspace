@@ -14,10 +14,12 @@
 
 ## [MỞ ĐẦU — Hook: Khoảnh khắc DENSO]
 
-Cuối năm 2023, tôi được trực tiếp đặt chân vào nhà máy DENSO trong khuôn khổ cuộc thi DENSO Factory Hacks — một chương trình hợp tác giữa FPT và DENSO. Tôi đã từng tham quan vài nhà máy trước đó, nhưng không gì chuẩn bị tôi cho những gì chứng kiến lần ấy: một hệ thống sản xuất sạch sẽ, tinh vi và tự động hoá ở mức vượt xa mọi hình dung của tôi. Những robot vận hành chính xác đến từng milimet, những dây chuyền được đồng bộ liền mạch — lần đầu tiên tôi thực sự cảm nhận được một nhà máy có thể tiên tiến và quy mô đến nhường nào.
+Cuối năm 2023, tôi được trực tiếp đặt chân đến nhà máy DENSO trong khuôn khổ cuộc thi DENSO Factory Hacks — một chương trình hợp tác giữa FPT và DENSO. Tôi đã từng tham quan vài nhà máy trước đó, nhưng không gì chuẩn bị tôi cho những gì chứng kiến lần ấy: một hệ thống sản xuất sạch sẽ, tinh vi và tự động hoá ở mức vượt xa mọi hình dung của tôi. Những robot vận hành chính xác đến từng milimet, những dây chuyền được đồng bộ liền mạch — lần đầu tiên tôi thực sự cảm nhận được một nhà máy có thể tiên tiến và quy mô đến nhường nào.
 
 Nhưng chính sự ngạc nhiên ấy lại mở ra một câu hỏi lớn hơn: nếu đây là đỉnh cao mà các tập đoàn toàn cầu đã đạt được, thì hàng chục nghìn nhà máy vừa và nhỏ ở Đông Nam Á — nơi công nhân vẫn vận hành phần lớn bằng kinh nghiệm trực giác và quy trình thủ công — đang cách xa bao nhiêu bước? Khoảnh khắc đó khơi dậy trong tôi không chỉ cảm hứng nghề nghiệp, mà còn một sứ mệnh rõ ràng: tìm cách để AI trở thành cánh tay nối dài cho các nhà máy đang khao khát chuyển đổi số nhưng chưa biết bắt đầu từ đâu. Nhiều dự án sau này của tôi — từ hệ thống hỏi đáp lỗi máy thông minh đến framework điều phối xe tự hành — đều bắt rễ từ trải nghiệm tại DENSO.
 
+> [!FIX]
+> "nhưng không gì chuẩn bị tôi cho những gì chứng kiến lần ấy: một hệ thống sản xuất sạch sẽ, tinh vi và tự động hoá ở mức vượt xa mọi hình dung của tôi" -> "nhưng những gì thấy ở nhà máy DENSO là một thứ gì đó rất khác: 
 ---
 
 ## [PHẦN 1 — Khoảng cách chuyển đổi số trong sản xuất Đông Nam Á]
