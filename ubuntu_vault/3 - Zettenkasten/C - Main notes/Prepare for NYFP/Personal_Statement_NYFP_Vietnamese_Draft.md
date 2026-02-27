@@ -18,6 +18,9 @@ Tháng 1 năm 2024, tôi đứng trên sàn nhà máy trong cuộc thi DENSO Fac
 
 > [!IMPORTANT]
 > **⚠️ CẦN XÁC NHẬN:** Sếp có thực sự đứng trên sàn nhà máy (factory floor) trong DENSO Hackathon không? Hay cuộc thi diễn ra ở một địa điểm khác (phòng lab, coworking space...)? Chi tiết này rất quan trọng — nếu không chính xác, cần sửa lại cho đúng thực tế.
+>
+> [!FIX]
+> "Cuối năm 2023, tôi may mắn có cơ hội được trực tiếp đến thăm quan nhà máy DENSO trong khuôn khổ cuộc thi DENSO Factory Hacks, tại đó lần đầu tiên tôi chứng kiến một nhà máy sạch đẹp, phát triển và nhiều công nghệ tới vậy - nó vượt ngoài sức tưởng tượng của tôi ở thời điểm đó (trước đó tôi từng có đi tham quan tại 1 số nhà máy khác nhưng chưa cái nào tiên tiến và quy mô như nhà máy của DENSO lần đầu tôi được tới). ở đó bắt đầu cho tôi rất nhiều cảm hứng và các hướng phát triển sau này (nhiều dự án sau đó có liên quan tới những trải nghiệm của tôi tại cuộc thi). Trong đó ứng dụng AI vào nhà máy là một con đường sẽ giúp các nhà máy Đông Nam Á nâng cao hiệu suất và đạt được kết quả tốt trong tương lai" phần mở đầu,đây là các thông tin tôi cung cấp cho bạn, bạn hãy thêm bớt để cho tuyệt vời hơn và logic hơn.
 
 ---
 
