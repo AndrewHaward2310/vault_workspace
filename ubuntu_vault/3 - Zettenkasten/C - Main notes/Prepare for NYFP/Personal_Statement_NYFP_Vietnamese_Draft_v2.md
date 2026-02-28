@@ -57,6 +57,9 @@ Cụ thể, tôi hình dung tương lai Công nghiệp 4.0 ở các nền kinh t
 2. **Thích ứng với bối cảnh địa phương**: Giải pháp phải phù hợp với hạ tầng hạn chế, mức độ sẵn sàng số khác nhau, và cho phép triển khai từng bước — không gây gián đoạn đột ngột hay sa thải hàng loạt.
 3. **Bắc cầu giữa nghiên cứu và sàn nhà máy**: Thông qua các kỹ sư vừa nắm vững nền tảng lý thuyết AI, vừa hiểu thực tế sản xuất — chính là mẫu người mà tôi đang kiến tạo cho bản thân.
 
+> [!FIX]
+> 3 phần 1,2,3 cảm giác chưa đủ thuyết phục và chưa đủ sâu sắc để giải quyết nỗi đau này. Cần phải làm rõ hơn về tầm nhìn của tôi trong việc giải quyết vấn đề này.
+
 ---
 
 ## [PHẦN 4 — Tại sao NUS Young Fellowship Programme]
