@@ -26,7 +26,7 @@ Nhưng chính sự ngạc nhiên ấy lại mở ra một câu hỏi lớn hơn:
 
 Đông Nam Á là một trong những cứ điểm sản xuất tăng trưởng nhanh nhất thế giới. Riêng tại Việt Nam, sản xuất công nghiệp chiếm tỷ trọng lớn trong GDP và thu hút hàng triệu lao động. Tuy nhiên, một nghịch lý đáng suy ngẫm vẫn tồn tại: trong khi các hệ thống AI tiên tiến giờ đây có thể tự động điều phối đội robot, dự đoán hỏng hóc trước khi xảy ra, và tối ưu hoá năng lượng theo thời gian thực — thì phần lớn các nhà máy trong khu vực vẫn dựa vào quy trình thủ công, tài liệu giấy, và bảo trì phản ứng (reactive maintenance).
 
-Khoảng cách này không đơn thuần là vấn đề công nghệ. Nó mang tính **hệ thống** — bao gồm sự khan hiếm kỹ sư có khả năng chuyển hoá nghiên cứu AI thành giải pháp công nghiệp thực tế, sự thiếu vắng các mô hình được thiết kế phù hợp với bối cảnh địa phương, và khoảng cách văn hoá giữa giới hàn lâm với những người vận hành ngoài sàn nhà máy. Nhưng có lẽ vấn đề nhức nhối nhất nằm ở chiều ngược lại: khi tự động hoá đến, **hàng triệu lao động** dựa vào sức người — vốn là lợi thế cạnh tranh lâu nay của Đông Nam Á — sẽ đối mặt nguy cơ mất việc làm nếu chuyển đổi số chỉ theo hướng thay thế thay vì hợp tác.
+Khoảng cách này không đơn thuần là vấn đề công nghệ. Nó mang tính **hệ thống** — bao gồm sự khan hiếm kỹ sư có khả năng chuyển hoá nghiên cứu AI thành giải pháp công nghiệp thực tế, sự thiếu vắng các mô hình được thiết kế phù hợp với bối cảnh địa phương, và khoảng cách văn hoá giữa giới hàn lâm và những người vận hành ngoài nhà máy. Nhưng có lẽ vấn đề nhức nhối nhất nằm ở chiều ngược lại: khi công nghệ hiện đại được áp dụng, **hàng triệu lao động** dựa vào sức người — vốn là lợi thế cạnh tranh lâu nay của Đông Nam Á — sẽ đối mặt nguy cơ mất việc làm nếu chuyển đổi số chỉ theo hướng thay thế thay vì hợp tác.
 
 Lớn lên tại Việt Nam và theo học ngành Cơ điện tử tại Đại học Bách khoa Hà Nội (HUST), tôi đã chứng kiến sự mất kết nối này mỗi ngày — không phải qua sách vở, mà qua chính những lần đặt chân vào nhà máy, qua những cuộc trò chuyện với công nhân và kỹ sư hiện trường.
 
@@ -34,7 +34,7 @@ Lớn lên tại Việt Nam và theo học ngành Cơ điện tử tại Đại 
 
 ## [PHẦN 2 — Hành trình cá nhân: Từ Cảm biến đến Hệ thống thông minh]
 
-Xuyên suốt hành trình đại học, mọi dự án tôi theo đuổi đều xoay quanh một trục duy nhất: *khai thác các công nghệ tiên tiến, mới nổi để giải quyết các bài toán thực tế trong công nghiệp — nâng cao hiệu suất vận hành và tự động hoá quy trình sản xuất.*
+Xuyên suốt hành trình đại học, các dự án tôi theo đuổi đều : *khai thác các công nghệ tiên tiến, mới nổi để giải quyết các bài toán thực tế trong công nghiệp — nâng cao hiệu suất vận hành và tự động hoá quy trình sản xuất.*
 
 **Dự án 1 — UWB (2022):** Hành trình bắt đầu năm 2022 khi tôi phát triển hệ thống quản lý kho hàng sử dụng công nghệ Ultra-Wideband (UWB) để định vị trong nhà theo thời gian thực, phục vụ theo dõi tài sản. Dự án đạt Giải thưởng Nghiên cứu Khoa học và Đổi mới Sáng tạo của HUST — và quan trọng hơn, nó cho tôi bài học đầu tiên về sự phức tạp khi tích hợp phần cứng cảm biến với kiến trúc dữ liệu đám mây trong môi trường thực.
 
