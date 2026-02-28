@@ -1,10 +1,10 @@
-# 📝 Personal Statement — Bản Tiếng Việt v3
+# 📝 Personal Statement — Bản Tiếng Việt v4
 
 ## Chiến lược: Option B — "AI × Industry 4.0 Bridge Builder"
 ## Đề 2: Vấn đề xã hội đương đại có ý nghĩa cá nhân sâu sắc
 ## Tiêu đề gợi ý: *"Thu hẹp khoảng cách AI-Công nghiệp: Làm thế nào các nhà máy Đông Nam Á có thể nhảy vọt vào Công nghiệp 4.0"*
 
-> **Mục đích file này:** Bản v3 — đã sửa theo feedback v2. Cần review lần cuối trước khi hoàn thiện bản tiếng Anh chính thức.
+> **Mục đích file này:** Bản v4 — đã sửa theo feedback v3. Cần review lần cuối trước khi hoàn thiện bản tiếng Anh chính thức.
 
 ---
 
@@ -49,23 +49,14 @@ Các dự án tôi thực hiện chia sẻ một triết lý xuyên suốt: Sự
 
 Đây không chỉ là lý tưởng — mà là nhu cầu sinh tồn của khu vực. Đông Nam Á lâu nay cạnh tranh toàn cầu nhờ lực lượng lao động dồi dào và chi phí thấp. Nhưng khi tự động hoá lan rộng, chính lợi thế ấy trở thành rủi ro: hàng triệu công nhân đứng trước nguy cơ bị thay thế bởi máy móc nếu không có chiến lược chuyển đổi phù hợp. Tôi tin rằng câu trả lời không nằm ở việc chọn giữa "con người" hay "máy móc," mà ở việc xây dựng các hệ thống **hợp tác**, nơi AI nâng tầm năng lực của người lao động — biến công nhân thành người vận hành thông minh, biến kinh nghiệm trực giác thành dữ liệu có cấu trúc phục vụ ra quyết định.
 
-Điều này đòi hỏi một sự chuyển dịch tư duy triệt để. Thay vì hỏi *"Máy có thể thay con người ở đâu?"*, chúng ta cần hỏi *"Con người cần được trang bị thêm gì để hoàn thành công việc tốt hơn khi máy móc trở thành đồng đội?"*. Hệ thống hỏi đáp thông minh tôi xây tại DENSO chính là một ví dụ cụ thể: nó không loại bỏ kỹ sư bảo trì — mà biến họ từ người phải mở từng trang dữ liệu thành người ra quyết định được hỗ trợ bởi AI, giúp phản ứng nhanh gấp nhiều lần. Tương tự, framework AGV không nhằm xoá bỏ vai trò người giám sát — mà cung cấp cho họ hệ thống tự học, tự thích ứng, để họ tập trung vào những quyết định chiến lược mà chỉ con người mới đưa ra được.
-
-> [!FIX]
-> "Tương tự, framework AGV không nhằm xoá bỏ vai trò người giám sát — mà cung cấp cho họ hệ thống tự học, tự thích ứng, để họ tập trung vào những quyết định chiến lược mà chỉ con người mới đưa ra được." -> đoạn này phải xem lại mặt học thuật của dự án. 
+Điều này đòi hỏi một sự chuyển dịch tư duy triệt để. Thay vì hỏi *"Máy có thể thay con người ở đâu?"*, chúng ta cần hỏi *"Con người cần được trang bị thêm gì để hoàn thành công việc tốt hơn khi máy móc trở thành đồng đội?"*. Hệ thống hỏi đáp thông minh tôi xây tại DENSO chính là một ví dụ cụ thể: nó không loại bỏ kỹ sư bảo trì — mà biến họ từ người phải mở từng trang dữ liệu thành người ra quyết định được hỗ trợ bởi AI, giúp phản ứng nhanh gấp nhiều lần. Tương tự, framework điều phối AGV đa tác nhân mà tôi phát triển không nhằm thay thế con người trong vòng lặp giám sát — mà giải quyết bài toán tối ưu hoá phân bổ nhiệm vụ và phối hợp di chuyển ở quy mô mà năng lực nhận thức con người không thể xử lý hiệu quả. Khi hệ thống tự học chính sách hợp tác (cooperative policy) thông qua huấn luyện, người giám sát được giải phóng khỏi các quyết định phản ứng tức thời để tập trung vào quản trị chiến lược và xử lý ngoại lệ — nơi phán đoán con người vẫn không thể thay thế.
 
 Tầm nhìn của tôi cho Công nghiệp 4.0 ở các nền kinh tế đang phát triển xoay quanh ba trụ cột:
 
-1. **Tăng cường — không thay thế — con người**: Xây dựng các công cụ AI dễ tiếp cận — sử dụng ngôn ngữ tự nhiên, có khả năng giải thích (explainable AI) — để công nhân và kỹ sư trở thành những người ra quyết định mạnh mẽ hơn, thay vì bị đẩy ra rìa bởi tự động hoá hộp đen. Khi công nhân *hiểu* AI đang làm gì và *tại sao*, họ trở thành đồng kiến tạo chứ không phải nạn nhân của công nghệ.
-
-> [!FIX]
-> "**Tăng cường — không thay thế — con người**" thay đổi câu này, phần nội dung bên trong cũng phải thay đổi hướng phân tích. 
+1. **Hợp tác thay vì thay thế**: Giá trị thực sự của AI trong sản xuất không nằm ở việc loại bỏ con người khỏi quy trình, mà ở việc tạo ra một lớp trí tuệ bổ trợ — nơi kinh nghiệm thực tế của người vận hành và khả năng xử lý dữ liệu lớn của AI cùng cộng hưởng. Khi kỹ sư bảo trì dùng ngôn ngữ tự nhiên để truy vấn hệ thống, hoặc khi người giám sát nhận được đề xuất phân bổ tối ưu từ thuật toán RL — đó không phải là máy thay người, mà là hai loại trí tuệ bổ sung cho nhau để ra quyết định chính xác hơn cả hai bên khi hành động riêng rẽ.
 
 2. **Chuyển đổi từng bước, không gây đổ vỡ**: Các quốc gia đang phát triển không thể — và không nên — nhập khẩu nguyên mô hình tự động hoá từ các nước phát triển. Giải pháp phải phù hợp với hạ tầng còn hạn chế, mức độ sẵn sàng số khác nhau, và cho phép triển khai tăng dần — nơi mỗi bước chuyển đổi đều đi kèm đào tạo lại và nâng cao kỹ năng cho lao động hiện hữu, thay vì sa thải hàng loạt.
-3. **Bắc cầu giữa nghiên cứu và sàn nhà máy**: Hiện tại, phần lớn nghiên cứu AI trong sản xuất chỉ tồn tại trên giấy hoặc trong phòng thí nghiệm. Khu vực cần những kỹ sư vừa nắm vững nền tảng lý thuyết AI, vừa hiểu được nỗi đau thực tế của người vận hành — và có thể biến kiến thức hàn lâm thành giải pháp hoạt động được trong nhà máy. Đó chính là hình mẫu mà tôi đang hướng tới.
-
-> [!FIX]
-> "**Bắc cầu giữa nghiên cứu và sàn nhà máy**" -> Cầu nối giữa nghiên cứu và triển khai thực tiễn
+3. **Cầu nối giữa nghiên cứu và triển khai thực tiễn**: Hiện tại, phần lớn nghiên cứu AI trong sản xuất chỉ tồn tại trên giấy hoặc trong phòng thí nghiệm. Khu vực cần những kỹ sư vừa nắm vững nền tảng lý thuyết AI, vừa hiểu được thực tế vận hành — và có khả năng chuyển hoá kiến thức hàn lâm thành giải pháp triển khai được trong môi trường công nghiệp. Đó chính là hình mẫu mà tôi đang hướng tới.
 ---
 
 ## [PHẦN 4 — Tại sao NUS Young Fellowship Programme]
@@ -82,10 +73,11 @@ Thông qua chương trình, tôi không chỉ muốn nâng cao năng lực nghi�
 
 ---
 
-## 📋 Thay đổi v3 so với v2
+## 📋 Thay đổi v4 so với v3
 
-| #   | Vấn đề [!FIX] v2                                                                                                | Cách xử lý v3                                                                                                                                      |
-| --- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Mở đầu**: Cần tích hợp slogan DENSO "con người là trung tâm", thể hiện con người làm việc hài hoà với máy móc | Viết lại Hook: nhấn mạnh triết lý "con người là trung tâm" là kim chỉ nam, bỏ robot milimet → thay bằng sự hài hoà người-máy                       |
-| 2   | **Phần 3 điểm 1,2,3**: Chưa đủ thuyết phục và sâu sắc, cần làm rõ tầm nhìn                                      | Viết lại toàn bộ: thêm câu hỏi chuyển dịch tư duy, liên kết trực tiếp với DENSO + AGV làm ví dụ cụ thể, mỗi điểm có chiều sâu và hành động rõ ràng |
-| 3   | Typo `*q` cuối dòng Phần 2 tổng quan                                                                            | Đã sửa                                                                                                                                             |
+| #   | Vấn đề [!FIX] v3                                    | Cách xử lý v4                                                                                                              |
+| --- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Câu AGV chung chung, thiếu học thuật                | Viết lại: nhấn cooperative policy, tối ưu phân bổ nhiệm vụ ở quy mô lớn, giải phóng người giám sát cho quản trị chiến lược |
+| 2   | Trụ cột 1 "Tăng cường — không thay thế" → đổi hướng | Đổi thành "Hợp tác thay vì thay thế" — phân tích theo hướng hai loại trí tuệ bổ sung cộng hưởng                            |
+| 3   | Trụ cột 3 cần đổi tên                               | Đổi thành "Cầu nối giữa nghiên cứu và triển khai thực tiễn" + sửa nội dung tương ứng                                       |
+| 4   | Mở đầu thêm ví dụ cụ thể                            | User đã tự thêm: kính thực tế ảo, AGV, hệ thống quản lý sản xuất thông minh                                                |
