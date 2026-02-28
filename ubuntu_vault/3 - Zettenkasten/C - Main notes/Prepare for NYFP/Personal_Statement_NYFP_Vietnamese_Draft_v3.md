@@ -51,12 +51,21 @@ Các dự án tôi thực hiện chia sẻ một triết lý xuyên suốt: Sự
 
 Điều này đòi hỏi một sự chuyển dịch tư duy triệt để. Thay vì hỏi *"Máy có thể thay con người ở đâu?"*, chúng ta cần hỏi *"Con người cần được trang bị thêm gì để hoàn thành công việc tốt hơn khi máy móc trở thành đồng đội?"*. Hệ thống hỏi đáp thông minh tôi xây tại DENSO chính là một ví dụ cụ thể: nó không loại bỏ kỹ sư bảo trì — mà biến họ từ người phải mở từng trang dữ liệu thành người ra quyết định được hỗ trợ bởi AI, giúp phản ứng nhanh gấp nhiều lần. Tương tự, framework AGV không nhằm xoá bỏ vai trò người giám sát — mà cung cấp cho họ hệ thống tự học, tự thích ứng, để họ tập trung vào những quyết định chiến lược mà chỉ con người mới đưa ra được.
 
+> [!FIX]
+> "Tương tự, framework AGV không nhằm xoá bỏ vai trò người giám sát — mà cung cấp cho họ hệ thống tự học, tự thích ứng, để họ tập trung vào những quyết định chiến lược mà chỉ con người mới đưa ra được." -> đoạn này phải xem lại mặt học thuật của dự án. 
+
 Tầm nhìn của tôi cho Công nghiệp 4.0 ở các nền kinh tế đang phát triển xoay quanh ba trụ cột:
 
 1. **Tăng cường — không thay thế — con người**: Xây dựng các công cụ AI dễ tiếp cận — sử dụng ngôn ngữ tự nhiên, có khả năng giải thích (explainable AI) — để công nhân và kỹ sư trở thành những người ra quyết định mạnh mẽ hơn, thay vì bị đẩy ra rìa bởi tự động hoá hộp đen. Khi công nhân *hiểu* AI đang làm gì và *tại sao*, họ trở thành đồng kiến tạo chứ không phải nạn nhân của công nghệ.
-2. **Chuyển đổi từng bước, không gây đổ vỡ**: Các quốc gia đang phát triển không thể — và không nên — nhập khẩu nguyên mô hình tự động hoá từ các nước phát triển. Giải pháp phải phù hợp với hạ tầng còn hạn chế, mức độ sẵn sàng số khác nhau, và cho phép triển khai tăng dần — nơi mỗi bước chuyển đổi đều đi kèm đào tạo lại và nâng cao kỹ năng cho lao động hiện hữu, thay vì sa thải hàng loạt.
-3. **Bắc cầu giữa nghiên cứu và sàn nhà máy**: Hiện tại, phần lớn nghiên cứu AI trong sản xuất chỉ tồn tại trên giấy hoặc trong phòng thí nghiệm. Khu vực cần những kỹ sư vừa nắm vững nền tảng lý thuyết AI, vừa hiểu được nỗi đau thực tế của người vận hành — và có thể biến kiến thức hàn lâm thành giải pháp hoạt động được trên sàn nhà máy. Đó chính là mẫu người mà tôi đang kiến tạo cho bản thân.
 
+> [!FIX]
+> "**Tăng cường — không thay thế — con người**" thay đổi câu này, phần nội dung bên trong cũng phải thay đổi hướng phân tích. 
+
+2. **Chuyển đổi từng bước, không gây đổ vỡ**: Các quốc gia đang phát triển không thể — và không nên — nhập khẩu nguyên mô hình tự động hoá từ các nước phát triển. Giải pháp phải phù hợp với hạ tầng còn hạn chế, mức độ sẵn sàng số khác nhau, và cho phép triển khai tăng dần — nơi mỗi bước chuyển đổi đều đi kèm đào tạo lại và nâng cao kỹ năng cho lao động hiện hữu, thay vì sa thải hàng loạt.
+3. **Bắc cầu giữa nghiên cứu và sàn nhà máy**: Hiện tại, phần lớn nghiên cứu AI trong sản xuất chỉ tồn tại trên giấy hoặc trong phòng thí nghiệm. Khu vực cần những kỹ sư vừa nắm vững nền tảng lý thuyết AI, vừa hiểu được nỗi đau thực tế của người vận hành — và có thể biến kiến thức hàn lâm thành giải pháp hoạt động được trong nhà máy. Đó chính là hình mẫu mà tôi đang hướng tới.
+
+> [!FIX]
+> "**Bắc cầu giữa nghiên cứu và sàn nhà máy**" -> Cầu nối giữa nghiên cứu và triển khai thực tiễn
 ---
 
 ## [PHẦN 4 — Tại sao NUS Young Fellowship Programme]
