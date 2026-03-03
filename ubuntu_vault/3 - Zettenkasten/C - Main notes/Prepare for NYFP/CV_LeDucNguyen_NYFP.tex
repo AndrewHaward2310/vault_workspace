@@ -1,0 +1,178 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% -*- coding: UTF-8; -*-
+% vim: set fenc=utf-8
+
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{enumitem}
+
+% Define colors
+\definecolor{darkblue}{rgb}{0.0, 0.0, 0.5}
+\definecolor{darkgray}{rgb}{0.3, 0.3, 0.3}
+
+% Remove page number
+\pagestyle{empty}
+
+% Define custom commands
+\newcommand{\name}[1]{
+  \centerline{\Large\textbf{#1}}
+  \vspace{0.5em}
+}
+
+\newcommand{\contact}[4]{
+  \centerline{\small #1 \quad $\bullet$ \quad #2 \quad $\bullet$ \quad #3 \quad $\bullet$ \quad #4}
+  \vspace{1em}
+}
+
+\newcommand{\sectiontitle}[1]{
+  \vspace{0.3em}
+  {\large\textbf{\textcolor{darkblue}{#1}}}
+  \vspace{0.2em}
+  \hrule
+  \vspace{0.3em}
+}
+
+\newcommand{\subsectiontitle}[2]{
+  \textbf{#1} \hfill \textit{#2}
+  \vspace{0.2em}
+}
+
+\newcommand{\entry}[4]{
+  \textbf{#1} \hfill #2 \\
+  \textit{#3} \\
+  #4
+  \vspace{0.3em}
+}
+
+\begin{document}
+
+% Title Block
+\name{Le Duc Nguyen}
+
+\contact
+  {\href{mailto:nguyen.ld2310@gmail.com}{nguyen.ld2310@gmail.com}}
+  {+84 (945) 032-669}
+  {\href{https://github.com/AndrewHaward2310}{GitHub}}
+  {Hanoi, Vietnam}
+
+% Research Interests
+\sectiontitle{RESEARCH INTERESTS}
+
+Intelligent manufacturing systems at the intersection of \textbf{multi-agent reinforcement learning}, \textbf{industrial robotics}, and \textbf{IoT-driven automation}. Focused on developing AI frameworks that bridge cutting-edge research and real-world factory deployment --- enabling human-AI collaborative systems where technology amplifies human capability rather than replacing it. Aspiring to address the digital transformation gap in Southeast Asian manufacturing through inclusive, incremental Industry 4.0 solutions.
+
+% Education
+\sectiontitle{EDUCATION}
+
+\entry
+  {Hanoi University of Science and Technology (HUST)}
+  {Oct 2021 -- Mar 2026}
+  {B.S. in Mechatronics Engineering}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Interdisciplinary training spanning robotics, automation, embedded control, and intelligent systems
+      \item Relevant coursework: Automatic Control, Robotics, Digital Systems Design, Signal Processing, Industrial Automation
+    \end{itemize}
+  }
+
+% Research and Project Experience
+\sectiontitle{RESEARCH AND PROJECT EXPERIENCE}
+
+\entry
+  {\href{https://andrewhaward2310.github.io/gnn-il-ppo-paper/}{Multi-Agent Reinforcement Learning for AGV Coordination in Smart Factories}}
+  {Jul 2025 -- Nov 2025}
+  {Project Lead \& Primary Researcher | School of Mechanical Engineering, HUST}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Proposed a novel multi-agent reinforcement learning (MARL) framework for autonomous guided vehicle (AGV) coordination, combining \textbf{Proximal Policy Optimization (PPO)} with \textbf{Graph Neural Networks (GNN)} over a heterogeneous super-graph representation
+      \item Demonstrated that integrating classical PID controllers with modern RL agents yields complementary performance --- validating an \textbf{incremental transition pathway} from legacy control to intelligent systems without requiring full infrastructure replacement
+      \item Designed cooperative learning policies enabling multiple AGVs to simultaneously learn task allocation, collision avoidance, and deadlock resolution through training rather than explicit rule-based programming
+      \item Developed a high-fidelity 2D simulation environment for benchmarking multi-agent coordination strategies under varying task densities
+      \item Team size: 2 | Technologies: PPO, GNN, Imitation Learning, PID Control, ROS, Python
+    \end{itemize}
+  }
+
+\entry
+  {LLM-based Intelligent Fault Query System for Industrial Maintenance}
+  {Nov 2023 -- Jan 2024}
+  {Project Lead | DENSO Factory Hacks 2023 (FPT $\times$ DENSO Collaboration)}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Led a cross-organizational team to develop an \textbf{AI-powered fault diagnosis system} that enabled maintenance engineers to query historical error databases using natural language --- reducing manual lookup time from hours to seconds
+      \item Designed a hybrid retrieval architecture integrating \textbf{Elasticsearch} for keyword-based indexing and \textbf{Weaviate} (vector database) for semantic search, achieving high-precision answers across large-scale industrial fault records
+      \item Gained first-hand exposure to factory-floor operations at DENSO, observing both the enormous potential and the practical barriers of deploying AI in real manufacturing environments
+      \item \textbf{Award:} Third Prize, DENSO Factory Hacks 2023
+      \item Team size: 4 | Technologies: Large Language Models, Elasticsearch, Weaviate, Docker
+    \end{itemize}
+  }
+
+\entry
+  {Real-time Asset Tracking System using Ultra-Wideband (UWB) Technology}
+  {Nov 2022 -- Mar 2023}
+  {Developer \& Data Engineer | Innovation and Scientific Research Project}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Developed a warehouse management system leveraging \textbf{UWB indoor positioning} for real-time asset tracking and location-aware inventory management
+      \item Engineered end-to-end data pipeline: UWB sensor data acquisition via MQTT $\rightarrow$ MongoDB storage $\rightarrow$ analytics with Pandas --- establishing foundational experience in IoT-to-cloud data architectures for industrial environments
+      \item \textbf{Award:} HUST Innovation and Scientific Research Award, 2022
+      \item Team size: 4 | Technologies: UWB Sensors, MQTT, MongoDB, FastAPI, Pandas
+    \end{itemize}
+  }
+
+\entry
+  {\href{https://github.com/AndrewHaward2310/IoTSmartGardenSystem}{IoT-based Intelligent Monitoring and Control System}}
+  {Oct 2025 -- Jan 2026}
+  {System Architect \& Backend Lead | University Course Project}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Architected a scalable IoT platform integrating \textbf{edge devices (ESP32)} with cloud data infrastructure for real-time environmental monitoring and automated control --- demonstrating industrial IoT deployment patterns applicable to smart factory scenarios
+      \item Designed a multi-protocol data ingestion pipeline (MQTT for sensor streams, REST for management APIs) with a polyglot persistence layer (PostgreSQL, MongoDB, Redis), reflecting real-world industrial data architecture challenges
+      \item Team size: 4 | Technologies: Node.js, PostgreSQL, MongoDB, MQTT, Docker, Microservices
+    \end{itemize}
+  }
+
+% Awards and Scholarships
+\sectiontitle{AWARDS AND HONORS}
+
+\subsectiontitle{Third Prize --- DENSO Factory Hacks 2023}{Jan 2024}
+Organized by DENSO and FPT | Recognized for innovative LLM-based industrial fault diagnosis system
+\vspace{0.3em}
+
+\subsectiontitle{Innovation and Scientific Research Award}{Jun 2022}
+Hanoi University of Science and Technology | UWB-based warehouse tracking system
+\vspace{0.3em}
+
+\subsectiontitle{Dean's List / Academic Excellence Scholarship}{2021 -- 2022}
+School of Mechanical Engineering, HUST | Awarded for high academic performance
+\vspace{0.3em}
+
+% Skills
+\sectiontitle{TECHNICAL SKILLS}
+
+\textbf{AI \& Machine Learning:} Reinforcement Learning (PPO, MARL, Imitation Learning), Graph Neural Networks (GNN), Large Language Models, Semantic Search (Weaviate), Natural Language Processing
+
+\vspace{0.2em}
+\textbf{Robotics \& Control Systems:} ROS (Robot Operating System), PID Control, Motion Planning, Multi-Agent Coordination, Autonomous Guided Vehicles (AGVs), Industrial Automation
+
+\vspace{0.2em}
+\textbf{Data \& IoT Systems:} Python (Advanced), MATLAB (Advanced), C/C++, MongoDB, PostgreSQL, MQTT Protocol, Docker, Data Pipeline Design, Real-time Sensor Data Processing
+
+% References
+\sectiontitle{REFERENCES}
+
+\textbf{Assoc. Prof. Dr. Pham Duc An}
+\newline
+Senior Lecturer, School of Mechanical Engineering
+\newline
+Vice Head, Department of Mechatronics Engineering
+\newline
+Hanoi University of Science and Technology (HUST)
+\newline
+\href{mailto:an.phamduc@hust.edu.vn}{an.phamduc@hust.edu.vn}
+
+\end{document}
