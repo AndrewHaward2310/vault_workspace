@@ -1,0 +1,53 @@
+# Personal Statement — NUS Young Fellowship Programme 2026
+
+**Topic 2: A current social issue of significant personal relevance**
+
+---
+
+In late 2023, I set foot inside the DENSO factory as part of the DENSO Factory Hacks — a collaborative program between FPT and DENSO. I had visited a handful of factories before, but what I encountered at DENSO was something fundamentally different: cutting-edge technology, optimized processes, and above all — humans working in harmony with machines, supported by technologies I had never seen deployed at such scale: augmented reality headsets for worker training, autonomous guided vehicles navigating the floor, and intelligent production management systems. What struck me most deeply was not the precision of robotic arms or the seamless assembly lines, but DENSO's operating philosophy: *"People are at the center."* Here, technology did not exist to eliminate humans, but to amplify their capabilities — and that philosophy has since become the compass guiding every research direction I have pursued.
+
+Yet when I stepped back from DENSO's factory floor and looked across the region, a troubling question surfaced: if this was the pinnacle that global corporations had reached, where did the tens of thousands of small and medium factories across Southeast Asia — where workers still operated largely through intuitive experience and manual processes — stand on this journey? That question has driven me ever since. Every project I have undertaken — from an intelligent fault-query system to a multi-agent vehicle coordination framework — traces its roots back to that experience at DENSO and the aspiration to bridge that gap.
+
+## The Digital Transformation Gap in Southeast Asian Manufacturing
+
+Southeast Asia is one of the world's fastest-growing manufacturing hubs. In Vietnam alone, industrial production constitutes a substantial share of GDP and employs millions of workers. Yet a thought-provoking paradox persists: while cutting-edge AI systems can now autonomously coordinate robot fleets, predict equipment failures before they occur, and optimize energy consumption in real time, the vast majority of factories in the region still depend on manual workflows, paper-based documentation, and reactive maintenance.
+
+This gap is not merely technological. It is **systemic** — encompassing a critical shortage of engineers capable of translating AI research into practical industrial solutions, an absence of locally contextualized models, and a cultural rift between academic communities and shop-floor practitioners. But perhaps the most pressing dimension runs in the opposite direction: as modern technology advances, **millions of workers** whose labor has long been Southeast Asia's competitive advantage face the risk of displacement if digital transformation proceeds through substitution rather than collaboration.
+
+Growing up in Vietnam and studying Mechatronics Engineering at Hanoi University of Science and Technology (HUST), I have witnessed this disconnect daily — not through textbooks, but through factory visits and conversations with workers and field engineers on the ground.
+
+## My Journey: From Sensors to Intelligent Systems
+
+Throughout my undergraduate years, every project I pursued has followed a consistent direction: *harnessing cutting-edge, emerging technologies to solve real industrial problems — enhancing operational efficiency and automating manufacturing processes.*
+
+**UWB Warehouse System (2022):** It began when I developed a warehouse management system using Ultra-Wideband (UWB) technology to deliver real-time indoor positioning for asset tracking. The project earned HUST's Innovation and Scientific Research Award and, more importantly, taught me my first lesson about the complexity of integrating hardware sensors with cloud data architectures in real-world environments.
+
+**DENSO Factory Hacks (late 2023 – early 2024) — Turning Point:** The turning point came during the DENSO Factory Hacks, where my team and I developed an intelligent query system for maintenance engineers. DENSO already operated an internal system that logged machine faults — but engineers still spent considerable time searching and cross-referencing errors within the vast data repository. Our solution allowed them to ask questions in natural language and receive precise answers from the entire historical fault database — compressing hours of manual lookup into seconds. The system earned Third Prize, but the real reward was first-hand exposure to factory-floor operations: it revealed both the enormous potential of AI in manufacturing and the formidable barriers to its real-world deployment.
+
+**Multi-Agent RL for AGV Coordination (2025) — Research Frontier:** That experience directly fueled my most ambitious research endeavor: designing a **multi-agent reinforcement learning (MARL) framework** for autonomous guided vehicle (AGV) coordination in smart factory environments. The architecture combines **Proximal Policy Optimization (PPO)** with **Graph Neural Networks (GNN)** over a heterogeneous super-graph representation, enabling multiple AGVs to simultaneously learn cooperative behaviors — task allocation, collision avoidance, and deadlock resolution — through training rather than explicit programming. Notably, integrating classical PID controllers with modern RL agents demonstrated that legacy control and AI are **complementary**, opening a viable pathway for factories seeking an incremental transition to intelligent systems without rebuilding from scratch.
+
+## Why This Matters: A Vision for Human-AI Collaborative Manufacturing
+
+The projects I have undertaken share a unifying philosophy: the fusion of advanced technology and human capability is the key to the sustainable development of industry.
+
+This is not merely idealism — it is a survival imperative for the region. Southeast Asia has long competed globally through an abundant, cost-effective workforce. But as automation proliferates, that advantage becomes a vulnerability if digital transformation pursues replacement rather than collaboration. I believe the answer lies in building **collaborative systems** where AI elevates human capability — transforming shop-floor workers into intelligent operators, and converting intuitive experience into structured, decision-ready data.
+
+This demands a fundamental shift in thinking. Rather than asking *"Where can machines replace humans?"*, we must ask *"What do humans need to perform even better when machines become their teammates?"* The intelligent query system I built at DENSO did not eliminate maintenance engineers — it transformed them into decision-makers empowered by AI. Similarly, the multi-agent AGV framework does not remove humans from the supervisory loop — it optimizes task allocation and movement coordination at a scale exceeding human cognitive capacity, freeing supervisors from reactive micro-decisions to focus on strategic oversight and exception handling — domains where human judgment remains irreplaceable.
+
+My vision for Industry 4.0 in developing economies rests on three pillars:
+
+1. **Collaboration over replacement**: The true value of AI in manufacturing lies in creating a complementary intelligence layer — where the practical experience of operators and the data processing capability of AI resonate together. When maintenance engineers query the system in natural language, or supervisors receive optimal allocation recommendations from RL algorithms — that is two forms of intelligence complementing each other to make decisions more accurate than either could achieve alone.
+
+2. **Transform incrementally, not disruptively**: Developing nations cannot — and should not — wholesale import automation models from advanced economies. Solutions must accommodate limited infrastructure and varying digital readiness, where each step of transformation is accompanied by reskilling and upskilling the existing workforce, rather than mass layoffs.
+
+3. **Bridging research and real-world deployment**: Most AI research in manufacturing exists only on paper. The region needs engineers who command both the theoretical foundations of AI and understand real-world operational challenges — and who can translate academic knowledge into deployable industrial solutions. That is precisely the profile I am building for myself.
+
+## Why NUS Young Fellowship Programme
+
+The NUS Young Fellowship Programme, with its focus on "AI and Graduate Research," represents a rare opportunity to accelerate this vision from idea to impact. The College of Design and Engineering (CDE) at NUS houses world-leading research groups in robotics, intelligent systems, and advanced manufacturing — domains directly aligned with my research trajectory. I am particularly eager to explore the work of **Prof. ZHAO Lin** on optimization and control of multi-agent systems, **Prof. LOW Kian Hsiang** on machine learning for multi-agent robotic systems, and the **Control, Intelligent Systems & Robotics (CISR)** group — research directions intimately connected to the AGV coordination challenge I am investigating.
+
+Singapore itself — with its national Advanced Manufacturing strategy and position at the heart of Southeast Asia — offers a living laboratory where I can observe how a small but highly advanced nation has successfully transformed its manufacturing sector. My ambition extends beyond learning: I intend to bring methodologies, frameworks, and networks from NUS back to Vietnam — where thousands of enterprises stand at the threshold of their digital transformation journey.
+
+## Long-Term Vision
+
+Through this programme, I seek not only to deepen my research capabilities but also to build the academic foundation and international network necessary to pursue graduate studies. My ultimate goal is to become a **bridge-builder** between cutting-edge AI research and industrial practice — helping Southeast Asian factories not merely catch up, but **leapfrog** into Industry 4.0, in a way that is **inclusive**: leaving no one behind.
