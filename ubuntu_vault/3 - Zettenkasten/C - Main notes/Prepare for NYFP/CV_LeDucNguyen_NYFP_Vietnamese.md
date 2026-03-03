@@ -84,3 +84,7 @@ Giảng viên cao cấp, Viện Cơ khí
 Phó Trưởng Bộ môn Cơ điện tử
 Đại học Bách khoa Hà Nội (HUST)
 📧 an.phamduc@hust.edu.vn
+
+**DENSO Factory Hacks 2023 — Organizing Committee**
+DENSO Manufacturing Vietnam × FPT Software
+*(Recommendation letter available upon request)*
