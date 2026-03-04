@@ -79,5 +79,6 @@ Understanding the relationship between AI and ML provides the key to answering t
 	_Answer_: (1), (2), (3). Initially, AI relied on manually encoded rules, but the shift to ML allowed systems to learn from data. This evolution further required scaling with infrastructure to handle large datasets and complex models.
 
 ## Defining ML Systems 
-
+> [!Definition] **Definition**: 
+> Machine Learning (ML) systems are integrated computing systems comprising three interdependent components: data that guides behavior, algorithms that learn patterns, and computational infrastructure that enables both training and inference. 
 # References
