@@ -104,7 +104,8 @@ Tech: PPO | GNN (GAT) | Imitation Learning | PID | Python
 > Em là **trưởng nhóm** — chịu trách nhiệm toàn bộ thiết kế kiến trúc hệ thống và triển khai thuật toán RL.
 
 > [!FIX]
-> "Em là trưởng nhóm" nghe hơi bị lố, nên sửa lại thành "Em là thành viên trong nhóm" hoặc "Em là người chịu trách nhiệm chính trong việc thiết kế kiến trúc hệ thống và triển khai thuật toán RL".
+> "Em là trưởng nhóm" nghe hơi bị lố, nên sửa lại thành "Em là người chịu trách nhiệm chính trong việc thiết kế kiến trúc hệ thống và triển khai thuật toán RL".
+> Cần xem lại chính xác project này của tôi để hiểu và chỉnh sửa lời văn cho phù hợp
 
 ### 🇬🇧 English subtitle:
 > This is my most important project. The problem: **How can multiple autonomous robots in a warehouse coordinate with each other?** — dispatching tasks, avoiding collisions, and resolving deadlocks entirely through AI, with no manual programming. This is exactly the same challenge VinMotion's Motion robots face when deployed at VinFast.
@@ -137,12 +138,24 @@ TWO-LAYER ARCHITECTURE
 
 ### 🎤 Lời nói (Tiếng Việt):
 > Giải pháp của em dùng **kiến trúc hai tầng** — giống cách robot humanoid hoạt động.
+>
+> [!FIX]
+> Không hay, cần sửa lại
 
 > **Tầng trên** là bộ não AI: thuật toán **PPO** — một phương pháp Reinforcement Learning tiên tiến — kết hợp với **Graph Neural Network** để robot "nhìn thấy" mối quan hệ không gian giữa các robot khác, các nhiệm vụ, và các điểm trong nhà kho. Em cũng dùng **Imitation Learning** để rút ngắn thời gian huấn luyện — cho AI học từ expert trước, sau đó tự cải thiện vượt qua expert đó.
+>
+> [!FIX]
+> Cần show rõ hơn về cách thức hoạt động của thuật toán PPO và GNN, không nên chỉ nói chung chung như vậy. Xem lại dự án của tôi để chỉnh sửa nội dung cho phù hợp
 
 > **Tầng dưới** là bộ điều khiển **PID** — đảm bảo robot di chuyển mượt mà, chính xác. Song song là hệ thống **phòng tránh va chạm** ba lớp: phân quyền ưu tiên, phát hiện bế tắc vòng, và tự động tìm đường thay thế.
 
+> [!FIX]
+> Có phần sai. Không chỉ dùng mỗi PID nhưng phần này không phải do tôi trực tiếp làm, nhưng vẫn cần nói ra phần RL trong tầng này để thấy được sự đóng góp của tôi vào tầng này. Cần chỉnh sửa lại cho phù hợp
+
 > Đây chính là kiến trúc mà robot humanoid cũng sử dụng: **AI ra quyết định ở tầng cao, motor control chính xác ở tầng thấp**.
+
+> [!FIX]
+> Không hay, cần chỉnh sửa lại
 
 ### 🇬🇧 English subtitle:
 > My solution uses a **two-layer architecture** — the same way humanoid robots operate.
