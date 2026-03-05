@@ -6,6 +6,8 @@ ___
 
 # Module 1 - K-Armed Bandit Problem
 
+# Learning Objectives
+
 
 
 # References
