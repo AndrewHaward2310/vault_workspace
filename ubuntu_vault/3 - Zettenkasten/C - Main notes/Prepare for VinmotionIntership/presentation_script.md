@@ -99,9 +99,12 @@ Tech: PPO | GNN (GAT) | Imitation Learning | PID | Python
 > Đây là đồ án em tâm đắc nhất. Bài toán đặt ra là: **Làm sao để nhiều robot tự hành trong nhà kho có thể phối hợp với nhau?** — phân chia công việc, tránh va chạm, và xử lý bế tắc hoàn toàn bằng AI, không cần lập trình tay từng bước. Đây cũng chính xác là bài toán mà robot Motion của VinMotion phải giải quyết khi triển khai tại VinFast.
 
 > [!FIX]
-> "Đây là đồ án em tâm đắc nhất" nghe hơi bị lố, nên sửa lại thành "Đây là đồ án tốt nghiệp của em"
+> "Đây là đồ án em tâm đắc nhất" nghe hơi bị lố, nên sửa lại thành "Đây là đồ án tốt nghiệp của em", khi đưa ra thông tin liên quan đến bài toán hay là liên quan đến doanh nghiệp cần đảm bảo độ chính xác, không nên nói quá lên về khả năng của tôi. Hãy thể hiện sự khiêm tốn nhưng vẫn tự tin vào khả năng của mình.
 
 > Em là **trưởng nhóm** — chịu trách nhiệm toàn bộ thiết kế kiến trúc hệ thống và triển khai thuật toán RL.
+
+> [!FIX]
+> "Em là trưởng nhóm" nghe hơi bị lố, nên sửa lại thành "Em là thành viên trong nhóm" hoặc "Em là người chịu trách nhiệm chính trong việc thiết kế kiến trúc hệ thống và triển khai thuật toán RL".
 
 ### 🇬🇧 English subtitle:
 > This is my most important project. The problem: **How can multiple autonomous robots in a warehouse coordinate with each other?** — dispatching tasks, avoiding collisions, and resolving deadlocks entirely through AI, with no manual programming. This is exactly the same challenge VinMotion's Motion robots face when deployed at VinFast.
