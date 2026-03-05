@@ -47,7 +47,14 @@ Focus: Reinforcement Learning × Robotics × Industrial AI
 ### 🎤 Lời nói (Tiếng Việt):
 > Xin chào anh/chị. Em là **Lê Đức Nguyên**, sinh viên năm cuối ngành **Cơ điện tử** tại Đại học Bách khoa Hà Nội. Em ứng tuyển vị trí **Engineering Internship** tại VinMotion, với định hướng **Reinforcement Learning** và **hệ thống robot tự hành**.
 >
+
+> [!FIX] 
+> Check lại trong JD xem có định hướng như bạn nói không? theo tôi nhớ làm gì có hệ thống robot tự hành
+
 > Trong bài trình bày hôm nay, em muốn chia sẻ những gì em đã học và xây dựng — và cách những kinh nghiệm đó có thể **đóng góp vào nghiên cứu humanoid robotics** tại VinMotion.
+
+> [!FIX]
+> Cần viết hay hơn
 
 ### 🇬🇧 English subtitle:
 > Hello everyone. I'm **Le Duc Nguyen**, a final-year **Mechatronics Engineering** student at Hanoi University of Science and Technology. I'm applying for the **Engineering Internship** at VinMotion, with a focus on **Reinforcement Learning** and **autonomous robot systems**.
