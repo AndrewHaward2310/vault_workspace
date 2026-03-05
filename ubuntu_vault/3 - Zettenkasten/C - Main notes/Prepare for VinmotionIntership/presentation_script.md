@@ -38,7 +38,8 @@ Reinforcement Learning × Industrial AI × Robotics
 
 ### 🎤 Lời nói (Tiếng Việt):
 > Xin chào anh/chị. Em là **Lê Đức Nguyên**, sinh viên năm cuối ngành **Cơ điện tử** tại Đại học Bách khoa Hà Nội. Trong suốt 5 năm đại học, em đã tập trung phát triển chuyên sâu vào hai hướng chính: **Reinforcement Learning** cho hệ thống multi-robot và **AI ứng dụng trong công nghiệp**. Hôm nay em xin được chia sẻ hành trình và lý do em muốn gia nhập VinMotion.
-
+> [!FIX]
+> Tôi cảm giác 
 ### 🇬🇧 English subtitle:
 > Hello. I'm **Le Duc Nguyen**, a final-year **Mechatronics Engineering** student at Hanoi University of Science and Technology. Over 5 years, I've specialized in **Reinforcement Learning** for multi-robot systems and **industrial AI applications**. Today I'd like to share my journey and why I want to join VinMotion.
 
