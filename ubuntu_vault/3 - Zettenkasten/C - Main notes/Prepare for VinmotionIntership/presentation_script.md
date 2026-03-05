@@ -190,7 +190,13 @@ RESULTS & VINMOTION RELEVANCE
 ### 🎤 Lời nói (Tiếng Việt):
 > Kết quả: hệ thống đạt được **zero collision** với 3 robot chạy đồng thời, policy RL **vượt trội hơn thuật toán truyền thống** về throughput nhờ khả năng phân bổ tải thông minh, và Imitation Learning giúp **rút ngắn gấp đôi** thời gian huấn luyện.
 
+> [!FIX] 
+> Không hay, cần chỉnh sửa lại
+
 > Điều quan trọng nhất: mỗi thành phần em xây dựng đều có **đối chiếu trực tiếp** sang robot humanoid. PPO planning tương ứng high-level planner, GNN tương ứng scene understanding, PID control tương ứng joint motor control. Những kỹ năng này em có thể áp dụng ngay khi gia nhập VinMotion.
+
+> [!FIX] 
+> Không hay, cần chỉnh sửa lại
 
 ### 🇬🇧 English subtitle:
 > Results: the system achieved **zero collisions** with 3+ simultaneous robots, the RL policy **outperformed the traditional heuristic** in throughput through intelligent load balancing, and Imitation Learning **halved training time**.
@@ -224,6 +230,9 @@ I understand factory-grade deployment
 > Ngoài AGV, em có hai trải nghiệm bổ trợ quan trọng.
 
 > Tại cuộc thi **DENSO Factory Hacks** — tổ chức bởi DENSO và FPT — em dẫn nhóm 4 người xây dựng hệ thống phát hiện lỗi nhà máy bằng AI, **đạt giải 3 toàn quốc**. Trải nghiệm này dạy em tư duy **"factory-grade"**: hệ thống phải chạy liên tục, độ trễ phải thấp, và phải có fallback khi AI gặp lỗi.
+
+> [!FIX] 
+> Tôi lại mong muốn rằng có thể đưa phần này lên trên để nói được động lực khiến tôi lựa chọn đề tài đồ án tốt nghiệp và hướng đi của tôi trong việc nghiên cứu và phát triển trong lĩnh vực Robotics & AI.
 
 > Dự án **IoT Smart Garden** giúp em xây dựng kỹ năng xử lý dữ liệu cảm biến real-time — từ MQTT protocol đến kiến trúc microservice — hoàn toàn áp dụng được cho telemetry của robot.
 
