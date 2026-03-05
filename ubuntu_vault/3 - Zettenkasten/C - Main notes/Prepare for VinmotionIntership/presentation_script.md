@@ -35,11 +35,12 @@ Reinforcement Learning × Industrial AI × Robotics
 📍 Hanoi, Vietnam
 🔗 github.com/AndrewHaward2310
 ```
-
+> [!COMMENT]
+> Lời văn làm sao để xuyên suốt toàn bộ bài thuyết trình thể hiện được giá trị tôi sẽ đem đến cho doanh nghiệm, cho vinmotion. 
 ### 🎤 Lời nói (Tiếng Việt):
 > Xin chào anh/chị. Em là **Lê Đức Nguyên**, sinh viên năm cuối ngành **Cơ điện tử** tại Đại học Bách khoa Hà Nội. Trong suốt 5 năm đại học, em đã tập trung phát triển chuyên sâu vào hai hướng chính: **Reinforcement Learning** cho hệ thống multi-robot và **AI ứng dụng trong công nghiệp**. Hôm nay em xin được chia sẻ hành trình và lý do em muốn gia nhập VinMotion.
 > [!FIX]
-> Tôi cảm giác 
+> Tôi cảm giác điểm vào chưa được wow cho lắm, cần chỉnh sửa lại để có điểm nhấn hơn. Hãy xem cả CV tôi mới gửi vào để chỉnh sửa lại nội dung cho phù hợp. Tôi nghĩ nên chia sẻ luôn mục tiêu tôi đến với vinmotion và vị trí tôi muốn apply vào ngay từ đầu để thể hiện sự rõ ràng. 
 ### 🇬🇧 English subtitle:
 > Hello. I'm **Le Duc Nguyen**, a final-year **Mechatronics Engineering** student at Hanoi University of Science and Technology. Over 5 years, I've specialized in **Reinforcement Learning** for multi-robot systems and **industrial AI applications**. Today I'd like to share my journey and why I want to join VinMotion.
 
@@ -67,6 +68,9 @@ Core: Control Systems | Embedded | Robotics | AI/ML
 ### 🎤 Lời nói (Tiếng Việt):
 > Em chọn ngành Cơ điện tử vì đây chính là ngành **tạo ra robot** — nơi mà cơ khí, điện tử, điều khiển và AI hội tụ. Từ năm 2 em đã bắt đầu nghiên cứu thực tế: hệ thống UWB tracking trong kho hàng, rồi thi hackathon AI công nghiệp cùng DENSO, và mới nhất là đồ án tốt nghiệp về **điều phối đa robot bằng Reinforcement Learning** — project mà em sẽ trình bày chi tiết tiếp theo.
 
+> [!FIX]
+> Đoạn này cảm giác chưa được mượt mà tự nhiên, không nên nói "Từ năm 2 em đã bắt đầu nghiên cứu thực tế" nghe hơi bị gượng, ngoài ra trong tình huống tôi không thể hiện tốt sẽ bị đánh giá là nói sai sự thật, tức là đừng để cho cảm giác bị lố quá khiến người nghe suy nghĩ rằng à thằng này sẽ giỏi phải thử thách nó khó. 
+
 ### 🇬🇧 English subtitle:
 > I chose Mechatronics because it's the discipline that **creates robots** — where mechanics, electronics, control, and AI converge. Since my second year, I've pursued hands-on research: UWB indoor tracking, DENSO industrial AI hackathon, and most recently, my capstone on **multi-agent robot coordination with RL** — which I'll present in detail next.
 
@@ -93,6 +97,9 @@ Tech: PPO | GNN (GAT) | Imitation Learning | PID | Python
 
 ### 🎤 Lời nói (Tiếng Việt):
 > Đây là đồ án em tâm đắc nhất. Bài toán đặt ra là: **Làm sao để nhiều robot tự hành trong nhà kho có thể phối hợp với nhau?** — phân chia công việc, tránh va chạm, và xử lý bế tắc hoàn toàn bằng AI, không cần lập trình tay từng bước. Đây cũng chính xác là bài toán mà robot Motion của VinMotion phải giải quyết khi triển khai tại VinFast.
+
+> [!FIX]
+> "Đây là đồ án em tâm đắc nhất" nghe hơi bị lố, nên sửa lại thành "Đây là đồ án tốt nghiệp của em"
 
 > Em là **trưởng nhóm** — chịu trách nhiệm toàn bộ thiết kế kiến trúc hệ thống và triển khai thuật toán RL.
 
