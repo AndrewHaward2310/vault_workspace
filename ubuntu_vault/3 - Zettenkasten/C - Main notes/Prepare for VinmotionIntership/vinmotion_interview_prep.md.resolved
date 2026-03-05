@@ -1,0 +1,329 @@
+# 🎯 Chuẩn Bị Phỏng Vấn VinMotion — Engineering Internship
+
+> **Ứng viên:** Le Duc Nguyen | **Vị trí:** Engineering Internship — Software & AI / Robotics Solution
+> **Background:** Mechatronics Engineering (HUST, Final Year)
+> **Ngày phỏng vấn:** Tuần đầu tháng 3/2026
+
+---
+
+## 📊 Review Presentation (Từ Code)
+
+> [!NOTE]
+> Browser tool không khả dụng trên Windows. Review dựa trên phân tích trực tiếp code HTML/CSS/JS.
+
+### Điểm mạnh của Presentation
+| Slide | Nội dung | Đánh giá |
+|:---:|---|---|
+| 01 | **Cover** — Name + Tagline + VinMotion Logo | ✅ Ấn tượng, gradient text, badge animation pulse |
+| 02 | **About Me** — Coursework grid + Stats + Skills cloud | ✅ Layout 2 cột rõ ràng, liên kết coursework → humanoid |
+| 03 | **Flagship Project** — AGV Overview + Live Demo | ✅ AGV animation chạy 3 bot, demo frame giống terminal |
+| 04 | **Technical Architecture** — 2-layer arch diagram | ✅ Kiến trúc RL → PID rõ ràng, metrics bar |
+| 05 | **DENSO** — LLM Error Alert + Award banner | ✅ Stack flow diagram đẹp, insight cards |
+| 06 | **Additional Experience** — IoT + UWB | ✅ Cards với VinMotion relevance rõ ràng |
+| 07 | **Why VinMotion** — Timeline journey 2021→2026 | ✅ Narrative mạnh, 3 why-cards |
+| 08 | **Thank You** — Contact info + Quote | ✅ Clean, professional |
+
+### Gợi ý cải thiện
+- **Slide 3:** AGV animation dùng CSS `@keyframes` — chạy tốt nhưng chỉ di chuyển theo đường cố định. Có thể thêm **collision avoidance visual** (đổi màu khi 2 bot gần nhau).
+- **Slide 4:** Arch diagram hơi dày nội dung cho 1 slide — cân nhắc **tăng font `box-desc`** từ 11px → 13px.
+- **Responsive:** Padding `60px 80px` sẽ bị hẹp trên laptop 13". Nên test trên laptop thực tế trước khi present.
+- **Font fallback:** Google Fonts (Inter, JetBrains Mono) cần internet — nếu present offline hãy có fallback.
+
+---
+
+## 🔬 PROJECT 1: Multi-Agent AGV Coordination với Reinforcement Learning
+
+> **Tech Stack:** PPO, GNN (GAT), Imitation Learning, PID Control, ROS, Python
+> **Vai trò:** Project Lead | Jul–Sep 2025 | Team 2 người
+> **Highlight:** Capstone project, trực tiếp liên quan đến VinMotion
+
+---
+
+### Q1: Tại sao bạn chọn PPO (Proximal Policy Optimization) thay vì DQN hay SAC cho bài toán AGV?
+
+**Gợi ý trả lời:**
+> PPO phù hợp hơn vì bài toán AGV yêu cầu **continuous action space** (góc quay, tốc độ) — DQN chỉ xử lý được discrete actions. So với SAC, PPO có **training ổn định hơn** nhờ clipping mechanism, dễ tune hyperparameters, và ít bị diverge khi multi-agent share parameters. Trong bài toán warehouse, sự ổn định quan trọng hơn sample efficiency vì ta có thể chạy nhiều episode trong simulation.
+
+**Follow-up có thể:** *"PPO clip ratio bạn dùng là bao nhiêu? Tại sao?"*
+> Dùng ε = 0.2 (default). Đã thử 0.1 và 0.3 — 0.1 quá conservative (chậm converge), 0.3 policy thay đổi quá nhanh gây instability.
+
+---
+
+### Q2: GNN Encoder trong hệ thống hoạt động như thế nào? Tại sao dùng GAT (Graph Attention Network)?
+
+**Gợi ý trả lời:**
+> Warehouse được model như một **heterogeneous super-graph**: nodes là AGVs, tasks, và waypoints; edges là kết nối vật lý (đường đi). GAT cho phép mỗi node **"attend" khác nhau tới các neighbors** — ví dụ, một AGV gần depot sẽ attend nhiều hơn tới pending tasks ở depot, trong khi AGV đang di chuyển sẽ attend nhiều hơn tới AGV neighboring để tránh va chạm.
+
+> So với GCN thông thường (mean aggregation), GAT có **attention weights** cho phép model tự học được **mối quan hệ nào quan trọng** — đây chính là ưu điểm khi warehouse layout phức tạp.
+
+**Follow-up có thể:** *"Số layers GAT bạn dùng?"*
+> 2 layers — đủ để mỗi node "nhìn thấy" được 2-hop neighbors. Thêm layer gây over-smoothing và tăng latency.
+
+---
+
+### Q3: Imitation Learning giúp gì cho quá trình training? Expert demonstrations tạo từ đâu?
+
+**Gợi ý trả lời:**
+> IL giải quyết **cold start problem** — nếu chỉ dùng PPO thuần, agent ban đầu sẽ random walk trong warehouse, mất rất nhiều episode mới học được policy hợp lý. 
+
+> **Expert** là **heuristic-based dispatcher** được tune thủ công: weighted combination của (efficiency — khoảng cách robot-task, urgency — deadline gần, balance — phân bổ đều workload). Dùng **Behavioral Cloning** để train policy network match hành vi expert này.
+
+> Kết quả: IL phase cho model **2x faster convergence** so với PPO from scratch. Sau đó PPO fine-tune để **vượt qua expert** — đặc biệt ở long-term scheduling mà heuristic không tối ưu được.
+
+---
+
+### Q4: Giải thích cơ chế Collision Avoidance và Deadlock Resolution trong hệ thống?
+
+**Gợi ý trả lời:**
+> Hệ thống có **3 tầng bảo vệ**:
+> 1. **Priority Tie-breaking:** Khi 2 AGV muốn đi vào cùng 1 ô, AGV có priority cao hơn (dựa trên task deadline) đi trước.
+> 2. **Mutual-Wait Detection:** Khi phát hiện 2+ AGV chờ lẫn nhau (circular dependency), system force 1 AGV reroute sang đường backup.
+> 3. **Timeout Rerouting:** Nếu AGV bị block > threshold time, tự động trigger pathfinding lại (A*) với obstacle map đã cập nhật.
+
+> PID controller ở tầng thấp đảm bảo motion smooth — khi nhận lệnh reroute, PID giảm tốc → quay hướng → tăng tốc trên route mới.
+
+---
+
+### Q5: Bạn đánh giá performance của system như thế nào? Metrics nào quan trọng nhất?
+
+**Gợi ý trả lời:**
+> 4 metrics chính:
+> - **Task completion rate** — % tasks hoàn thành đúng deadline
+> - **Average delivery time** — thời gian trung bình từ assign → deliver
+> - **Collision count** — số va chạm (target: 0)
+> - **System throughput** — tasks/phút toàn hệ thống
+>
+> Dùng **web-based simulation** để benchmark so sánh PPO policy vs heuristic expert vs random assignment. PPO policy outperformed expert ở throughput nhờ khả năng **proactive load balancing** — assign task cho AGV sẽ đến gần point đó trong tương lai, chứ không chỉ AGV gần nhất hiện tại.
+
+---
+
+### Q6 (Câu khó): Làm thế nào để scale hệ thống từ 3 AGVs lên 50+ AGVs? Challenges gì?
+
+**Gợi ý trả lời:**
+> **Challenges:**
+> - **State space explosion** — 50 agents × state dimension = GNN graph cực lớn
+> - **Credit assignment** — khó xác định agent nào đóng góp vào reward chung
+> - **Communication overhead** — message passing trong GNN tốn compute
+>
+> **Giải pháp đề xuất:**
+> - **Parameter sharing** — tất cả AGV dùng chung 1 policy network (đã implement)
+> - **Mean-field approximation** — thay vì attend tất cả neighbors, chỉ attend top-K gần nhất
+> - **Hierarchical RL** — thêm tầng manager phân vùng warehouse, mỗi vùng có coordinator riêng
+
+---
+
+## 🏭 PROJECT 2: LLM-based Industrial Error Alert System (DENSO Factory Hacks)
+
+> **Tech Stack:** LLM, Elasticsearch, Weaviate (Vector DB), Streamlit, Docker, Python
+> **Vai trò:** Project Lead | Team 4 người | Nov 2023–Jan 2024
+> **Giải thưởng:** 🏆 3rd Prize — DENSO Factory Hacks 2023
+
+---
+
+### Q7: Tại sao cần kết hợp Elasticsearch VÀ Weaviate? Mỗi cái giải quyết vấn đề gì?
+
+**Gợi ý trả lời:**
+> **Elasticsearch** xử lý **keyword-based search** — khi operator muốn tìm lỗi theo error code cụ thể (VD: "E-1234"), timestamp, hoặc machine ID. Nó là **inverted index**, nhanh cho exact match.
+
+> **Weaviate** là **vector database** xử lý **semantic search** — khi operator mô tả lỗi bằng ngôn ngữ tự nhiên ("robot arm không trở về home position sau khi weld xong"), Weaviate dùng LLM embeddings để tìm các lỗi tương tự trong lịch sử, kể cả khi wording khác nhau.
+
+> **Synergy:** Elasticsearch lọc nhanh theo filter cứng (date range, machine) → Weaviate rank kết quả theo semantic similarity → LLM tổng hợp và đề xuất root cause + fix.
+
+---
+
+### Q8: LLM nào bạn sử dụng? Tại sao không fine-tune riêng cho DENSO?
+
+**Gợi ý trả lời:**
+> Trong hackathon (thời gian hạn chế), dùng **OpenAI GPT API** kết hợp **RAG (Retrieval-Augmented Generation)** — LLM query Weaviate để lấy context liên quan trước khi generate response.
+
+> **Tại sao không fine-tune:**
+> 1. **Data sensitivity** — factory error logs là proprietary, không thể gửi lên cloud để fine-tune
+> 2. **Time constraint** — hackathon chỉ 2 tháng
+> 3. **RAG đủ hiệu quả** — với proper chunking và embedding, RAG đã đạt accuracy cao cho use case này
+>
+> **Nếu production:** Would recommend fine-tune LLaMA/Mistral on-premise để đảm bảo data privacy + giảm latency.
+
+---
+
+### Q9: Streamlit dashboard hiển thị gì? Real-time như thế nào?
+
+**Gợi ý trả lời:**
+> Dashboard có 3 panels chính:
+> 1. **Error Feed** — stream lỗi real-time từ factory floor, color-coded theo severity (critical/warning/info)
+> 2. **Semantic Search** — operator gõ mô tả lỗi → hệ thống trả về similar errors + suggested fixes
+> 3. **Analytics** — trend chart lỗi theo thời gian, heatmap lỗi theo machine/station
+>
+> Real-time qua **polling Elasticsearch** mỗi 5s. Trong production nên dùng **WebSocket** hoặc **Elasticsearch watcher** để push notification.
+
+---
+
+### Q10: Bài học lớn nhất khi làm việc với mentors DENSO + FPT về "factory-grade" AI?
+
+**Gợi ý trả lời:**
+> 3 bài học quan trọng:
+> 1. **Reliability > Accuracy** — factory system phải chạy 24/7, crash 1 phút = dừng dây chuyền. Cần graceful degradation — nếu LLM timeout, fallback về keyword search.
+> 2. **Latency matters** — operator cần response trong < 2 giây, không thể chờ LLM suy nghĩ 10s. Cần caching layer + pre-computed embeddings.
+> 3. **Domain expertise is king** — model tốt mấy cũng vô nghĩa nếu không hiểu factory workflow. Phải ngồi cạnh kỹ sư DENSO để hiểu context error codes.
+
+---
+
+## 🌱 PROJECT 3: IoT Smart Garden System
+
+> **Tech Stack:** Node.js, Express.js, PostgreSQL, MongoDB, Redis, Docker, Docker Compose, MQTT, ESP32
+> **Vai trò:** Backend Lead / System Architect | Team 4 người | Oct 2025–Jan 2026
+
+---
+
+### Q11: Giải thích kiến trúc microservices bạn thiết kế. Tại sao không dùng monolith?
+
+**Gợi ý trả lời:**
+> Hệ thống gồm 4+ services tách biệt, mỗi service containerized bằng Docker:
+> - **MQTT Handler Service** — nhận data từ ESP32 sensors
+> - **Data Processing Service** — transform + validate sensor data
+> - **API Gateway** — expose RESTful APIs cho frontend
+> - **Notification Service** — alert khi sensor readings vượt ngưỡng
+>
+> **Tại sao microservices:**
+> - **Independent scaling** — MQTT handler cần scale khi thêm nhiều sensors, nhưng API gateway load ít hơn
+> - **Fault isolation** — nếu notification service crash, data pipeline vẫn chạy
+> - **Team collaboration** — 4 members phát triển song song, mỗi người 1 service
+>
+> **Relevance cho VinMotion:** Humanoid robot cũng cần kiến trúc tương tự — separate services cho perception, planning, control, monitoring.
+
+---
+
+### Q12: Tại sao dùng cả PostgreSQL, MongoDB VÀ Redis? Mỗi cái phục vụ mục đích gì?
+
+**Gợi ý trả lời:**
+> **Polyglot persistence** — chọn đúng DB cho đúng data type:
+> - **PostgreSQL** — user accounts, device configurations, garden profiles → **relational data** cần ACID transactions
+> - **MongoDB** — time-series sensor data (nhiệt độ, độ ẩm mỗi 5s) → **document-based**, dễ horizontal scale, schema flexible cho nhiều loại sensor
+> - **Redis** — caching hot data (latest readings), session storage, pub/sub cho real-time dashboard → **in-memory**, latency < 1ms
+>
+> Kinh nghiệm này trực tiếp áp dụng cho robot: PostgreSQL cho configuration, MongoDB cho sensor logs, Redis cho real-time state sharing giữa các modules.
+
+---
+
+### Q13: MQTT protocol hoạt động thế nào trong hệ thống? So với HTTP polling có gì khác?
+
+**Gợi ý trả lời:**
+> **MQTT** là **publish-subscribe** protocol, thiết kế cho IoT:
+> - **Lightweight** — header chỉ 2 bytes (vs HTTP > 100 bytes), tiết kiệm bandwidth cho ESP32
+> - **Bi-directional** — sensor push data lên (publish), server gửi lệnh xuống (subscribe) qua cùng 1 connection
+> - **QoS levels** — QoS 0 (at most once) cho temperature data thường, QoS 1 (at least once) cho critical alerts
+> - **Persistent connection** — không cần handshake mỗi lần gửi data (vs HTTP poll mỗi 5s)
+>
+> **Relevance cho robotics:** ROS 2 dùng DDS (Data Distribution Service) — cùng paradigm pub/sub. Kinh nghiệm MQTT → adapt nhanh sang DDS/ROS 2 topic system.
+
+---
+
+### Q14: Docker Compose orchestrate các services như thế nào? Network topology?
+
+**Gợi ý trả lời:**
+> `docker-compose.yml` define all services + dependencies:
+> - **Custom bridge network** — tất cả services communicate qua internal DNS (service name)
+> - **Volume mounts** — persistent storage cho PostgreSQL, MongoDB data
+> - **Environment variables** — secrets inject qua `.env` file, không hardcode
+> - **Health checks** — mỗi service có healthcheck endpoint, Docker auto-restart nếu fail
+> - **Depends_on** — đảm bảo DB services start trước application services
+
+---
+
+## 🤖 CÂU HỎI VỀ VINMOTION & HUMANOID ROBOTICS
+
+---
+
+### Q15: Kinh nghiệm AGV của bạn áp dụng được gì cho humanoid robot?
+
+**Gợi ý trả lời (KEY QUESTION — chuẩn bị kỹ):**
+> Kiến trúc **2 tầng** trong AGV project map trực tiếp sang humanoid:
+>
+> | AGV System | Humanoid Equivalent |
+> |---|---|
+> | PPO agent (task assignment) | High-level planner (which task, which path) |
+> | GNN encoder (spatial reasoning) | Scene understanding + obstacle awareness |
+> | PID controller (velocity/heading) | Joint-level motor control (torque, position) |
+> | Collision avoidance | Balance + fall prevention |
+> | Multi-agent coordination | Multi-limb coordination |
+>
+> Thêm vào đó, kinh nghiệm **sim-to-real** (training trong simulation → deploy trên robot) là transferable — humanoid dùng IsaacGym/MuJoCo thay vì web-based sim, nhưng workflow tương tự.
+
+---
+
+### Q16: Bạn biết gì về MuJoCo và IsaacGym? So sánh chúng?
+
+**Gợi ý trả lời:**
+> - **MuJoCo** (Multi-Joint dynamics with Contact): physics engine chính xác, tốt cho contact-heavy tasks (manipulation, locomotion). Mới open-source. Chạy trên CPU, tốt cho research cần accuracy.
+> - **IsaacGym** (NVIDIA): GPU-accelerated, có thể chạy hàng nghìn parallel environments → training RL nhanh hơn 100x. Tốt cho large-scale RL training.
+> - **So sánh:** MuJoCo = accuracy, IsaacGym = speed. Trong thực tế thường dùng IsaacGym để train → validate bằng MuJoCo → deploy trên robot thật.
+>
+> *"Tôi chưa có kinh nghiệm trực tiếp với IsaacGym/MuJoCo nhưng đây là technical goal khi join VinMotion — transition từ 2D wheeled robot sang 3D bipedal locomotion."*
+
+---
+
+### Q17: Tại sao bạn chọn VinMotion chứ không phải các công ty AI khác?
+
+**Gợi ý trả lời (đã có trong Slide 7 — nói tự nhiên):**
+> 3 lý do:
+> 1. **Unique opportunity** — VinMotion là nơi duy nhất ở Việt Nam nghiên cứu humanoid robot ở quy mô production. Không phải lab đại học, mà là R&D → factory deployment (VinFast).
+> 2. **Perfect fit** — background Mechatronics + AGV RL + Industrial AI (DENSO) = chính xác intersection mà VinMotion cần.
+> 3. **Growth trajectory** — từ AGV (wheeled, 2D) → Humanoid (bipedal, 3D) là natural progression, và VinMotion cung cấp mentorship + hardware thực tế để tôi thực hiện transition này.
+
+---
+
+## 🗣️ CÂU HỎI BEHAVIORAL / SOFT SKILLS
+
+---
+
+### Q18: Kể về lần bạn gặp technical challenge lớn nhất và cách giải quyết?
+
+**STAR Framework:**
+> **S:** Trong AGV project, sau 2 tuần training, PPO agent liên tục bị deadlock — 3 AGVs chặn lẫn nhau tại intersection.
+> **T:** Cần tìm root cause và fix mà không retrain toàn bộ model.
+> **A:** (1) Phân tích replay logs → phát hiện reward function không penalize "wait" action đủ nặng. (2) Thêm deadlock detection heuristic song song với RL policy. (3) Redesign reward: penalty tăng theo thời gian wait (progressive penalty).
+> **R:** Deadlock rate giảm từ ~15% xuống < 1%. Hệ thống chạy smooth với 3 AGVs liên tục.
+
+---
+
+### Q19: Bạn manage team 4 người ở DENSO Hackathon như thế nào?
+
+**STAR Framework:**
+> **S:** Hackathon 2 tháng, team 4 SV chưa từng làm việc chung, mỗi người skill set khác nhau.
+> **T:** Deliver sản phẩm hoàn chỉnh đúng deadline + present trước ban giám khảo DENSO.
+> **A:** (1) Tuần 1: brainstorm + define architecture together. (2) Phân task theo strength: 1 người Elasticsearch, 1 người Weaviate, 1 người Streamlit, tôi làm LLM integration + system design. (3) Daily standup 15 phút trên Discord. (4) Code review mỗi PR trước merge.
+> **R:** 3rd Prize toàn quốc. Team member phản hồi tích cực về quy trình làm việc rõ ràng.
+
+---
+
+### Q20: Nếu được nhận, bạn muốn đóng góp gì trong 3 tháng đầu?
+
+**Gợi ý trả lời:**
+> **Tháng 1:** Onboarding — học codebase, setup environment (ROS 2, IsaacGym/MuJoCo), hiểu kiến trúc Motion_1/Motion_2 robot. Shadow senior engineers.
+> **Tháng 2:** Bắt đầu contribute — áp dụng kinh nghiệm RL vào một subtask cụ thể (VD: navigation policy, gait optimization, hoặc sensor data pipeline). Chạy experiments + document findings.
+> **Tháng 3:** Deliver kết quả cụ thể — benchmark report, improved policy, hoặc new feature. Present to team + propose next steps.
+
+---
+
+## ⚡ CHEAT SHEET — Câu Hỏi Nhanh Có Thể Bị Hỏi
+
+| Câu hỏi | Key Points |
+|---|---|
+| ROS 1 vs ROS 2? | ROS2: DDS middleware, real-time capable, security, multi-robot native |
+| PID tuning thế nào? | Ziegler-Nichols hoặc manual tune: P → ổn định, I → steady-state error, D → giảm overshoot |
+| Sim-to-Real gap? | Domain randomization, system identification, progressive transfer |
+| Python vs C++ cho robotics? | Python: prototyping + ML. C++: low-latency control loop, embedded |
+| Docker vs VM? | Docker: lightweight, share kernel, fast startup. VM: full isolation |
+| A* vs Dijkstra? | A* có heuristic → nhanh hơn cho single-target. Dijkstra tìm shortest path tới tất cả nodes |
+| Overfitting trong RL? | Nhiều diverse environments, domain randomization, early stopping |
+| Transformer vs RNN cho sequence? | Transformer: parallel, long-range. RNN: sequential, lighter |
+
+---
+
+## 📋 CHECKLIST TRƯỚC BUỔI PHỎNG VẤN
+
+- [ ] Review lại slides trên laptop sẽ present (kiểm tra font rendering, responsive)
+- [ ] Test presentation ở chế độ fullscreen
+- [ ] Chuẩn bị 1-2 câu hỏi ngược cho interviewer (VD: "Robot Motion_2 dùng RL framework nào?", "Intern có cơ hội work trên hardware thật không?")
+- [ ] Tạo GitHub portfolio page sạch — pin AGV repo + IoT Garden repo
+- [ ] Chuẩn bị demo video AGV simulation nếu internet không ổn định
+- [ ] Test microphone + camera nếu phỏng vấn online(*)
