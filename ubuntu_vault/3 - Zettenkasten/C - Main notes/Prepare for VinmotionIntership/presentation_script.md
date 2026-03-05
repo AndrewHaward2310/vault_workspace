@@ -88,6 +88,9 @@ Achievements:
 > 
 > Chính những trải nghiệm này đã dẫn em đến đề tài đồ án tốt nghiệp về **Reinforcement Learning cho robot tự hành** — mà em sẽ trình bày ngay sau đây.
 
+> [!FIX]
+> Nội dung thì tạm ổn nhưng vẫn chưa đủ hay 
+
 ### 🇬🇧 English subtitle:
 > I study Mechatronics because it combines mechanics, electronics, control, and AI — the core building blocks of robotics. Throughout my studies, I've worked on several hands-on projects — from **UWB indoor positioning for warehouses**, an **IoT Smart Garden** with microservice architecture, to an industrial AI competition with DENSO.
 >
@@ -123,6 +126,9 @@ Tech: LLM + Elasticsearch + Weaviate (Vector DB)
 > Cuối năm 2023, em tham gia cuộc thi **DENSO Factory Hacks** — chương trình hợp tác giữa DENSO và FPT. Em dẫn nhóm 4 người xây dựng hệ thống **hỏi đáp thông minh cho kỹ sư bảo trì nhà máy**: thay vì phải tra cứu thủ công trong kho dữ liệu lỗi khổng lồ, kỹ sư có thể **đặt câu hỏi bằng ngôn ngữ tự nhiên** và nhận câu trả lời chính xác trong vài giây. Đội em **đạt giải 3 toàn quốc**.
 >
 > Nhưng quan trọng hơn giải thưởng, trải nghiệm thực tế trong nhà máy DENSO đã cho em thấy tiềm năng to lớn của AI trong sản xuất — và đó chính là **động lực** thúc đẩy em chọn đề tài đồ án tốt nghiệp về điều phối robot tự hành bằng Reinforcement Learning.
+
+> [!FIX]
+> Cần viết hay hơn, từ ngữ máy móc quá
 
 ### 🇬🇧 English subtitle:
 > In late 2023, I participated in **DENSO Factory Hacks** — a collaboration between DENSO and FPT. I led a team of 4 to build a **smart Q&A system for factory maintenance engineers**: instead of manually searching through massive error databases, engineers could **ask questions in natural language** and get accurate answers in seconds. We **won 3rd prize nationally**.
