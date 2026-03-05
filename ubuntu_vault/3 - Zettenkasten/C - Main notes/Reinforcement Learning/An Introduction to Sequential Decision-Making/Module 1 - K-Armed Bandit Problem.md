@@ -35,7 +35,7 @@ ___
 - Describe the upper confidence bound action selection method
 - Define optimism in the face of uncertainty
 
-
+# Lesson 1:
 
 
 # References
