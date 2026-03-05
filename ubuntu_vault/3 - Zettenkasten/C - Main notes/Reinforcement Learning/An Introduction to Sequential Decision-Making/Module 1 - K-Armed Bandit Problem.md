@@ -8,7 +8,7 @@ ___
 
 # Learning Objectives
 
-## Lesson 1: The K-Armed Bandit Problem 
+## [Lesson 1: Multi-armed Bandits](Lesson-1:-Multi-armed-Bandits)
 
 - Define reward
 - Understand the temporal nature of the bandit problem
@@ -35,7 +35,10 @@ ___
 - Describe the upper confidence bound action selection method
 - Define optimism in the face of uncertainty
 
-# Lesson 1:
+<a name="Lesson-1:-Multi-armed-Bandits"></a>
+# Lesson 1: Multi-armed Bandits
+
+## 2.1. A k-armed Bandit Problem
 
 
 # References
