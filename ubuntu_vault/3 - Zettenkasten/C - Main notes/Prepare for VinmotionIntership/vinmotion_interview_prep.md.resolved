@@ -38,10 +38,10 @@
 > **Highlight:** Capstone project, trực tiếp liên quan đến VinMotion
 
 ---
-
+rl architecture
 ### Q1: Tại sao bạn chọn PPO (Proximal Policy Optimization) thay vì DQN hay SAC cho bài toán AGV?
 
-**Gợi ý trả lời:**
+**Gợi ý trả lời:**rl architecture
 > PPO phù hợp hơn vì bài toán AGV yêu cầu **continuous action space** (góc quay, tốc độ) — DQN chỉ xử lý được discrete actions. So với SAC, PPO có **training ổn định hơn** nhờ clipping mechanism, dễ tune hyperparameters, và ít bị diverge khi multi-agent share parameters. Trong bài toán warehouse, sự ổn định quan trọng hơn sample efficiency vì ta có thể chạy nhiều episode trong simulation.
 
 **Follow-up có thể:** *"PPO clip ratio bạn dùng là bao nhiêu? Tại sao?"*
