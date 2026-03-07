@@ -216,7 +216,8 @@ Training: IL (Behavioral Cloning) → PPO (Fine-tune)
 >
 > Điểm đặc biệt là quy trình huấn luyện hai giai đoạn: đầu tiên cho AI **bắt chước** expert qua Imitation Learning để khởi động nhanh, sau đó dùng PPO để **tự cải thiện vượt qua expert**.
 >
-> **Tầng thực thi** xử lý di chuyển chính xác với PID, tìm đường bằng A*, và hệ thống tránh va chạm ba lớp — từ phân quyền ưu tiên đến phát hiện bế tắc vòng và tự động tìm đường thay thế.
+> **Tầng thực thi** xử lý di chuyển chính xác với PID, tìm đường bằng A*, và hệ thống tránh va chạm ba lớp — từ phân quyền ưu tiên đến phát hiện bế tắc vòng và tự động tìm đường thay thế
+> 
 
 ### 🇬🇧 English subtitle:
 > The system has two layers. The **decision layer** is where I designed and implemented — using **Graph Attention Networks** to model the warehouse as a graph: each robot, task, and waypoint becomes a node, and the algorithm learns to *attend* to the most relevant nodes. Then, a **Transformer** performs global coordination, and **PPO** makes task assignment decisions.
