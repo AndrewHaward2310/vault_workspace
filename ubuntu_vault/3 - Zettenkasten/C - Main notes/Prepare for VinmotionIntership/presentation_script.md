@@ -129,6 +129,7 @@ Tech: LLM + Elasticsearch + Weaviate (Vector DB)
 
 > [!FIX]
 > Cần viết hay hơn, từ ngữ máy móc quá
+> "**động lực** thúc đẩy" -> niềm cảm hứng 
 
 ### 🇬🇧 English subtitle:
 > In late 2023, I participated in **DENSO Factory Hacks** — a collaboration between DENSO and FPT. I led a team of 4 to build a **smart Q&A system for factory maintenance engineers**: instead of manually searching through massive error databases, engineers could **ask questions in natural language** and get accurate answers in seconds. We **won 3rd prize nationally**.
@@ -168,6 +169,9 @@ MY CONTRIBUTION:
 > Đây là đồ án tốt nghiệp của em. Bài toán đặt ra là: làm sao để nhiều xe tự hành AGV trong nhà máy có thể **tự phối hợp với nhau** — phân chia công việc, tránh va chạm, xử lý bế tắc — thông qua quá trình học, thay vì phải lập trình thủ công từng tình huống.
 >
 > Đây là đề tài nhóm 2 người. Em chịu trách nhiệm chính trong việc **thiết kế kiến trúc hệ thống** và **triển khai thuật toán Reinforcement Learning** — bao gồm pipeline huấn luyện hai giai đoạn và hệ thống mô phỏng để đánh giá hiệu suất. Em cũng đã viết bài báo nghiên cứu tóm tắt toàn bộ framework.
+>
+> [!FIX]
+> "Em cũng đã viết bài báo nghiên cứu tóm tắt toàn bộ framework." -> đang trong quá trình viết chứ không phải đã xong 
 
 ### 🇬🇧 English subtitle:
 > This is my capstone project. The problem: how can multiple AGVs in a factory **autonomously coordinate** — assigning tasks, avoiding collisions, resolving deadlocks — through learning, rather than manually programming each scenario.
