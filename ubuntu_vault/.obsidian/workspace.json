@@ -304,55 +304,17 @@
                 "id": "99c28829f443c0bd",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3 - Zettenkasten/C - Main notes/FPGA.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "FPGA"
-                }
-              },
-              {
-                "id": "b1b8c23900071fe8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3 - Zettenkasten/A - Templates/Academic Note.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Academic Note"
+                  "title": "New tab"
                 }
               }
             ],
-            "currentTab": 13
+            "currentTab": 12
           },
           {
-            "id": "e66f9596f8ae4068",
+            "id": "7262bf8fb441a5f8",
             "type": "split",
             "dimension": 42.71653543307087,
             "children": [
@@ -373,11 +335,11 @@
                 ]
               },
               {
-                "id": "d989ef5b2a14e9d5",
+                "id": "0fa29b4ceeb5fe97",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "f00e76106196c4dd",
+                    "id": "b1b8c23900071fe8",
                     "type": "leaf",
                     "state": {
                       "type": "graph",
@@ -579,12 +541,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3e29f25eca5c15e1",
+  "active": "b1b8c23900071fe8",
   "lastOpenFiles": [
+    "3 - Zettenkasten/A - Templates/Academic Note.md",
+    "3 - Zettenkasten/C - Main notes/IELTS/OTHER COMPARISION IN IELTS WRITING TASK 1.md",
+    "conflict-files-obsidian-git.md",
     "3 - Zettenkasten/C - Main notes/Prepare for VinmotionIntership/Recommendation_Letter_PGS_PhamDucAn.tex",
     "3 - Zettenkasten/C - Main notes/Prepare for VinmotionIntership/Thu_gioi_thieu_PGS_PhamDucAn.md",
-    "3 - Zettenkasten/A - Templates/Academic Note.md",
-    "conflict-files-obsidian-git.md",
     "4 - Sources/Pasted image 20260221183359.png",
     "4 - Sources/Pasted image 20260221183359 - Copy.png",
     "4 - Sources/Pasted image 20260221183341.png",
@@ -612,7 +575,6 @@
     "3 - Zettenkasten/C - Main notes/Prepare for VinmotionIntership/DATNCPS_MAPF.docx",
     "3 - Zettenkasten/C - Main notes/Prepare for VinmotionIntership/CV_LeDucNguyen_VinInternship_VI.tex",
     "3 - Zettenkasten/C - Main notes/Prepare for VinmotionIntership/CV_LeDucNguyen_VinInternship_EN.tex",
-    "3 - Zettenkasten/C - Main notes/Prepare for VinmotionIntership",
     "3 - Zettenkasten/C - Main notes/Prepare for NYFP/information_about_scholarship_NYFP.md",
     "3 - Zettenkasten/C - Main notes/Prepare for NYFP/Reference_Letter_Emails.md",
     "3 - Zettenkasten/C - Main notes/Prepare for NYFP/README.md",
