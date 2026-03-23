@@ -5,4 +5,5 @@ feed: show
 format: list
 date: 2025-11-18 16:52
 ___
-[[WRITINGTASK1]]
+1. [[WRITINGTASK1]]
+2. [[WRITINGTASK2]]

@@ -1,0 +1,47 @@
+___
+📆 05/03/2026 19:38
+
+🔗 Permalink: [[Reinforcement Learning]] 
+___
+
+# Module 1 - K-Armed Bandit Problem
+
+# Learning Objectives
+
+## [Lesson 1: Multi-armed Bandits](#Lesson-1:-Multi-armed-Bandits)
+
+- Define reward
+- Understand the temporal nature of the bandit problem
+- Define k-armed bandit
+- Define action-values
+
+## Lesson 2: What to Learn? Estimating Action Values
+
+- Define action-value estimation methods
+- Define exploration and exploitation
+- Select actions greedily using an action-value function
+- Define online learning
+- Understand a simple online sample-average action-value estimation method
+- Define the general online update equation
+- Understand why we might use a constant step-size in the case of non-stationarity
+
+## Lesson 3: Exploration vs. Exploitation Tradeoff 
+
+- Define epsilon-greedy
+- Compare the short-term benefits of exploitation and the long-term benefits of exploration
+- Understand optimistic initial values
+- Describe the benefits of optimistic initial values for early exploration
+- Explain the criticisms of optimistic initial values
+- Describe the upper confidence bound action selection method
+- Define optimism in the face of uncertainty
+
+<a name="#Lesson-1:-Multi-armed-Bandits"></a>
+# Lesson 1: Multi-armed Bandits
+
+
+> Reinforcement learning is uniquely characterized by **evaluative feedback**, which assesses the quality of an action taken rather than providing the correct action (**instructive feedback**). This distinction necessitates active exploration to find optimal behaviors. The study of the **k-armed bandit problem** provides a simplified, nonassociative framework to explore these evaluative methods before extending them to complex, multi-situation reinforcement learning problems.
+
+## 2.1. A k-armed Bandit Problem
+
+
+# References

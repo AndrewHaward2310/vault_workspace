@@ -1,9 +1,7 @@
 ___
 📆 {{date}} {{time}}
 
-✅ Status:
-
-🔗 Tags:
+🔗 Permalink:
 ___
 
 # {{Title}}

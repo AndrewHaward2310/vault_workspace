@@ -1,0 +1,208 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% -*- coding: UTF-8; -*-
+% vim: set fenc=utf-8
+
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[utf-8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{enumitem}
+
+% Define colors
+\definecolor{darkblue}{rgb}{0.0, 0.0, 0.5}
+\definecolor{darkgray}{rgb}{0.3, 0.3, 0.3}
+
+% Remove page number
+\pagestyle{empty}
+
+% Define custom commands
+\newcommand{\name}[1]{
+  \centerline{\Large\textbf{#1}}
+  \vspace{0.5em}
+}
+
+\newcommand{\contact}[4]{
+  \centerline{\small #1 \quad $\bullet$ \quad #2 \quad $\bullet$ \quad #3 \quad $\bullet$ \quad #4}
+  \vspace{1em}
+}
+
+\newcommand{\section}[1]{
+  \vspace{0.3em}
+  {\large\textbf{\textcolor{darkblue}{#1}}}
+  \vspace{0.2em}
+  \hrule
+  \vspace{0.3em}
+}
+
+\newcommand{\subsection}[2]{
+  \textbf{#1} \hfill \textit{#2}
+  \vspace{0.2em}
+}
+
+\newcommand{\entry}[4]{
+  \textbf{#1} \hfill #2 \\
+  \textit{#3} \\
+  #4
+  \vspace{0.3em}
+}
+
+\newcommand{\item}[1]{
+  \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+    #1
+  \end{itemize}
+}
+
+\begin{document}
+
+% Title Block
+\name{Le Duc Nguyen}
+
+\contact
+  {\href{mailto:nguyen.ld2310@gmail.com}{nguyen.ld2310@gmail.com}}
+  {+84 (945) 032-669}
+  {\href{https://github.com/AndrewHaward2310}{GitHub}}
+  {Hanoi, Vietnam}
+
+% Education
+\section{EDUCATION}
+
+\entry
+  {Hanoi University of Science and Technology (HUST)}
+  {Oct 2021 -- Mar 2026}
+  {B.S. in Mechatronics Engineering}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Specialized in mechatronics, automation systems, and embedded control
+      \item Relevant coursework: Automatic Control, Robotics, Digital Systems Design, Signal Processing
+    \end{itemize}
+  }
+
+% Research and Project Experience
+\section{RESEARCH AND PROJECT EXPERIENCE}
+
+\entry
+  {\href{https://github.com/AndrewHaward2310/IoTSmartGardenSystem}{IoT Smart Garden System}}
+  {Oct 2025 - Jan 2026}
+  {Backend Lead / System Architect | University Course Project}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Designed and developed the complete backend architecture for a comprehensive IoT smart garden system, from data ingestion to user-facing APIs.
+      \item Engineered a scalable and decoupled system using a microservice architecture, containerizing individual services with Docker for isolated and consistent deployment.
+      \item Orchestrated the multi-container application using Docker Compose, defining service dependencies, networks, and health checks for a production-ready environment.
+      \item Implemented a robust data pipeline by integrating PostgreSQL for relational data (users, gardens), MongoDB for time-series sensor data, and Redis for high-performance caching.
+      \item Developed the core API Gateway using Node.js and Express.js, which handled authentication (JWT), routing, and served as the single entry point for all frontend clients.
+      \item Created a dedicated MQTT handler service to process real-time data streams from ESP32 devices, ensuring efficient and reliable communication between hardware and the cloud backend.
+      \item Team size: 4 members | Technologies: Node.js, Express.js, PostgreSQL, MongoDB, Redis, Docker, Docker Compose, MQTT, Microservices, System Architecture
+    \end{itemize}
+  }
+
+\entry
+  {\href{https://andrewhaward2310.github.io/gnn-il-ppo-paper/}{Multi-Agent AGV Coordination System with Reinforcement Learning}}
+  {Jul 2025 -- Sep 2025}
+  {Project Lead / Lead Developer | School of Mechanical Engineering, HUST}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Designed and implemented a multi-agent reinforcement learning framework for autonomous guided vehicle (AGV) coordination in factory environments
+      \item Developed and validated PID-based control systems integrated with RL agents for precise motion control
+      \item Successfully simulated automatic AGV dispatching system with customizable vehicle quantities and task assignments
+      \item Trained RL models using Proximal Policy Optimization (PPO) algorithm for task allocation and collision avoidance
+      \item Utilized ROS (Robot Operating System) framework for robot communication and real-time simulation
+      \item Team size: 2 members | Technologies: PPO, Reinforcement Learning, Imitation Learning, PID Control, ROS
+    \end{itemize}
+  }
+
+\entry
+  {Large Language Model-based Industrial Error Alert System}
+  {Nov 2023 -- Jan 2024}
+  {Project Lead | DENSO Factory Hacks 2023 (Collaboration between FPT and DENSO)}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Led a team to research and implement LLM-based solutions for industrial error detection and alert systems
+      \item Designed system architecture integrating Elasticsearch for data indexing and Weaviate for semantic search capabilities
+      \item Developed Streamlit-based dashboard for real-time error monitoring and analysis
+      \item Collaborated with mentors from FPT and DENSO to implement production-ready solutions
+      \item Team size: 4 members | Technologies: Elasticsearch, Weaviate, Docker, Streamlit, Large Language Models
+      \item \textbf{Award:} Third Prize, DENSO Factory Hacks 2023
+    \end{itemize}
+  }
+
+\entry
+  {Warehouse Management System using Ultra-Wideband (UWB) Technology}
+  {Nov 2022 -- Mar 2023}
+  {Developer | Innovation and Scientific Research Award}
+  {
+    \begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+      \item Built database architecture using MongoDB for sensor data storage and management
+      \item Processed real-time data collected from UWB sensors for location tracking and asset management
+      \item Implemented data pipelines using Pandas for analytics and reporting
+      \item Integrated IoT sensors with cloud backend using MQTT protocol for seamless communication
+      \item Team size: 4 members | Technologies: MongoDB, FastAPI, Pandas, MQTT Protocol, UWB Sensors
+    \end{itemize}
+  }
+
+% Awards and Scholarships
+\section{AWARDS AND SCHOLARSHIPS}
+
+\subsection{Dean's List / Academic Excellence Scholarship}{2021 -- 2022}
+School of Mechanical Engineering, Hanoi University of Science and Technology
+\begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+  \item Awarded for academic excellence and high semester GPA in semesters 20211 and 20212
+\end{itemize}
+
+\subsection{Innovation and Scientific Research Award}{Jun 2022}
+Hanoi University of Science and Technology
+\begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+  \item Won for innovative research project in engineering design and implementation
+\end{itemize}
+
+\subsection{Third Prize, DENSO Factory Hacks 2023}{Jan 2024}
+Organized by DENSO and FPT
+\begin{itemize}[leftmargin=1.5em, topsep=0pt, itemsep=0.2em]
+  \item Recognized for innovative LLM-based industrial error detection system design and implementation
+\end{itemize}
+
+% Skills
+\section{SKILLS}
+
+\textbf{Programming and Software:} Python (Advanced), MATLAB (Advanced), C/C++ (Intermediate), FastAPI, ROS (Robot Operating System), Pandas, Seaborn, Matplotlib, Streamlit, Git, Docker, Jupyter Notebook
+
+\vspace{0.2em}
+\textbf{AI and Machine Learning:} Reinforcement Learning (PPO, RL, IL), Large Language Models, Elasticsearch, Weaviate, Vector Databases
+
+\vspace{0.2em}
+\textbf{Embedded Systems and Control:} PID Control, Control System Design, MQTT Protocol, UWB Protocol, Industrial IoT Integration, UWB Sensors
+
+\vspace{0.2em}
+\textbf{Database and Data Processing:} MongoDB, Relational Databases, Data Processing, ETL Pipelines, Real-time Data Analytics
+
+\vspace{0.2em}
+\textbf{Other Competencies:} System Architecture Design, Team Leadership, Cross-disciplinary Collaboration, Technical Communication
+
+% Languages
+\section{LANGUAGES}
+
+\textbf{Vietnamese:} Native speaker
+
+\vspace{0.2em}
+\textbf{English:} IELTS Academic 5.0/9.0 (Score achieved: Feb 22, 2025; Valid until: May 22, 2027)
+
+Currently preparing for IELTS improvement to meet master's program requirements
+
+% References
+\section{REFERENCES}
+
+\textbf{Assoc. Prof. Dr. Pham Duc An}
+\newline
+Senior Lecturer, School of Mechanical Engineering
+\newline
+Vice Head, Department of Mechatronics Engineering
+\newline
+Hanoi University of Science and Technology (HUST)
+\newline
+\href{mailto:an.phamduc@hust.edu.vn}{an.phamduc@hust.edu.vn}
+
+\end{document}
